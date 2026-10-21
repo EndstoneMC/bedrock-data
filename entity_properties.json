@@ -1,0 +1,90 @@
+{
+  "entity_properties": [{
+    "properties": [{
+      "enum": ["unrolled", "rolled_up", "rolled_up_peeking", "rolled_up_relaxing", "rolled_up_unrolling"],
+      "name": "minecraft:armadillo_state",
+      "type": 3
+    }],
+    "type": "minecraft:armadillo"
+  }, {
+    "properties": [{
+      "name": "minecraft:has_nectar",
+      "type": 2
+    }],
+    "type": "minecraft:bee"
+  }, {
+    "properties": [{
+      "enum": ["temperate", "warm", "cold"],
+      "name": "minecraft:climate_variant",
+      "type": 3
+    }],
+    "type": "minecraft:chicken"
+  }, {
+    "properties": [{
+      "enum": ["none", "take", "take_fail", "put", "put_fail"],
+      "name": "minecraft:chest_interaction",
+      "type": 3
+    }, {
+      "name": "minecraft:has_flower",
+      "type": 2
+    }, {
+      "enum": ["unoxidized", "exposed", "weathered", "oxidized"],
+      "name": "minecraft:oxidation_level",
+      "type": 3
+    }],
+    "type": "minecraft:copper_golem"
+  }, {
+    "properties": [{
+      "enum": ["temperate", "warm", "cold"],
+      "name": "minecraft:climate_variant",
+      "type": 3
+    }],
+    "type": "minecraft:cow"
+  }, {
+    "properties": [{
+      "enum": ["neutral", "hostile_observed", "hostile_unobserved", "twitching", "crumbling"],
+      "name": "minecraft:creaking_state",
+      "type": 3
+    }, {
+      "max": 6,
+      "min": 0,
+      "name": "minecraft:creaking_swaying_ticks",
+      "type": 0
+    }],
+    "type": "minecraft:creaking"
+  }, {
+    "properties": [{
+      "enum": ["temperate", "warm", "cold"],
+      "name": "minecraft:climate_variant",
+      "type": 3
+    }],
+    "type": "minecraft:egg"
+  }, {
+    "properties": [{
+      "name": "minecraft:can_move",
+      "type": 2
+    }],
+    "type": "minecraft:happy_ghast"
+  }, {
+    "properties": [{
+      "enum": ["temperate", "warm", "cold"],
+      "name": "minecraft:climate_variant",
+      "type": 3
+    }],
+    "type": "minecraft:pig"
+  }, {
+    "properties": [{
+      "enum": ["default", "big", "cute", "grumpy", "mad", "puglin", "sad"],
+      "name": "minecraft:sound_variant",
+      "type": 3
+    }],
+    "type": "minecraft:wolf"
+  }, {
+    "properties": [{
+      "enum": ["default", "coral"],
+      "name": "minecraft:variant",
+      "type": 3
+    }],
+    "type": "minecraft:zombie_nautilus"
+  }]
+}
