@@ -1,0 +1,5 @@
+# Minecraft: Bedrock Edition Data (r26_u4)
+
+- **Current Release:** r26_u4
+- **Minecraft Version:** 1.26.45.1 (stable)
+- **Network Version:** 2169
