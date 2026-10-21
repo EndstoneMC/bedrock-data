@@ -1,0 +1,474 @@
+{
+  "names": [{
+    "name": "minecraft:empty",
+    "id": 0
+  }, {
+    "name": "minecraft:unit_cube",
+    "id": 1
+  }, {
+    "name": "minecraft:box_16x13x16",
+    "id": 2
+  }, {
+    "name": "minecraft:composter_level_3",
+    "id": 3
+  }, {
+    "name": "minecraft:box_16x4x16",
+    "id": 4
+  }, {
+    "name": "minecraft:composter_level_2",
+    "id": 5
+  }, {
+    "name": "minecraft:box_16x2x16",
+    "id": 6
+  }, {
+    "name": "minecraft:cake_bites_4",
+    "id": 7
+  }, {
+    "name": "minecraft:box_16x14x16",
+    "id": 8
+  }, {
+    "name": "minecraft:box_16x12x16",
+    "id": 9
+  }, {
+    "name": "minecraft:cake_bites_6",
+    "id": 10
+  }, {
+    "name": "minecraft:composter_level_7",
+    "id": 11
+  }, {
+    "name": "minecraft:composter_level_5",
+    "id": 12
+  }, {
+    "name": "minecraft:cake_bites_1",
+    "id": 13
+  }, {
+    "name": "minecraft:box_16x10x16",
+    "id": 14
+  }, {
+    "name": "minecraft:box_16x6x16",
+    "id": 15
+  }, {
+    "name": "minecraft:cake_bites_5",
+    "id": 16
+  }, {
+    "name": "minecraft:box_16x15x16",
+    "id": 17
+  }, {
+    "name": "minecraft:box_16x8x16",
+    "id": 18
+  }, {
+    "name": "minecraft:slab_type_top",
+    "id": 19
+  }, {
+    "name": "minecraft:candle_cake",
+    "id": 20
+  }, {
+    "name": "minecraft:cake_bites_2",
+    "id": 21
+  }, {
+    "name": "minecraft:composter_level_6",
+    "id": 22
+  }, {
+    "name": "minecraft:cake_bites_0",
+    "id": 23
+  }, {
+    "name": "minecraft:composter",
+    "id": 24
+  }, {
+    "name": "minecraft:composter_level_1",
+    "id": 25
+  }, {
+    "name": "minecraft:composter_level_4",
+    "id": 26
+  }, {
+    "name": "minecraft:box_16x9x16",
+    "id": 27
+  }, {
+    "name": "minecraft:cake_bites_3",
+    "id": 28
+  }, {
+    "name": "minecraft:box_16x1x16",
+    "id": 29
+  }],
+  "shapes": [{
+    "cells": {
+      "x_size": 0,
+      "y_size": 0,
+      "z_size": 0,
+      "storage": []
+    },
+    "x_coords": [0],
+    "y_coords": [0],
+    "z_coords": [0]
+  }, {
+    "cells": {
+      "x_size": 1,
+      "y_size": 1,
+      "z_size": 1,
+      "storage": [1]
+    },
+    "x_coords": [0, 1],
+    "y_coords": [0, 1],
+    "z_coords": [0, 1]
+  }, {
+    "cells": {
+      "x_size": 1,
+      "y_size": 1,
+      "z_size": 1,
+      "storage": [1]
+    },
+    "x_coords": [0, 1],
+    "y_coords": [0, 0.8125],
+    "z_coords": [0, 1]
+  }, {
+    "cells": {
+      "x_size": 3,
+      "y_size": 2,
+      "z_size": 3,
+      "storage": [255, 251, 3]
+    },
+    "x_coords": [0, 0.125, 0.875, 1],
+    "y_coords": [0, 0.4375, 1],
+    "z_coords": [0, 0.125, 0.875, 1]
+  }, {
+    "cells": {
+      "x_size": 1,
+      "y_size": 1,
+      "z_size": 1,
+      "storage": [1]
+    },
+    "x_coords": [0, 1],
+    "y_coords": [0, 0.25],
+    "z_coords": [0, 1]
+  }, {
+    "cells": {
+      "x_size": 3,
+      "y_size": 2,
+      "z_size": 3,
+      "storage": [255, 251, 3]
+    },
+    "x_coords": [0, 0.125, 0.875, 1],
+    "y_coords": [0, 0.3125, 1],
+    "z_coords": [0, 0.125, 0.875, 1]
+  }, {
+    "cells": {
+      "x_size": 1,
+      "y_size": 1,
+      "z_size": 1,
+      "storage": [1]
+    },
+    "x_coords": [0, 1],
+    "y_coords": [0, 0.125],
+    "z_coords": [0, 1]
+  }, {
+    "cells": {
+      "x_size": 1,
+      "y_size": 1,
+      "z_size": 1,
+      "storage": [1]
+    },
+    "x_coords": [0.5625, 0.9375],
+    "y_coords": [0, 0.5],
+    "z_coords": [0.0625, 0.9375]
+  }, {
+    "cells": {
+      "x_size": 1,
+      "y_size": 1,
+      "z_size": 1,
+      "storage": [1]
+    },
+    "x_coords": [0, 1],
+    "y_coords": [0, 0.875],
+    "z_coords": [0, 1]
+  }, {
+    "cells": {
+      "x_size": 1,
+      "y_size": 1,
+      "z_size": 1,
+      "storage": [1]
+    },
+    "x_coords": [0, 1],
+    "y_coords": [0, 0.75],
+    "z_coords": [0, 1]
+  }, {
+    "cells": {
+      "x_size": 1,
+      "y_size": 1,
+      "z_size": 1,
+      "storage": [1]
+    },
+    "x_coords": [0.8125, 0.9375],
+    "y_coords": [0, 0.5],
+    "z_coords": [0.0625, 0.9375]
+  }, {
+    "cells": {
+      "x_size": 3,
+      "y_size": 2,
+      "z_size": 3,
+      "storage": [255, 251, 3]
+    },
+    "x_coords": [0, 0.125, 0.875, 1],
+    "y_coords": [0, 0.9375, 1],
+    "z_coords": [0, 0.125, 0.875, 1]
+  }, {
+    "cells": {
+      "x_size": 3,
+      "y_size": 2,
+      "z_size": 3,
+      "storage": [255, 251, 3]
+    },
+    "x_coords": [0, 0.125, 0.875, 1],
+    "y_coords": [0, 0.6875, 1],
+    "z_coords": [0, 0.125, 0.875, 1]
+  }, {
+    "cells": {
+      "x_size": 1,
+      "y_size": 1,
+      "z_size": 1,
+      "storage": [1]
+    },
+    "x_coords": [0.1875, 0.9375],
+    "y_coords": [0, 0.5],
+    "z_coords": [0.0625, 0.9375]
+  }, {
+    "cells": {
+      "x_size": 1,
+      "y_size": 1,
+      "z_size": 1,
+      "storage": [1]
+    },
+    "x_coords": [0, 1],
+    "y_coords": [0, 0.625],
+    "z_coords": [0, 1]
+  }, {
+    "cells": {
+      "x_size": 1,
+      "y_size": 1,
+      "z_size": 1,
+      "storage": [1]
+    },
+    "x_coords": [0, 1],
+    "y_coords": [0, 0.375],
+    "z_coords": [0, 1]
+  }, {
+    "cells": {
+      "x_size": 1,
+      "y_size": 1,
+      "z_size": 1,
+      "storage": [1]
+    },
+    "x_coords": [0.6875, 0.9375],
+    "y_coords": [0, 0.5],
+    "z_coords": [0.0625, 0.9375]
+  }, {
+    "cells": {
+      "x_size": 1,
+      "y_size": 1,
+      "z_size": 1,
+      "storage": [1]
+    },
+    "x_coords": [0, 1],
+    "y_coords": [0, 0.9375],
+    "z_coords": [0, 1]
+  }, {
+    "cells": {
+      "x_size": 1,
+      "y_size": 1,
+      "z_size": 1,
+      "storage": [1]
+    },
+    "x_coords": [0, 1],
+    "y_coords": [0, 0.5],
+    "z_coords": [0, 1]
+  }, {
+    "cells": {
+      "x_size": 1,
+      "y_size": 1,
+      "z_size": 1,
+      "storage": [1]
+    },
+    "x_coords": [0, 1],
+    "y_coords": [0.5, 1],
+    "z_coords": [0, 1]
+  }, {
+    "cells": {
+      "x_size": 3,
+      "y_size": 2,
+      "z_size": 3,
+      "storage": [199, 117, 0]
+    },
+    "x_coords": [0.0625, 0.4375, 0.5625, 0.9375],
+    "y_coords": [0, 0.5, 0.875],
+    "z_coords": [0.0625, 0.4375, 0.5625, 0.9375]
+  }, {
+    "cells": {
+      "x_size": 1,
+      "y_size": 1,
+      "z_size": 1,
+      "storage": [1]
+    },
+    "x_coords": [0.3125, 0.9375],
+    "y_coords": [0, 0.5],
+    "z_coords": [0.0625, 0.9375]
+  }, {
+    "cells": {
+      "x_size": 3,
+      "y_size": 2,
+      "z_size": 3,
+      "storage": [255, 251, 3]
+    },
+    "x_coords": [0, 0.125, 0.875, 1],
+    "y_coords": [0, 0.8125, 1],
+    "z_coords": [0, 0.125, 0.875, 1]
+  }, {
+    "cells": {
+      "x_size": 1,
+      "y_size": 1,
+      "z_size": 1,
+      "storage": [1]
+    },
+    "x_coords": [0.0625, 0.9375],
+    "y_coords": [0, 0.5],
+    "z_coords": [0.0625, 0.9375]
+  }, {
+    "cells": {
+      "x_size": 3,
+      "y_size": 2,
+      "z_size": 3,
+      "storage": [255, 251, 3]
+    },
+    "x_coords": [0, 0.125, 0.875, 1],
+    "y_coords": [0, 0.125, 1],
+    "z_coords": [0, 0.125, 0.875, 1]
+  }, {
+    "cells": {
+      "x_size": 3,
+      "y_size": 2,
+      "z_size": 3,
+      "storage": [255, 251, 3]
+    },
+    "x_coords": [0, 0.125, 0.875, 1],
+    "y_coords": [0, 0.1875, 1],
+    "z_coords": [0, 0.125, 0.875, 1]
+  }, {
+    "cells": {
+      "x_size": 3,
+      "y_size": 2,
+      "z_size": 3,
+      "storage": [255, 251, 3]
+    },
+    "x_coords": [0, 0.125, 0.875, 1],
+    "y_coords": [0, 0.5625, 1],
+    "z_coords": [0, 0.125, 0.875, 1]
+  }, {
+    "cells": {
+      "x_size": 1,
+      "y_size": 1,
+      "z_size": 1,
+      "storage": [1]
+    },
+    "x_coords": [0, 1],
+    "y_coords": [0, 0.5625],
+    "z_coords": [0, 1]
+  }, {
+    "cells": {
+      "x_size": 1,
+      "y_size": 1,
+      "z_size": 1,
+      "storage": [1]
+    },
+    "x_coords": [0.4375, 0.9375],
+    "y_coords": [0, 0.5],
+    "z_coords": [0.0625, 0.9375]
+  }, {
+    "cells": {
+      "x_size": 1,
+      "y_size": 1,
+      "z_size": 1,
+      "storage": [1]
+    },
+    "x_coords": [0, 1],
+    "y_coords": [0, 0.0625],
+    "z_coords": [0, 1]
+  }, {
+    "cells": {
+      "x_size": 1,
+      "y_size": 1,
+      "z_size": 1,
+      "storage": [1]
+    },
+    "x_coords": [0.0625, 0.9375],
+    "y_coords": [0, 1],
+    "z_coords": [0.0625, 0.9375]
+  }, {
+    "cells": {
+      "x_size": 3,
+      "y_size": 1,
+      "z_size": 3,
+      "storage": [239, 1]
+    },
+    "x_coords": [0, 0.125, 0.875, 1],
+    "y_coords": [0, 1],
+    "z_coords": [0, 0.125, 0.875, 1]
+  }, {
+    "cells": {
+      "x_size": 1,
+      "y_size": 1,
+      "z_size": 1,
+      "storage": [1]
+    },
+    "x_coords": [0.1875, 0.9375],
+    "y_coords": [0, 1],
+    "z_coords": [0.0625, 0.9375]
+  }, {
+    "cells": {
+      "x_size": 1,
+      "y_size": 1,
+      "z_size": 1,
+      "storage": [1]
+    },
+    "x_coords": [0.3125, 0.9375],
+    "y_coords": [0, 1],
+    "z_coords": [0.0625, 0.9375]
+  }, {
+    "cells": {
+      "x_size": 1,
+      "y_size": 1,
+      "z_size": 1,
+      "storage": [1]
+    },
+    "x_coords": [0.4375, 0.9375],
+    "y_coords": [0, 1],
+    "z_coords": [0.0625, 0.9375]
+  }, {
+    "cells": {
+      "x_size": 1,
+      "y_size": 1,
+      "z_size": 1,
+      "storage": [1]
+    },
+    "x_coords": [0.5625, 0.9375],
+    "y_coords": [0, 1],
+    "z_coords": [0.0625, 0.9375]
+  }, {
+    "cells": {
+      "x_size": 1,
+      "y_size": 1,
+      "z_size": 1,
+      "storage": [1]
+    },
+    "x_coords": [0.6875, 0.9375],
+    "y_coords": [0, 1],
+    "z_coords": [0.0625, 0.9375]
+  }, {
+    "cells": {
+      "x_size": 1,
+      "y_size": 1,
+      "z_size": 1,
+      "storage": [1]
+    },
+    "x_coords": [0.8125, 0.9375],
+    "y_coords": [0, 1],
+    "z_coords": [0.0625, 0.9375]
+  }]
+}
