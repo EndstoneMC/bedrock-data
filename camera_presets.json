@@ -1,0 +1,49 @@
+{
+  "presets": [{
+    "name": "minecraft:follow_orbit",
+    "inherit_from": "",
+    "view_offset": {
+      "x": 0,
+      "y": 0
+    },
+    "entity_offset": {
+      "x": -0,
+      "y": 0,
+      "z": 0
+    },
+    "radius": 10
+  }, {
+    "name": "minecraft:free",
+    "inherit_from": "",
+    "pos_x": 0,
+    "pos_y": 0,
+    "pos_z": 0,
+    "rot_x": 0,
+    "rot_y": 0
+  }, {
+    "name": "minecraft:fixed_boom",
+    "inherit_from": "",
+    "view_offset": {
+      "x": 0,
+      "y": 0
+    },
+    "entity_offset": {
+      "x": -0,
+      "y": 0,
+      "z": 0
+    }
+  }, {
+    "name": "minecraft:third_person",
+    "inherit_from": ""
+  }, {
+    "name": "minecraft:first_person",
+    "inherit_from": ""
+  }, {
+    "name": "minecraft:third_person_front",
+    "inherit_from": ""
+  }, {
+    "name": "minecraft:control_scheme_camera",
+    "inherit_from": "minecraft:follow_orbit",
+    "control_scheme": 1
+  }]
+}
