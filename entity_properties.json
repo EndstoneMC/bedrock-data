@@ -1,0 +1,35 @@
+{
+  "entity_properties": [{
+    "properties": [{
+      "enum": ["unrolled", "rolled_up", "rolled_up_peeking", "rolled_up_relaxing", "rolled_up_unrolling"],
+      "name": "minecraft:armadillo_state",
+      "type": 3
+    }],
+    "type": "minecraft:armadillo"
+  }, {
+    "properties": [{
+      "name": "minecraft:has_nectar",
+      "type": 2
+    }],
+    "type": "minecraft:bee"
+  }, {
+    "properties": [{
+      "enum": ["neutral", "hostile_observed", "hostile_unobserved", "twitching", "crumbling"],
+      "name": "minecraft:creaking_state",
+      "type": 3
+    }, {
+      "max": 6,
+      "min": 0,
+      "name": "minecraft:creaking_swaying_ticks",
+      "type": 0
+    }],
+    "type": "minecraft:creaking"
+  }, {
+    "properties": [{
+      "enum": ["temperate", "warm", "cold"],
+      "name": "minecraft:climate_variant",
+      "type": 3
+    }],
+    "type": "minecraft:pig"
+  }]
+}
