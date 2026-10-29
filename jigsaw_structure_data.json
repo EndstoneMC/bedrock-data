@@ -9050,6 +9050,294 @@
     }],
     "fallback": "minecraft:empty"
   }, {
+    "identifier": "minecraft:trail_ruins/buildings",
+    "elements": [{
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/group_hall_1",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/group_hall_2",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/group_hall_3",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/group_hall_4",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/group_hall_5",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/large_room_1",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/large_room_2",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/large_room_3",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/large_room_4",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/large_room_5",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/one_room_1",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/one_room_2",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/one_room_3",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/one_room_4",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/one_room_5",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }],
+    "fallback": "minecraft:empty"
+  }, {
+    "identifier": "minecraft:trail_ruins/decor",
+    "elements": [{
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/decor/decor_1",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/decor/decor_2",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/decor/decor_3",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/decor/decor_4",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/decor/decor_5",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/decor/decor_6",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/decor/decor_7",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }],
+    "fallback": "minecraft:empty"
+  }, {
+    "identifier": "minecraft:trail_ruins/roads",
+    "elements": [{
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/roads/long_road_end",
+        "processors": "minecraft:trail_ruins_roads_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/roads/road_end_1",
+        "processors": "minecraft:trail_ruins_roads_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/roads/road_section_1",
+        "processors": "minecraft:trail_ruins_roads_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/roads/road_section_2",
+        "processors": "minecraft:trail_ruins_roads_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/roads/road_section_3",
+        "processors": "minecraft:trail_ruins_roads_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/roads/road_section_4",
+        "processors": "minecraft:trail_ruins_roads_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/roads/road_spacer_1",
+        "processors": "minecraft:trail_ruins_roads_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }],
+    "fallback": "minecraft:empty"
+  }, {
+    "identifier": "minecraft:trail_ruins/tower",
+    "elements": [{
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/tower/tower_1",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/tower/tower_2",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/tower/tower_3",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/tower/tower_4",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/tower/tower_5",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }],
+    "fallback": "minecraft:empty"
+  }, {
     "identifier": "minecraft:trail_ruins/buildings/grouped",
     "elements": [{
       "element": {
@@ -9456,294 +9744,6 @@
         "type": "single",
         "location": "trail_ruins/tower/tower_top_5",
         "processors": "minecraft:trail_ruins_tower_top_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }],
-    "fallback": "minecraft:empty"
-  }, {
-    "identifier": "minecraft:trail_ruins/buildings",
-    "elements": [{
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/group_hall_1",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }, {
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/group_hall_2",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }, {
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/group_hall_3",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }, {
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/group_hall_4",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }, {
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/group_hall_5",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }, {
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/large_room_1",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }, {
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/large_room_2",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }, {
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/large_room_3",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }, {
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/large_room_4",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }, {
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/large_room_5",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }, {
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/one_room_1",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }, {
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/one_room_2",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }, {
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/one_room_3",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }, {
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/one_room_4",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }, {
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/one_room_5",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }],
-    "fallback": "minecraft:empty"
-  }, {
-    "identifier": "minecraft:trail_ruins/decor",
-    "elements": [{
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/decor/decor_1",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }, {
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/decor/decor_2",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }, {
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/decor/decor_3",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }, {
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/decor/decor_4",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }, {
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/decor/decor_5",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }, {
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/decor/decor_6",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }, {
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/decor/decor_7",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }],
-    "fallback": "minecraft:empty"
-  }, {
-    "identifier": "minecraft:trail_ruins/roads",
-    "elements": [{
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/roads/long_road_end",
-        "processors": "minecraft:trail_ruins_roads_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }, {
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/roads/road_end_1",
-        "processors": "minecraft:trail_ruins_roads_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }, {
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/roads/road_section_1",
-        "processors": "minecraft:trail_ruins_roads_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }, {
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/roads/road_section_2",
-        "processors": "minecraft:trail_ruins_roads_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }, {
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/roads/road_section_3",
-        "processors": "minecraft:trail_ruins_roads_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }, {
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/roads/road_section_4",
-        "processors": "minecraft:trail_ruins_roads_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }, {
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/roads/road_spacer_1",
-        "processors": "minecraft:trail_ruins_roads_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }],
-    "fallback": "minecraft:empty"
-  }, {
-    "identifier": "minecraft:trail_ruins/tower",
-    "elements": [{
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/tower/tower_1",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }, {
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/tower/tower_2",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }, {
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/tower/tower_3",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }, {
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/tower/tower_4",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
-      },
-      "weight": 1
-    }, {
-      "element": {
-        "type": "single",
-        "location": "trail_ruins/tower/tower_5",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
         "projection": 0
       },
       "weight": 1

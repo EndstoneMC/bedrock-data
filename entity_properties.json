@@ -99,7 +99,7 @@
     "type": "minecraft:pig"
   }, {
     "properties": [{
-      "enum": ["none", "bouncy", "regular", "slow_bouncy", "slow_flat", "fast_flat", "light", "fast_sliding", "slow_sliding", "sticky", "high_resistance", "explosive", "hot"],
+      "enum": ["none", "bouncy", "regular", "slow_bouncy", "slow_flat", "fast_flat", "light", "fast_sliding", "slow_sliding", "sticky", "high_resistance", "explosive", "hot", "cold"],
       "name": "minecraft:sulfur_cube_archetype",
       "type": 3
     }],

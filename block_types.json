@@ -2339,6 +2339,18 @@
     "consumer_component": false,
     "tags": ["minecraft:is_pickaxe_item_destructible"]
   }, {
+    "name": "minecraft:chiseled_packed_ice",
+    "default_state_id": -2123236012,
+    "thickness": 0,
+    "translucency": 0,
+    "requires_correct_tool_for_drops": false,
+    "tint_method": "none",
+    "material_type": 23,
+    "signal_source": false,
+    "consumer_component": false,
+    "tags": ["minecraft:is_pickaxe_item_destructible"],
+    "definition": "{vanilla_block_data:{block_id:1513,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'',category:'nature',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.5f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'},'minecraft:geometry':{bone_visibility:{},culling:'',culling_layer:'minecraft:culling_layer.undefined',culling_shape:'',identifier:'minecraft:geometry.full_block',ignoreGeometryForIsSolid:0b,isV1Fullblock:0b,needsLegacyTopRotation:0b,useBlockTypeLightAbsorption:0b,uv_lock:0b},'minecraft:material_instances':{mappings:{},materials:{'*':{ambient_occlusion:1.0f,packed_bools:5b,render_method:'opaque',texture:'chiseled_packed_ice',tint_method:'none'}}}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
+  }, {
     "name": "minecraft:chiseled_polished_blackstone",
     "default_state_id": -157993866,
     "thickness": 0,
@@ -10450,6 +10462,54 @@
     "consumer_component": false,
     "tags": ["minecraft:is_pickaxe_item_destructible"]
   }, {
+    "name": "minecraft:packed_ice_brick_double_slab",
+    "default_state_id": 2008216071,
+    "thickness": 0,
+    "translucency": 0,
+    "requires_correct_tool_for_drops": false,
+    "tint_method": "none",
+    "material_type": 23,
+    "signal_source": false,
+    "consumer_component": false,
+    "tags": ["minecraft:is_pickaxe_item_destructible"],
+    "definition": "{vanilla_block_data:{block_id:1515,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.5f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
+  }, {
+    "name": "minecraft:packed_ice_brick_slab",
+    "default_state_id": 812575032,
+    "thickness": 0,
+    "translucency": 0,
+    "requires_correct_tool_for_drops": false,
+    "tint_method": "none",
+    "material_type": 23,
+    "signal_source": false,
+    "consumer_component": false,
+    "tags": ["minecraft:is_pickaxe_item_destructible"],
+    "definition": "{vanilla_block_data:{block_id:1511,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'nature',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.5f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
+  }, {
+    "name": "minecraft:packed_ice_brick_stairs",
+    "default_state_id": -1656925401,
+    "thickness": 0,
+    "translucency": 0.8,
+    "requires_correct_tool_for_drops": false,
+    "tint_method": "none",
+    "material_type": 23,
+    "signal_source": false,
+    "consumer_component": false,
+    "tags": ["minecraft:cornerable_stairs", "minecraft:is_pickaxe_item_destructible"],
+    "definition": "{vanilla_block_data:{block_id:1512,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'nature',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.5f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
+  }, {
+    "name": "minecraft:packed_ice_brick_wall",
+    "default_state_id": -1189732446,
+    "thickness": 0,
+    "translucency": 0.8,
+    "requires_correct_tool_for_drops": false,
+    "tint_method": "none",
+    "material_type": 23,
+    "signal_source": false,
+    "consumer_component": false,
+    "tags": ["minecraft:is_pickaxe_item_destructible"],
+    "definition": "{vanilla_block_data:{block_id:1514,material:'solid'},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:0b}}"
+  }, {
     "name": "minecraft:packed_ice_bricks",
     "default_state_id": 36199663,
     "thickness": 0,
@@ -10460,67 +10520,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_pickaxe_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1505,material:'solid'},molangVersion:13,menu_category:{group:'',category:'nature',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.5f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'},'minecraft:geometry':{bone_visibility:{},culling:'',culling_layer:'minecraft:culling_layer.undefined',culling_shape:'',identifier:'minecraft:geometry.full_block',ignoreGeometryForIsSolid:0b,isV1Fullblock:0b,needsLegacyTopRotation:0b,useBlockTypeLightAbsorption:0b,uv_lock:0b},'minecraft:material_instances':{mappings:{},materials:{'*':{ambient_occlusion:1.0f,packed_bools:5b,render_method:'opaque',texture:'packed_ice_bricks',tint_method:'none'}}}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
-  }, {
-    "name": "minecraft:packed_ice_bricks_chiseled",
-    "default_state_id": -910156898,
-    "thickness": 0,
-    "translucency": 0,
-    "requires_correct_tool_for_drops": false,
-    "tint_method": "none",
-    "material_type": 23,
-    "signal_source": false,
-    "consumer_component": false,
-    "tags": ["minecraft:is_pickaxe_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1513,material:'solid'},molangVersion:13,menu_category:{group:'',category:'nature',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.5f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'},'minecraft:geometry':{bone_visibility:{},culling:'',culling_layer:'minecraft:culling_layer.undefined',culling_shape:'',identifier:'minecraft:geometry.full_block',ignoreGeometryForIsSolid:0b,isV1Fullblock:0b,needsLegacyTopRotation:0b,useBlockTypeLightAbsorption:0b,uv_lock:0b},'minecraft:material_instances':{mappings:{},materials:{'*':{ambient_occlusion:1.0f,packed_bools:5b,render_method:'opaque',texture:'chiseled_packed_ice',tint_method:'none'}}}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
-  }, {
-    "name": "minecraft:packed_ice_bricks_double_slab",
-    "default_state_id": -153503897,
-    "thickness": 0,
-    "translucency": 0,
-    "requires_correct_tool_for_drops": false,
-    "tint_method": "none",
-    "material_type": 23,
-    "signal_source": false,
-    "consumer_component": false,
-    "tags": ["minecraft:is_pickaxe_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1515,material:'solid'},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.5f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
-  }, {
-    "name": "minecraft:packed_ice_bricks_slab",
-    "default_state_id": -509322632,
-    "thickness": 0,
-    "translucency": 0,
-    "requires_correct_tool_for_drops": false,
-    "tint_method": "none",
-    "material_type": 23,
-    "signal_source": false,
-    "consumer_component": false,
-    "tags": ["minecraft:is_pickaxe_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1511,material:'solid'},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'nature',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.5f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
-  }, {
-    "name": "minecraft:packed_ice_bricks_stairs",
-    "default_state_id": 1706147455,
-    "thickness": 0,
-    "translucency": 0.8,
-    "requires_correct_tool_for_drops": false,
-    "tint_method": "none",
-    "material_type": 23,
-    "signal_source": false,
-    "consumer_component": false,
-    "tags": ["minecraft:cornerable_stairs", "minecraft:is_pickaxe_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1512,material:'solid'},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'nature',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.5f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
-  }, {
-    "name": "minecraft:packed_ice_bricks_wall",
-    "default_state_id": -884575518,
-    "thickness": 0,
-    "translucency": 0.8,
-    "requires_correct_tool_for_drops": false,
-    "tint_method": "none",
-    "material_type": 23,
-    "signal_source": false,
-    "consumer_component": false,
-    "tags": ["minecraft:is_pickaxe_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1514,material:'solid'},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:0b}}"
+    "definition": "{vanilla_block_data:{block_id:1505,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'',category:'nature',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.5f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'},'minecraft:geometry':{bone_visibility:{},culling:'',culling_layer:'minecraft:culling_layer.undefined',culling_shape:'',identifier:'minecraft:geometry.full_block',ignoreGeometryForIsSolid:0b,isV1Fullblock:0b,needsLegacyTopRotation:0b,useBlockTypeLightAbsorption:0b,uv_lock:0b},'minecraft:material_instances':{mappings:{},materials:{'*':{ambient_occlusion:1.0f,packed_bools:5b,render_method:'opaque',texture:'packed_ice_bricks',tint_method:'none'}}}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
   }, {
     "name": "minecraft:packed_mud",
     "default_state_id": -224235564,
@@ -13412,6 +13412,66 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shovel_item_destructible"]
+  }, {
+    "name": "minecraft:snow_brick_double_slab",
+    "default_state_id": -147206656,
+    "thickness": 0,
+    "translucency": 0,
+    "requires_correct_tool_for_drops": false,
+    "tint_method": "none",
+    "material_type": 23,
+    "signal_source": false,
+    "consumer_component": false,
+    "tags": ["minecraft:is_shovel_item_destructible"],
+    "definition": "{vanilla_block_data:{block_id:1519,material:'solid'},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.5f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'}},blockTags:['minecraft:is_shovel_item_destructible']}"
+  }, {
+    "name": "minecraft:snow_brick_slab",
+    "default_state_id": 2003876729,
+    "thickness": 0,
+    "translucency": 0,
+    "requires_correct_tool_for_drops": false,
+    "tint_method": "none",
+    "material_type": 23,
+    "signal_source": false,
+    "consumer_component": false,
+    "tags": ["minecraft:is_shovel_item_destructible"],
+    "definition": "{vanilla_block_data:{block_id:1518,material:'solid'},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'nature',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.5f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]}},blockTags:['minecraft:is_shovel_item_destructible']}"
+  }, {
+    "name": "minecraft:snow_brick_stairs",
+    "default_state_id": -22462912,
+    "thickness": 0,
+    "translucency": 0.8,
+    "requires_correct_tool_for_drops": false,
+    "tint_method": "none",
+    "material_type": 23,
+    "signal_source": false,
+    "consumer_component": false,
+    "tags": ["minecraft:cornerable_stairs", "minecraft:is_shovel_item_destructible"],
+    "definition": "{vanilla_block_data:{block_id:1517,material:'solid'},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'nature',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.5f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shovel_item_destructible']}"
+  }, {
+    "name": "minecraft:snow_brick_wall",
+    "default_state_id": -1338920731,
+    "thickness": 0,
+    "translucency": 0.8,
+    "requires_correct_tool_for_drops": false,
+    "tint_method": "none",
+    "material_type": 23,
+    "signal_source": false,
+    "consumer_component": false,
+    "tags": ["minecraft:is_shovel_item_destructible"],
+    "definition": "{vanilla_block_data:{block_id:1520,material:'solid'},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.5f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]}},blockTags:['minecraft:is_shovel_item_destructible']}"
+  }, {
+    "name": "minecraft:snow_bricks",
+    "default_state_id": 750712402,
+    "thickness": 0,
+    "translucency": 0,
+    "requires_correct_tool_for_drops": false,
+    "tint_method": "none",
+    "material_type": 23,
+    "signal_source": false,
+    "consumer_component": false,
+    "tags": ["minecraft:is_shovel_item_destructible"],
+    "definition": "{vanilla_block_data:{block_id:1516,material:'solid'},molangVersion:13,menu_category:{group:'',category:'nature',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.5f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'},'minecraft:geometry':{bone_visibility:{},culling:'',culling_layer:'minecraft:culling_layer.undefined',culling_shape:'',identifier:'minecraft:geometry.full_block',ignoreGeometryForIsSolid:0b,isV1Fullblock:0b,needsLegacyTopRotation:0b,useBlockTypeLightAbsorption:0b,uv_lock:0b},'minecraft:material_instances':{mappings:{},materials:{'*':{ambient_occlusion:1.0f,packed_bools:5b,render_method:'opaque',texture:'snow_bricks',tint_method:'none'}}}},blockTags:['minecraft:is_shovel_item_destructible']}"
   }, {
     "name": "minecraft:snow_layer",
     "default_state_id": -595350462,
