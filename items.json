@@ -568,7 +568,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:apple",
-    "id": 886,
+    "id": 887,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:2,creative_group:'',damage:0,enchantable_slot:'none',enchantable_value:0,foil:0b,frame_count:1,hand_equipped:0b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:64,'minecraft:icon':{textures:{default:'apple'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:1,use_duration:32},item_tags:['minecraft:is_food'],'minecraft:display_name':{value:'item.apple.name'},'minecraft:food':{can_always_eat:0b,nutrition:4,saturation_modifier:0.3f,using_converts_to:{}},'minecraft:tags':{tags:['minecraft:is_food']},'minecraft:use_animation':{value:'eat'},'minecraft:use_modifiers':{emit_vibrations:1b,movement_modifier:0.35f,start_using:'always',use_duration:1.6f}}",
@@ -1163,7 +1163,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:banner_pattern",
-    "id": 850,
+    "id": 851,
     "version": 2,
     "component_based": false,
     "tags": [],
@@ -1731,7 +1731,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:black_bundle",
-    "id": 865,
+    "id": 866,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:3,creative_group:'',damage:0,enchantable_slot:'none',enchantable_value:0,foil:0b,frame_count:1,hand_equipped:0b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:1,'minecraft:icon':{textures:{bundle_open_back:'bundle_black_open_back',bundle_open_front:'bundle_black_open_front',default:'bundle_black'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:0},item_tags:[],'minecraft:bundle_interaction':{num_viewable_slots:12},'minecraft:max_stack_size':{value:1b},'minecraft:storage_item':{allow_nested_storage_items:1b,allowed_items:[],banned_items:[{name:'minecraft:shulker_box'},{name:'minecraft:undyed_shulker_box'}],max_slots:64},'minecraft:storage_weight_limit':{max_weight_limit:64},'minecraft:storage_weight_modifier':{weight_in_storage_item:4}}",
@@ -2208,7 +2208,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:blue_bundle",
-    "id": 866,
+    "id": 867,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:3,creative_group:'',damage:0,enchantable_slot:'none',enchantable_value:0,foil:0b,frame_count:1,hand_equipped:0b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:1,'minecraft:icon':{textures:{bundle_open_back:'bundle_blue_open_back',bundle_open_front:'bundle_blue_open_front',default:'bundle_blue'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:0},item_tags:[],'minecraft:bundle_interaction':{num_viewable_slots:12},'minecraft:max_stack_size':{value:1b},'minecraft:storage_item':{allow_nested_storage_items:1b,allowed_items:[],banned_items:[{name:'minecraft:shulker_box'},{name:'minecraft:undyed_shulker_box'}],max_slots:64},'minecraft:storage_weight_limit':{max_weight_limit:64},'minecraft:storage_weight_modifier':{weight_in_storage_item:4}}",
@@ -2583,7 +2583,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:boat",
-    "id": 846,
+    "id": 847,
     "version": 2,
     "component_based": false,
     "tags": [],
@@ -2834,7 +2834,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:breeze_rod",
-    "id": 882,
+    "id": 883,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:4,creative_group:'',damage:0,enchantable_slot:'none',enchantable_value:0,foil:0b,frame_count:1,hand_equipped:1b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:64,'minecraft:icon':{textures:{default:'breeze_rod'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:0},item_tags:[],'minecraft:display_name':{value:'item.breeze_rod.name'},'minecraft:hand_equipped':{value:1b}}",
@@ -2997,7 +2997,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:brown_bundle",
-    "id": 867,
+    "id": 868,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:3,creative_group:'',damage:0,enchantable_slot:'none',enchantable_value:0,foil:0b,frame_count:1,hand_equipped:0b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:1,'minecraft:icon':{textures:{bundle_open_back:'bundle_brown_open_back',bundle_open_front:'bundle_brown_open_front',default:'bundle_brown'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:0},item_tags:[],'minecraft:bundle_interaction':{num_viewable_slots:12},'minecraft:max_stack_size':{value:1b},'minecraft:storage_item':{allow_nested_storage_items:1b,allowed_items:[],banned_items:[{name:'minecraft:shulker_box'},{name:'minecraft:undyed_shulker_box'}],max_slots:64},'minecraft:storage_weight_limit':{max_weight_limit:64},'minecraft:storage_weight_modifier':{weight_in_storage_item:4}}",
@@ -3477,7 +3477,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:bundle",
-    "id": 868,
+    "id": 869,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:3,creative_group:'',damage:0,enchantable_slot:'none',enchantable_value:0,foil:0b,frame_count:1,hand_equipped:0b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:1,'minecraft:icon':{textures:{bundle_open_back:'bundle_open_back',bundle_open_front:'bundle_open_front',default:'bundle'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:0},item_tags:[],'minecraft:bundle_interaction':{num_viewable_slots:12},'minecraft:max_stack_size':{value:1b},'minecraft:storage_item':{allow_nested_storage_items:1b,allowed_items:[],banned_items:[{name:'minecraft:shulker_box'},{name:'minecraft:undyed_shulker_box'}],max_slots:64},'minecraft:storage_weight_limit':{max_weight_limit:64},'minecraft:storage_weight_modifier':{weight_in_storage_item:4}}",
@@ -3571,6 +3571,81 @@
     "component_based": false,
     "components": "{'minecraft:block':'minecraft:calcite'}",
     "tags": ["minecraft:sulfur_cube_archetype_slow_bouncy"],
+    "max_stack_size": 64,
+    "max_damage": 0,
+    "damageable": false,
+    "attack_damage": 0,
+    "armor_value": 0,
+    "enchant_value": 0,
+    "toughness_value": 0,
+    "furnace_xp_multiplier": 0
+  }, {
+    "name": "minecraft:calcite_double_slab",
+    "id": -1268,
+    "version": 2,
+    "component_based": false,
+    "components": "{'minecraft:block':'minecraft:calcite_double_slab','minecraft:stacked_by_data':1b}",
+    "tags": [],
+    "max_stack_size": 64,
+    "max_damage": 0,
+    "damageable": false,
+    "attack_damage": 0,
+    "armor_value": 0,
+    "enchant_value": 0,
+    "toughness_value": 0,
+    "furnace_xp_multiplier": 0
+  }, {
+    "name": "minecraft:calcite_pillar",
+    "id": -1270,
+    "version": 2,
+    "component_based": false,
+    "components": "{'minecraft:block':'minecraft:calcite_pillar'}",
+    "tags": ["minecraft:sulfur_cube_archetype_slow_bouncy"],
+    "max_stack_size": 64,
+    "max_damage": 0,
+    "damageable": false,
+    "attack_damage": 0,
+    "armor_value": 0,
+    "enchant_value": 0,
+    "toughness_value": 0,
+    "furnace_xp_multiplier": 0
+  }, {
+    "name": "minecraft:calcite_slab",
+    "id": -1267,
+    "version": 2,
+    "component_based": false,
+    "components": "{'minecraft:block':'minecraft:calcite_slab','minecraft:stacked_by_data':1b}",
+    "tags": [],
+    "max_stack_size": 64,
+    "max_damage": 0,
+    "damageable": false,
+    "attack_damage": 0,
+    "armor_value": 0,
+    "enchant_value": 0,
+    "toughness_value": 0,
+    "furnace_xp_multiplier": 0
+  }, {
+    "name": "minecraft:calcite_stairs",
+    "id": -1266,
+    "version": 2,
+    "component_based": false,
+    "components": "{'minecraft:block':'minecraft:calcite_stairs'}",
+    "tags": [],
+    "max_stack_size": 64,
+    "max_damage": 0,
+    "damageable": false,
+    "attack_damage": 0,
+    "armor_value": 0,
+    "enchant_value": 0,
+    "toughness_value": 0,
+    "furnace_xp_multiplier": 0
+  }, {
+    "name": "minecraft:calcite_wall",
+    "id": -1269,
+    "version": 2,
+    "component_based": false,
+    "components": "{'minecraft:block':'minecraft:calcite_wall'}",
+    "tags": [],
     "max_stack_size": 64,
     "max_damage": 0,
     "damageable": false,
@@ -3985,7 +4060,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:chemistry_table",
-    "id": 839,
+    "id": 840,
     "version": 2,
     "component_based": false,
     "tags": [],
@@ -4556,6 +4631,21 @@
     "version": 2,
     "component_based": false,
     "components": "{'minecraft:block':'minecraft:chiseled_sandstone'}",
+    "tags": ["minecraft:sulfur_cube_archetype_slow_bouncy"],
+    "max_stack_size": 64,
+    "max_damage": 0,
+    "damageable": false,
+    "attack_damage": 0,
+    "armor_value": 0,
+    "enchant_value": 0,
+    "toughness_value": 0,
+    "furnace_xp_multiplier": 0
+  }, {
+    "name": "minecraft:chiseled_soulshale",
+    "id": -1281,
+    "version": 2,
+    "component_based": false,
+    "components": "{'minecraft:block':'minecraft:chiseled_soulshale'}",
     "tags": ["minecraft:sulfur_cube_archetype_slow_bouncy"],
     "max_stack_size": 64,
     "max_damage": 0,
@@ -5194,7 +5284,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:colored_torch_bp",
-    "id": 844,
+    "id": 845,
     "version": 2,
     "component_based": false,
     "tags": [],
@@ -5253,7 +5343,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:colored_torch_rg",
-    "id": 843,
+    "id": 844,
     "version": 2,
     "component_based": false,
     "tags": [],
@@ -5876,7 +5966,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:copper_spear",
-    "id": 858,
+    "id": 859,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:3,creative_group:'',damage:2,enchantable_slot:'melee_spear',enchantable_value:13,foil:0b,frame_count:1,hand_equipped:1b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:1,'minecraft:icon':{textures:{default:'copper_spear'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:1440000},item_tags:['minecraft:copper_tier','minecraft:is_spear'],'minecraft:cooldown':{category:'spear',duration:0.85f,type:'attack'},'minecraft:damage':{value:2s},'minecraft:display_name':{value:'item.copper_spear.name'},'minecraft:durability':{damage_chance:{max:100,min:0},max_durability:190},'minecraft:enchantable':{slot:'melee_spear',value:13b},'minecraft:hand_equipped':{value:1b},'minecraft:kinetic_weapon':{'minecraft:kinetic_weapon':{creative_reach:{max:7.5f,min:2.0f},damage_conditions:{max_duration:250s,min_relative_speed:4.6f,min_speed:0.0f},damage_modifier:0.0f,damage_multiplier:0.82f,delay:13s,dismount_conditions:{max_duration:80s,min_relative_speed:0.0f,min_speed:12.0f},hitbox_margin:0.25f,knockback_conditions:{max_duration:165s,min_relative_speed:0.0f,min_speed:5.1f},reach:{max:4.5f,min:2.0f}}},'minecraft:max_stack_size':{value:1b},'minecraft:piercing_weapon':{creative_reach:{max:7.5f,min:2.0f},hitbox_margin:0.25f,reach:{max:4.5f,min:2.0f}},'minecraft:repairable':{repair_items:[{items:[{name:'minecraft:copper_spear'}],repair_amount:'context.other->query.remaining_durability'},{items:[{name:'minecraft:copper_ingot'}],repair_amount:'query.max_durability * 0.25'}]},'minecraft:swing_duration':{value:0.85f},'minecraft:swing_sounds':{attack_hit:'item.copper_spear.attack_hit',attack_miss:'item.copper_spear.attack_miss'},'minecraft:tags':{tags:['minecraft:copper_tier','minecraft:is_spear']},'minecraft:use_modifiers':{emit_vibrations:0b,movement_modifier:1.0f,start_sound:'item.copper_spear.use',start_using:'always',use_duration:72000.0f}}",
@@ -6666,7 +6756,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:cyan_bundle",
-    "id": 869,
+    "id": 870,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:3,creative_group:'',damage:0,enchantable_slot:'none',enchantable_value:0,foil:0b,frame_count:1,hand_equipped:0b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:1,'minecraft:icon':{textures:{bundle_open_back:'bundle_cyan_open_back',bundle_open_front:'bundle_cyan_open_front',default:'bundle_cyan'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:0},item_tags:[],'minecraft:bundle_interaction':{num_viewable_slots:12},'minecraft:max_stack_size':{value:1b},'minecraft:storage_item':{allow_nested_storage_items:1b,allowed_items:[],banned_items:[{name:'minecraft:shulker_box'},{name:'minecraft:undyed_shulker_box'}],max_slots:64},'minecraft:storage_weight_limit':{max_weight_limit:64},'minecraft:storage_weight_modifier':{weight_in_storage_item:4}}",
@@ -8313,7 +8403,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:diamond_spear",
-    "id": 859,
+    "id": 860,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:3,creative_group:'',damage:4,enchantable_slot:'melee_spear',enchantable_value:10,foil:0b,frame_count:1,hand_equipped:1b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:1,'minecraft:icon':{textures:{default:'diamond_spear'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:1440000},item_tags:['minecraft:diamond_tier','minecraft:transformable_items','minecraft:is_spear'],'minecraft:cooldown':{category:'spear',duration:1.05f,type:'attack'},'minecraft:damage':{value:4s},'minecraft:display_name':{value:'item.diamond_spear.name'},'minecraft:durability':{damage_chance:{max:100,min:0},max_durability:1560},'minecraft:enchantable':{slot:'melee_spear',value:10b},'minecraft:hand_equipped':{value:1b},'minecraft:kinetic_weapon':{'minecraft:kinetic_weapon':{creative_reach:{max:7.5f,min:2.0f},damage_conditions:{max_duration:200s,min_relative_speed:4.6f,min_speed:0.0f},damage_modifier:0.0f,damage_multiplier:1.075f,delay:10s,dismount_conditions:{max_duration:60s,min_relative_speed:0.0f,min_speed:10.0f},hitbox_margin:0.25f,knockback_conditions:{max_duration:130s,min_relative_speed:0.0f,min_speed:5.1f},reach:{max:4.5f,min:2.0f}}},'minecraft:max_stack_size':{value:1b},'minecraft:piercing_weapon':{creative_reach:{max:7.5f,min:2.0f},hitbox_margin:0.25f,reach:{max:4.5f,min:2.0f}},'minecraft:repairable':{repair_items:[{items:[{name:'minecraft:diamond_spear'}],repair_amount:'context.other->query.remaining_durability'},{items:[{name:'minecraft:diamond'}],repair_amount:'query.max_durability * 0.25'}]},'minecraft:swing_duration':{value:1.05f},'minecraft:swing_sounds':{attack_hit:'item.diamond_spear.attack_hit',attack_miss:'item.diamond_spear.attack_miss'},'minecraft:tags':{tags:['minecraft:diamond_tier','minecraft:transformable_items','minecraft:is_spear']},'minecraft:use_modifiers':{emit_vibrations:0b,movement_modifier:1.0f,start_sound:'item.diamond_spear.use',start_using:'always',use_duration:72000.0f}}",
@@ -8740,7 +8830,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:dye",
-    "id": 849,
+    "id": 850,
     "version": 2,
     "component_based": false,
     "tags": [],
@@ -10747,7 +10837,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:end_crystal",
-    "id": 852,
+    "id": 853,
     "version": 2,
     "component_based": false,
     "tags": [],
@@ -11928,7 +12018,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:glow_berries",
-    "id": 887,
+    "id": 888,
     "version": 0,
     "component_based": false,
     "components": "{'minecraft:food':{can_always_eat:0b,cooldown_time:0,cooldown_type:'',nutrition:2,on_use_action:-1,on_use_range:[8.0f,8.0f,8.0f],saturation_modifier:0.3f,using_converts_to:''},'minecraft:seed':{crop_result:'minecraft:cave_vines',plant_at:['cave_vines','cave_vines_head_with_berries'],plant_at_any_solid_surface:1b,plant_at_face:'down'},'minecraft:use_duration':32}",
@@ -12359,7 +12449,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:golden_spear",
-    "id": 860,
+    "id": 861,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:3,creative_group:'',damage:1,enchantable_slot:'melee_spear',enchantable_value:22,foil:0b,frame_count:1,hand_equipped:1b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:1,'minecraft:icon':{textures:{default:'gold_spear'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:1440000},item_tags:['minecraft:golden_tier','minecraft:is_spear'],'minecraft:cooldown':{category:'spear',duration:0.95f,type:'attack'},'minecraft:damage':{value:1s},'minecraft:display_name':{value:'item.golden_spear.name'},'minecraft:durability':{damage_chance:{max:100,min:0},max_durability:30},'minecraft:enchantable':{slot:'melee_spear',value:22b},'minecraft:hand_equipped':{value:1b},'minecraft:kinetic_weapon':{'minecraft:kinetic_weapon':{creative_reach:{max:7.5f,min:2.0f},damage_conditions:{max_duration:275s,min_relative_speed:4.6f,min_speed:0.0f},damage_modifier:0.0f,damage_multiplier:0.7f,delay:14s,dismount_conditions:{max_duration:70s,min_relative_speed:0.0f,min_speed:13.0f},hitbox_margin:0.25f,knockback_conditions:{max_duration:170s,min_relative_speed:0.0f,min_speed:5.1f},reach:{max:4.5f,min:2.0f}}},'minecraft:max_stack_size':{value:1b},'minecraft:piercing_weapon':{creative_reach:{max:7.5f,min:2.0f},hitbox_margin:0.25f,reach:{max:4.5f,min:2.0f}},'minecraft:repairable':{repair_items:[{items:[{name:'minecraft:golden_spear'}],repair_amount:'context.other->query.remaining_durability'},{items:[{name:'minecraft:gold_ingot'}],repair_amount:'query.max_durability * 0.25'}]},'minecraft:swing_duration':{value:0.95f},'minecraft:swing_sounds':{attack_hit:'item.golden_spear.attack_hit',attack_miss:'item.golden_spear.attack_miss'},'minecraft:tags':{tags:['minecraft:golden_tier','minecraft:is_spear']},'minecraft:use_modifiers':{emit_vibrations:0b,movement_modifier:1.0f,start_sound:'item.golden_spear.use',start_using:'always',use_duration:72000.0f}}",
@@ -12509,7 +12599,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:gray_bundle",
-    "id": 870,
+    "id": 871,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:3,creative_group:'',damage:0,enchantable_slot:'none',enchantable_value:0,foil:0b,frame_count:1,hand_equipped:0b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:1,'minecraft:icon':{textures:{bundle_open_back:'bundle_gray_open_back',bundle_open_front:'bundle_gray_open_front',default:'bundle_gray'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:0},item_tags:[],'minecraft:bundle_interaction':{num_viewable_slots:12},'minecraft:max_stack_size':{value:1b},'minecraft:storage_item':{allow_nested_storage_items:1b,allowed_items:[],banned_items:[{name:'minecraft:shulker_box'},{name:'minecraft:undyed_shulker_box'}],max_slots:64},'minecraft:storage_weight_limit':{max_weight_limit:64},'minecraft:storage_weight_modifier':{weight_in_storage_item:4}}",
@@ -12824,7 +12914,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:green_bundle",
-    "id": 871,
+    "id": 872,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:3,creative_group:'',damage:0,enchantable_slot:'none',enchantable_value:0,foil:0b,frame_count:1,hand_equipped:0b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:1,'minecraft:icon':{textures:{bundle_open_back:'bundle_green_open_back',bundle_open_front:'bundle_green_open_front',default:'bundle_green'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:0},item_tags:[],'minecraft:bundle_interaction':{num_viewable_slots:12},'minecraft:max_stack_size':{value:1b},'minecraft:storage_item':{allow_nested_storage_items:1b,allowed_items:[],banned_items:[{name:'minecraft:shulker_box'},{name:'minecraft:undyed_shulker_box'}],max_slots:64},'minecraft:storage_weight_limit':{max_weight_limit:64},'minecraft:storage_weight_modifier':{weight_in_storage_item:4}}",
@@ -13692,7 +13782,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:hard_stained_glass",
-    "id": 841,
+    "id": 842,
     "version": 2,
     "component_based": false,
     "tags": [],
@@ -13706,7 +13796,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:hard_stained_glass_pane",
-    "id": 842,
+    "id": 843,
     "version": 2,
     "component_based": false,
     "tags": [],
@@ -14119,7 +14209,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:ice_ball",
-    "id": 853,
+    "id": 854,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:3,creative_group:'',damage:0,enchantable_slot:'none',enchantable_value:0,foil:0b,frame_count:1,hand_equipped:0b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:16,'minecraft:icon':{textures:{default:'ice_ball'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:0},item_tags:[],'minecraft:display_name':{value:'item.ice_ball.name'},'minecraft:max_stack_size':{value:16b},'minecraft:projectile':{minimum_critical_power:0.0f,projectile_entity:'minecraft:ice_ball<>'},'minecraft:throwable':{do_swing_animation:1b,launch_power_scale:1.0f,max_draw_duration:0.0f,max_launch_power:1.0f,min_draw_duration:0.0f,scale_power_by_draw_duration:0b}}",
@@ -14149,7 +14239,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:ice_crystal",
-    "id": 854,
+    "id": 855,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:2,creative_group:'',damage:0,enchantable_slot:'none',enchantable_value:0,foil:0b,frame_count:1,hand_equipped:0b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:64,'minecraft:icon':{textures:{default:'ice_crystal'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:0},item_tags:['minecraft:is_pickaxe_item_destructible'],'minecraft:block_placer':{alignedPlacement:0b,block:'minecraft:ice_crystal',canUseBlockAsIcon:1b,replaceBlockItem:1b,use_on:[]},'minecraft:display_name':{value:'tile.ice_crystal.name'},'minecraft:publisher_on_use_on':{autoSucceedOnClient:0b}}",
@@ -14164,7 +14254,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:icicle",
-    "id": 855,
+    "id": 856,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:2,creative_group:'',damage:0,enchantable_slot:'none',enchantable_value:0,foil:0b,frame_count:1,hand_equipped:0b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:64,'minecraft:icon':{textures:{default:'icicle'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:0},item_tags:['minecraft:is_pickaxe_item_destructible'],'minecraft:block_placer':{alignedPlacement:0b,block:'minecraft:icicle',canUseBlockAsIcon:1b,replaceBlockItem:1b,use_on:[]},'minecraft:display_name':{value:'tile.icicle.name'},'minecraft:publisher_on_use_on':{autoSucceedOnClient:0b}}",
@@ -14611,7 +14701,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:iron_spear",
-    "id": 861,
+    "id": 862,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:3,creative_group:'',damage:3,enchantable_slot:'melee_spear',enchantable_value:14,foil:0b,frame_count:1,hand_equipped:1b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:1,'minecraft:icon':{textures:{default:'iron_spear'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:1440000},item_tags:['minecraft:iron_tier','minecraft:is_spear'],'minecraft:cooldown':{category:'spear',duration:0.95f,type:'attack'},'minecraft:damage':{value:3s},'minecraft:display_name':{value:'item.iron_spear.name'},'minecraft:durability':{damage_chance:{max:100,min:0},max_durability:250},'minecraft:enchantable':{slot:'melee_spear',value:14b},'minecraft:hand_equipped':{value:1b},'minecraft:kinetic_weapon':{'minecraft:kinetic_weapon':{creative_reach:{max:7.5f,min:2.0f},damage_conditions:{max_duration:225s,min_relative_speed:4.6f,min_speed:0.0f},damage_modifier:0.0f,damage_multiplier:0.95f,delay:12s,dismount_conditions:{max_duration:50s,min_relative_speed:0.0f,min_speed:11.0f},hitbox_margin:0.25f,knockback_conditions:{max_duration:135s,min_relative_speed:0.0f,min_speed:5.1f},reach:{max:4.5f,min:2.0f}}},'minecraft:max_stack_size':{value:1b},'minecraft:piercing_weapon':{creative_reach:{max:7.5f,min:2.0f},hitbox_margin:0.25f,reach:{max:4.5f,min:2.0f}},'minecraft:repairable':{repair_items:[{items:[{name:'minecraft:iron_spear'}],repair_amount:'context.other->query.remaining_durability'},{items:[{name:'minecraft:iron_ingot'}],repair_amount:'query.max_durability * 0.25'}]},'minecraft:swing_duration':{value:0.95f},'minecraft:swing_sounds':{attack_hit:'item.iron_spear.attack_hit',attack_miss:'item.iron_spear.attack_miss'},'minecraft:tags':{tags:['minecraft:iron_tier','minecraft:is_spear']},'minecraft:use_modifiers':{emit_vibrations:0b,movement_modifier:1.0f,start_sound:'item.iron_spear.use',start_using:'always',use_duration:72000.0f}}",
@@ -15611,7 +15701,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:light_block",
-    "id": 845,
+    "id": 846,
     "version": 2,
     "component_based": false,
     "tags": [],
@@ -15865,7 +15955,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:light_blue_bundle",
-    "id": 872,
+    "id": 873,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:3,creative_group:'',damage:0,enchantable_slot:'none',enchantable_value:0,foil:0b,frame_count:1,hand_equipped:0b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:1,'minecraft:icon':{textures:{bundle_open_back:'bundle_light_blue_open_back',bundle_open_front:'bundle_light_blue_open_front',default:'bundle_light_blue'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:0},item_tags:[],'minecraft:bundle_interaction':{num_viewable_slots:12},'minecraft:max_stack_size':{value:1b},'minecraft:storage_item':{allow_nested_storage_items:1b,allowed_items:[],banned_items:[{name:'minecraft:shulker_box'},{name:'minecraft:undyed_shulker_box'}],max_slots:64},'minecraft:storage_weight_limit':{max_weight_limit:64},'minecraft:storage_weight_modifier':{weight_in_storage_item:4}}",
@@ -16180,7 +16270,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:light_gray_bundle",
-    "id": 873,
+    "id": 874,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:3,creative_group:'',damage:0,enchantable_slot:'none',enchantable_value:0,foil:0b,frame_count:1,hand_equipped:0b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:1,'minecraft:icon':{textures:{bundle_open_back:'bundle_light_gray_open_back',bundle_open_front:'bundle_light_gray_open_front',default:'bundle_light_gray'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:0},item_tags:[],'minecraft:bundle_interaction':{num_viewable_slots:12},'minecraft:max_stack_size':{value:1b},'minecraft:storage_item':{allow_nested_storage_items:1b,allowed_items:[],banned_items:[{name:'minecraft:shulker_box'},{name:'minecraft:undyed_shulker_box'}],max_slots:64},'minecraft:storage_weight_limit':{max_weight_limit:64},'minecraft:storage_weight_modifier':{weight_in_storage_item:4}}",
@@ -16540,7 +16630,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:lime_bundle",
-    "id": 874,
+    "id": 875,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:3,creative_group:'',damage:0,enchantable_slot:'none',enchantable_value:0,foil:0b,frame_count:1,hand_equipped:0b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:1,'minecraft:icon':{textures:{bundle_open_back:'bundle_lime_open_back',bundle_open_front:'bundle_lime_open_front',default:'bundle_lime'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:0},item_tags:[],'minecraft:bundle_interaction':{num_viewable_slots:12},'minecraft:max_stack_size':{value:1b},'minecraft:storage_item':{allow_nested_storage_items:1b,allowed_items:[],banned_items:[{name:'minecraft:shulker_box'},{name:'minecraft:undyed_shulker_box'}],max_slots:64},'minecraft:storage_weight_limit':{max_weight_limit:64},'minecraft:storage_weight_modifier':{weight_in_storage_item:4}}",
@@ -17078,7 +17168,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:magenta_bundle",
-    "id": 875,
+    "id": 876,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:3,creative_group:'',damage:0,enchantable_slot:'none',enchantable_value:0,foil:0b,frame_count:1,hand_equipped:0b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:1,'minecraft:icon':{textures:{bundle_open_back:'bundle_magenta_open_back',bundle_open_front:'bundle_magenta_open_front',default:'bundle_magenta'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:0},item_tags:[],'minecraft:bundle_interaction':{num_viewable_slots:12},'minecraft:max_stack_size':{value:1b},'minecraft:storage_item':{allow_nested_storage_items:1b,allowed_items:[],banned_items:[{name:'minecraft:shulker_box'},{name:'minecraft:undyed_shulker_box'}],max_slots:64},'minecraft:storage_weight_limit':{max_weight_limit:64},'minecraft:storage_weight_modifier':{weight_in_storage_item:4}}",
@@ -18482,6 +18572,21 @@
     "toughness_value": 0,
     "furnace_xp_multiplier": 0
   }, {
+    "name": "minecraft:music_disc_flurry",
+    "id": 839,
+    "version": 2,
+    "component_based": true,
+    "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:4,creative_group:'',damage:0,enchantable_slot:'none',enchantable_value:0,foil:0b,frame_count:1,hand_equipped:0b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:1,mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:0},item_tags:['minecraft:music_disc'],'minecraft:record':{comparator_signal:7,duration:154.0f,sound_event:'record.flurry'}}",
+    "tags": ["minecraft:music_disc"],
+    "max_stack_size": 1,
+    "max_damage": 0,
+    "damageable": false,
+    "attack_damage": 0,
+    "armor_value": 0,
+    "enchant_value": 0,
+    "toughness_value": 0,
+    "furnace_xp_multiplier": 0
+  }, {
     "name": "minecraft:music_disc_lava_chicken",
     "id": 837,
     "version": 2,
@@ -19108,7 +19213,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:netherite_spear",
-    "id": 862,
+    "id": 863,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:3,creative_group:'',damage:5,enchantable_slot:'melee_spear',enchantable_value:15,foil:0b,frame_count:1,hand_equipped:1b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:1,'minecraft:icon':{textures:{default:'netherite_spear'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:1440000},item_tags:['minecraft:netherite_tier','minecraft:is_spear'],'minecraft:cooldown':{category:'spear',duration:1.15f,type:'attack'},'minecraft:damage':{value:5s},'minecraft:display_name':{value:'item.netherite_spear.name'},'minecraft:durability':{damage_chance:{max:100,min:0},max_durability:2030},'minecraft:enchantable':{slot:'melee_spear',value:15b},'minecraft:fire_resistant':{value:1b},'minecraft:hand_equipped':{value:1b},'minecraft:kinetic_weapon':{'minecraft:kinetic_weapon':{creative_reach:{max:7.5f,min:2.0f},damage_conditions:{max_duration:175s,min_relative_speed:4.6f,min_speed:0.0f},damage_modifier:0.0f,damage_multiplier:1.2f,delay:8s,dismount_conditions:{max_duration:50s,min_relative_speed:0.0f,min_speed:9.0f},hitbox_margin:0.25f,knockback_conditions:{max_duration:110s,min_relative_speed:0.0f,min_speed:5.1f},reach:{max:4.5f,min:2.0f}}},'minecraft:max_stack_size':{value:1b},'minecraft:piercing_weapon':{creative_reach:{max:7.5f,min:2.0f},hitbox_margin:0.25f,reach:{max:4.5f,min:2.0f}},'minecraft:repairable':{repair_items:[{items:[{name:'minecraft:netherite_spear'}],repair_amount:'context.other->query.remaining_durability'},{items:[{name:'minecraft:netherite_ingot'}],repair_amount:'query.max_durability * 0.25'}]},'minecraft:swing_duration':{value:1.15f},'minecraft:swing_sounds':{attack_hit:'item.netherite_spear.attack_hit',attack_miss:'item.netherite_spear.attack_miss'},'minecraft:tags':{tags:['minecraft:netherite_tier','minecraft:is_spear']},'minecraft:use_modifiers':{emit_vibrations:0b,movement_modifier:1.0f,start_sound:'item.netherite_spear.use',start_using:'always',use_duration:72000.0f}}",
@@ -19542,7 +19647,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:ominous_trial_key",
-    "id": 883,
+    "id": 884,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:4,creative_group:'',damage:0,enchantable_slot:'none',enchantable_value:0,foil:0b,frame_count:1,hand_equipped:0b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:64,'minecraft:icon':{textures:{default:'ominous_trial_key'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:0},item_tags:[],'minecraft:display_name':{value:'item.ominous_trial_key.name'}}",
@@ -19572,7 +19677,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:orange_bundle",
-    "id": 876,
+    "id": 877,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:3,creative_group:'',damage:0,enchantable_slot:'none',enchantable_value:0,foil:0b,frame_count:1,hand_equipped:0b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:1,'minecraft:icon':{textures:{bundle_open_back:'bundle_orange_open_back',bundle_open_front:'bundle_orange_open_front',default:'bundle_orange'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:0},item_tags:[],'minecraft:bundle_interaction':{num_viewable_slots:12},'minecraft:max_stack_size':{value:1b},'minecraft:storage_item':{allow_nested_storage_items:1b,allowed_items:[],banned_items:[{name:'minecraft:shulker_box'},{name:'minecraft:undyed_shulker_box'}],max_slots:64},'minecraft:storage_weight_limit':{max_weight_limit:64},'minecraft:storage_weight_modifier':{weight_in_storage_item:4}}",
@@ -20902,7 +21007,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:pink_bundle",
-    "id": 877,
+    "id": 878,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:3,creative_group:'',damage:0,enchantable_slot:'none',enchantable_value:0,foil:0b,frame_count:1,hand_equipped:0b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:1,'minecraft:icon':{textures:{bundle_open_back:'bundle_pink_open_back',bundle_open_front:'bundle_pink_open_front',default:'bundle_pink'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:0},item_tags:[],'minecraft:bundle_interaction':{num_viewable_slots:12},'minecraft:max_stack_size':{value:1b},'minecraft:storage_item':{allow_nested_storage_items:1b,allowed_items:[],banned_items:[{name:'minecraft:shulker_box'},{name:'minecraft:undyed_shulker_box'}],max_slots:64},'minecraft:storage_weight_limit':{max_weight_limit:64},'minecraft:storage_weight_modifier':{weight_in_storage_item:4}}",
@@ -21669,6 +21774,156 @@
     "version": 2,
     "component_based": false,
     "components": "{'minecraft:block':'minecraft:polished_blackstone_wall'}",
+    "tags": [],
+    "max_stack_size": 64,
+    "max_damage": 0,
+    "damageable": false,
+    "attack_damage": 0,
+    "armor_value": 0,
+    "enchant_value": 0,
+    "toughness_value": 0,
+    "furnace_xp_multiplier": 0
+  }, {
+    "name": "minecraft:polished_calcite",
+    "id": -1275,
+    "version": 2,
+    "component_based": false,
+    "components": "{'minecraft:block':'minecraft:polished_calcite'}",
+    "tags": ["minecraft:sulfur_cube_archetype_slow_bouncy"],
+    "max_stack_size": 64,
+    "max_damage": 0,
+    "damageable": false,
+    "attack_damage": 0,
+    "armor_value": 0,
+    "enchant_value": 0,
+    "toughness_value": 0,
+    "furnace_xp_multiplier": 0
+  }, {
+    "name": "minecraft:polished_calcite_brick_double_slab",
+    "id": -1278,
+    "version": 2,
+    "component_based": false,
+    "components": "{'minecraft:block':'minecraft:polished_calcite_brick_double_slab','minecraft:stacked_by_data':1b}",
+    "tags": [],
+    "max_stack_size": 64,
+    "max_damage": 0,
+    "damageable": false,
+    "attack_damage": 0,
+    "armor_value": 0,
+    "enchant_value": 0,
+    "toughness_value": 0,
+    "furnace_xp_multiplier": 0
+  }, {
+    "name": "minecraft:polished_calcite_brick_slab",
+    "id": -1277,
+    "version": 2,
+    "component_based": false,
+    "components": "{'minecraft:block':'minecraft:polished_calcite_brick_slab','minecraft:stacked_by_data':1b}",
+    "tags": [],
+    "max_stack_size": 64,
+    "max_damage": 0,
+    "damageable": false,
+    "attack_damage": 0,
+    "armor_value": 0,
+    "enchant_value": 0,
+    "toughness_value": 0,
+    "furnace_xp_multiplier": 0
+  }, {
+    "name": "minecraft:polished_calcite_brick_stairs",
+    "id": -1276,
+    "version": 2,
+    "component_based": false,
+    "components": "{'minecraft:block':'minecraft:polished_calcite_brick_stairs'}",
+    "tags": [],
+    "max_stack_size": 64,
+    "max_damage": 0,
+    "damageable": false,
+    "attack_damage": 0,
+    "armor_value": 0,
+    "enchant_value": 0,
+    "toughness_value": 0,
+    "furnace_xp_multiplier": 0
+  }, {
+    "name": "minecraft:polished_calcite_brick_wall",
+    "id": -1279,
+    "version": 2,
+    "component_based": false,
+    "components": "{'minecraft:block':'minecraft:polished_calcite_brick_wall'}",
+    "tags": [],
+    "max_stack_size": 64,
+    "max_damage": 0,
+    "damageable": false,
+    "attack_damage": 0,
+    "armor_value": 0,
+    "enchant_value": 0,
+    "toughness_value": 0,
+    "furnace_xp_multiplier": 0
+  }, {
+    "name": "minecraft:polished_calcite_bricks",
+    "id": -1280,
+    "version": 2,
+    "component_based": false,
+    "components": "{'minecraft:block':'minecraft:polished_calcite_bricks'}",
+    "tags": ["minecraft:sulfur_cube_archetype_slow_bouncy"],
+    "max_stack_size": 64,
+    "max_damage": 0,
+    "damageable": false,
+    "attack_damage": 0,
+    "armor_value": 0,
+    "enchant_value": 0,
+    "toughness_value": 0,
+    "furnace_xp_multiplier": 0
+  }, {
+    "name": "minecraft:polished_calcite_double_slab",
+    "id": -1273,
+    "version": 2,
+    "component_based": false,
+    "components": "{'minecraft:block':'minecraft:polished_calcite_double_slab','minecraft:stacked_by_data':1b}",
+    "tags": [],
+    "max_stack_size": 64,
+    "max_damage": 0,
+    "damageable": false,
+    "attack_damage": 0,
+    "armor_value": 0,
+    "enchant_value": 0,
+    "toughness_value": 0,
+    "furnace_xp_multiplier": 0
+  }, {
+    "name": "minecraft:polished_calcite_slab",
+    "id": -1272,
+    "version": 2,
+    "component_based": false,
+    "components": "{'minecraft:block':'minecraft:polished_calcite_slab','minecraft:stacked_by_data':1b}",
+    "tags": [],
+    "max_stack_size": 64,
+    "max_damage": 0,
+    "damageable": false,
+    "attack_damage": 0,
+    "armor_value": 0,
+    "enchant_value": 0,
+    "toughness_value": 0,
+    "furnace_xp_multiplier": 0
+  }, {
+    "name": "minecraft:polished_calcite_stairs",
+    "id": -1271,
+    "version": 2,
+    "component_based": false,
+    "components": "{'minecraft:block':'minecraft:polished_calcite_stairs'}",
+    "tags": [],
+    "max_stack_size": 64,
+    "max_damage": 0,
+    "damageable": false,
+    "attack_damage": 0,
+    "armor_value": 0,
+    "enchant_value": 0,
+    "toughness_value": 0,
+    "furnace_xp_multiplier": 0
+  }, {
+    "name": "minecraft:polished_calcite_wall",
+    "id": -1274,
+    "version": 2,
+    "component_based": false,
+    "components": "{'minecraft:block':'minecraft:polished_calcite_wall'}",
     "tags": [],
     "max_stack_size": 64,
     "max_damage": 0,
@@ -22875,7 +23130,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:purple_bundle",
-    "id": 878,
+    "id": 879,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:3,creative_group:'',damage:0,enchantable_slot:'none',enchantable_value:0,foil:0b,frame_count:1,hand_equipped:0b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:1,'minecraft:icon':{textures:{bundle_open_back:'bundle_purple_open_back',bundle_open_front:'bundle_purple_open_front',default:'bundle_purple'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:0},item_tags:[],'minecraft:bundle_interaction':{num_viewable_slots:12},'minecraft:max_stack_size':{value:1b},'minecraft:storage_item':{allow_nested_storage_items:1b,allowed_items:[],banned_items:[{name:'minecraft:shulker_box'},{name:'minecraft:undyed_shulker_box'}],max_slots:64},'minecraft:storage_weight_limit':{max_weight_limit:64},'minecraft:storage_weight_modifier':{weight_in_storage_item:4}}",
@@ -23616,7 +23871,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:red_bundle",
-    "id": 879,
+    "id": 880,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:3,creative_group:'',damage:0,enchantable_slot:'none',enchantable_value:0,foil:0b,frame_count:1,hand_equipped:0b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:1,'minecraft:icon':{textures:{bundle_open_back:'bundle_red_open_back',bundle_open_front:'bundle_red_open_front',default:'bundle_red'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:0},item_tags:[],'minecraft:bundle_interaction':{num_viewable_slots:12},'minecraft:max_stack_size':{value:1b},'minecraft:storage_item':{allow_nested_storage_items:1b,allowed_items:[],banned_items:[{name:'minecraft:shulker_box'},{name:'minecraft:undyed_shulker_box'}],max_slots:64},'minecraft:storage_weight_limit':{max_weight_limit:64},'minecraft:storage_weight_modifier':{weight_in_storage_item:4}}",
@@ -24035,7 +24290,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:red_shrub",
-    "id": 856,
+    "id": 857,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:2,creative_group:'',damage:0,enchantable_slot:'none',enchantable_value:0,foil:0b,frame_count:1,hand_equipped:0b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:64,'minecraft:icon':{textures:{default:'red_shrub'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:0},item_tags:[],'minecraft:block_placer':{alignedPlacement:0b,block:'minecraft:red_shrub',canUseBlockAsIcon:1b,replaceBlockItem:1b,use_on:[]},'minecraft:compostable':{composting_chance:30b},'minecraft:display_name':{value:'tile.red_shrub.name'},'minecraft:publisher_on_use_on':{autoSucceedOnClient:0b}}",
@@ -24897,7 +25152,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:shelf_mushroom",
-    "id": 857,
+    "id": 858,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:2,creative_group:'',damage:0,enchantable_slot:'none',enchantable_value:0,foil:0b,frame_count:1,hand_equipped:0b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:64,mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:0},item_tags:['minecraft:mushrooms_for_stew'],'minecraft:block_placer':{alignedPlacement:0b,block:'minecraft:shelf_mushroom',canUseBlockAsIcon:1b,replaceBlockItem:1b,use_on:[]},'minecraft:compostable':{composting_chance:65b},'minecraft:display_name':{value:'tile.shelf_mushroom.name'},'minecraft:publisher_on_use_on':{autoSucceedOnClient:0b},'minecraft:tags':{tags:['minecraft:mushrooms_for_stew']}}",
@@ -25803,7 +26058,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:spawn_egg",
-    "id": 851,
+    "id": 852,
     "version": 2,
     "component_based": false,
     "tags": ["minecraft:spawn_egg"],
@@ -26603,7 +26858,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:stone_spear",
-    "id": 863,
+    "id": 864,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:3,creative_group:'',damage:2,enchantable_slot:'melee_spear',enchantable_value:5,foil:0b,frame_count:1,hand_equipped:1b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:1,'minecraft:icon':{textures:{default:'stone_spear'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:1440000},item_tags:['minecraft:stone_tier','minecraft:is_spear'],'minecraft:cooldown':{category:'spear',duration:0.75f,type:'attack'},'minecraft:damage':{value:2s},'minecraft:display_name':{value:'item.stone_spear.name'},'minecraft:durability':{damage_chance:{max:100,min:0},max_durability:130},'minecraft:enchantable':{slot:'melee_spear',value:5b},'minecraft:hand_equipped':{value:1b},'minecraft:kinetic_weapon':{'minecraft:kinetic_weapon':{creative_reach:{max:7.5f,min:2.0f},damage_conditions:{max_duration:275s,min_relative_speed:4.6f,min_speed:0.0f},damage_modifier:0.0f,damage_multiplier:0.82f,delay:14s,dismount_conditions:{max_duration:90s,min_relative_speed:0.0f,min_speed:13.0f},hitbox_margin:0.25f,knockback_conditions:{max_duration:180s,min_relative_speed:0.0f,min_speed:5.1f},reach:{max:4.5f,min:2.0f}}},'minecraft:max_stack_size':{value:1b},'minecraft:piercing_weapon':{creative_reach:{max:7.5f,min:2.0f},hitbox_margin:0.25f,reach:{max:4.5f,min:2.0f}},'minecraft:repairable':{repair_items:[{items:[{name:'minecraft:stone_spear'}],repair_amount:'context.other->query.remaining_durability'},{items:[{tags:'q.all_tags(\\'minecraft:stone_tool_materials\\')'}],repair_amount:'query.max_durability * 0.25'}]},'minecraft:swing_duration':{value:0.75f},'minecraft:swing_sounds':{attack_hit:'item.stone_spear.attack_hit',attack_miss:'item.stone_spear.attack_miss'},'minecraft:tags':{tags:['minecraft:stone_tier','minecraft:is_spear']},'minecraft:use_modifiers':{emit_vibrations:0b,movement_modifier:1.0f,start_sound:'item.stone_spear.use',start_using:'always',use_duration:72000.0f}}",
@@ -27739,7 +27994,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:trial_key",
-    "id": 884,
+    "id": 885,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:4,creative_group:'',damage:0,enchantable_slot:'none',enchantable_value:0,foil:0b,frame_count:1,hand_equipped:0b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:64,'minecraft:icon':{textures:{default:'trial_key'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:0},item_tags:[],'minecraft:display_name':{value:'item.trial_key.name'}}",
@@ -30083,7 +30338,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:white_bundle",
-    "id": 880,
+    "id": 881,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:3,creative_group:'',damage:0,enchantable_slot:'none',enchantable_value:0,foil:0b,frame_count:1,hand_equipped:0b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:1,'minecraft:icon':{textures:{bundle_open_back:'bundle_white_open_back',bundle_open_front:'bundle_white_open_front',default:'bundle_white'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:0},item_tags:[],'minecraft:bundle_interaction':{num_viewable_slots:12},'minecraft:max_stack_size':{value:1b},'minecraft:storage_item':{allow_nested_storage_items:1b,allowed_items:[],banned_items:[{name:'minecraft:shulker_box'},{name:'minecraft:undyed_shulker_box'}],max_slots:64},'minecraft:storage_weight_limit':{max_weight_limit:64},'minecraft:storage_weight_modifier':{weight_in_storage_item:4}}",
@@ -30442,7 +30697,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:wind_charge",
-    "id": 885,
+    "id": 886,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:3,creative_group:'',damage:0,enchantable_slot:'none',enchantable_value:0,foil:0b,frame_count:1,hand_equipped:0b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:64,'minecraft:icon':{textures:{default:'wind_charge'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:0},item_tags:[],'minecraft:cooldown':{category:'wind_charge',duration:0.5f,type:'use'},'minecraft:display_name':{value:'item.wind_charge.name'},'minecraft:projectile':{minimum_critical_power:0.0f,projectile_entity:'minecraft:wind_charge_projectile<>'},'minecraft:throwable':{do_swing_animation:1b,launch_power_scale:1.5f,max_draw_duration:0.0f,max_launch_power:1.5f,min_draw_duration:0.0f,scale_power_by_draw_duration:0b}}",
@@ -30694,7 +30949,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:wooden_spear",
-    "id": 864,
+    "id": 865,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:3,creative_group:'',damage:1,enchantable_slot:'melee_spear',enchantable_value:15,foil:0b,frame_count:1,hand_equipped:1b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:1,'minecraft:icon':{textures:{default:'wood_spear'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:1440000},item_tags:['minecraft:wooden_tier','minecraft:is_spear'],'minecraft:cooldown':{category:'spear',duration:0.65f,type:'attack'},'minecraft:damage':{value:1s},'minecraft:display_name':{value:'item.wooden_spear.name'},'minecraft:durability':{damage_chance:{max:100,min:0},max_durability:60},'minecraft:enchantable':{slot:'melee_spear',value:15b},'minecraft:fuel':{duration:10.0f},'minecraft:hand_equipped':{value:1b},'minecraft:kinetic_weapon':{'minecraft:kinetic_weapon':{creative_reach:{max:7.5f,min:2.0f},damage_conditions:{max_duration:300s,min_relative_speed:4.6f,min_speed:0.0f},damage_modifier:0.0f,damage_multiplier:0.7f,delay:15s,dismount_conditions:{max_duration:100s,min_relative_speed:0.0f,min_speed:14.0f},hitbox_margin:0.25f,knockback_conditions:{max_duration:200s,min_relative_speed:0.0f,min_speed:5.1f},reach:{max:4.5f,min:2.0f}}},'minecraft:max_stack_size':{value:1b},'minecraft:piercing_weapon':{creative_reach:{max:7.5f,min:2.0f},hitbox_margin:0.25f,reach:{max:4.5f,min:2.0f}},'minecraft:repairable':{repair_items:[{items:[{name:'minecraft:wooden_spear'}],repair_amount:'context.other->query.remaining_durability'},{items:[{tags:'q.all_tags(\\'minecraft:planks\\')'}],repair_amount:'query.max_durability * 0.25'}]},'minecraft:swing_duration':{value:0.65f},'minecraft:swing_sounds':{attack_hit:'item.wooden_spear.attack_hit',attack_miss:'item.wooden_spear.attack_miss'},'minecraft:tags':{tags:['minecraft:wooden_tier','minecraft:is_spear']},'minecraft:use_modifiers':{emit_vibrations:0b,movement_modifier:1.0f,start_sound:'item.wooden_spear.use',start_using:'always',use_duration:72000.0f}}",
@@ -30768,7 +31023,7 @@
     "furnace_xp_multiplier": 0
   }, {
     "name": "minecraft:yellow_bundle",
-    "id": 881,
+    "id": 882,
     "version": 1,
     "component_based": true,
     "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:3,creative_group:'',damage:0,enchantable_slot:'none',enchantable_value:0,foil:0b,frame_count:1,hand_equipped:0b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:1,'minecraft:icon':{textures:{bundle_open_back:'bundle_yellow_open_back',bundle_open_front:'bundle_yellow_open_front',default:'bundle_yellow'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:0},item_tags:[],'minecraft:bundle_interaction':{num_viewable_slots:12},'minecraft:max_stack_size':{value:1b},'minecraft:storage_item':{allow_nested_storage_items:1b,allowed_items:[],banned_items:[{name:'minecraft:shulker_box'},{name:'minecraft:undyed_shulker_box'}],max_slots:64},'minecraft:storage_weight_limit':{max_weight_limit:64},'minecraft:storage_weight_modifier':{weight_in_storage_item:4}}",

@@ -1899,6 +1899,66 @@
     "consumer_component": false,
     "tags": ["minecraft:is_pickaxe_item_destructible"]
   }, {
+    "name": "minecraft:calcite_double_slab",
+    "default_state_id": -1629604135,
+    "thickness": 0,
+    "translucency": 0,
+    "requires_correct_tool_for_drops": false,
+    "tint_method": "none",
+    "material_type": 23,
+    "signal_source": false,
+    "consumer_component": false,
+    "tags": ["minecraft:is_pickaxe_item_destructible"],
+    "definition": "{vanilla_block_data:{block_id:1523,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.75f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
+  }, {
+    "name": "minecraft:calcite_pillar",
+    "default_state_id": -673045530,
+    "thickness": 0,
+    "translucency": 0,
+    "requires_correct_tool_for_drops": false,
+    "tint_method": "none",
+    "material_type": 23,
+    "signal_source": false,
+    "consumer_component": false,
+    "tags": ["minecraft:is_pickaxe_item_destructible"],
+    "definition": "{vanilla_block_data:{block_id:1525,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.75f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
+  }, {
+    "name": "minecraft:calcite_slab",
+    "default_state_id": -1970217902,
+    "thickness": 0,
+    "translucency": 0,
+    "requires_correct_tool_for_drops": false,
+    "tint_method": "none",
+    "material_type": 23,
+    "signal_source": false,
+    "consumer_component": false,
+    "tags": ["minecraft:is_pickaxe_item_destructible"],
+    "definition": "{vanilla_block_data:{block_id:1522,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.75f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
+  }, {
+    "name": "minecraft:calcite_stairs",
+    "default_state_id": -1794685675,
+    "thickness": 0,
+    "translucency": 0.8,
+    "requires_correct_tool_for_drops": false,
+    "tint_method": "none",
+    "material_type": 23,
+    "signal_source": false,
+    "consumer_component": false,
+    "tags": ["minecraft:cornerable_stairs", "minecraft:is_pickaxe_item_destructible"],
+    "definition": "{vanilla_block_data:{block_id:1521,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.75f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
+  }, {
+    "name": "minecraft:calcite_wall",
+    "default_state_id": 956810936,
+    "thickness": 0,
+    "translucency": 0.8,
+    "requires_correct_tool_for_drops": false,
+    "tint_method": "none",
+    "material_type": 23,
+    "signal_source": false,
+    "consumer_component": false,
+    "tags": ["minecraft:is_pickaxe_item_destructible"],
+    "definition": "{vanilla_block_data:{block_id:1524,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.75f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
+  }, {
     "name": "minecraft:calibrated_sculk_sensor",
     "default_state_id": 1098378432,
     "thickness": 0,
@@ -2349,7 +2409,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_pickaxe_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1513,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'',category:'nature',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.5f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'},'minecraft:geometry':{bone_visibility:{},culling:'',culling_layer:'minecraft:culling_layer.undefined',culling_shape:'',identifier:'minecraft:geometry.full_block',ignoreGeometryForIsSolid:0b,isV1Fullblock:0b,needsLegacyTopRotation:0b,useBlockTypeLightAbsorption:0b,uv_lock:0b},'minecraft:material_instances':{mappings:{},materials:{'*':{ambient_occlusion:1.0f,packed_bools:5b,render_method:'opaque',texture:'chiseled_packed_ice',tint_method:'none'}}}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1513,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'',category:'nature',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.5f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'},'minecraft:geometry':{bone_visibility:{},culling:'',culling_layer:'minecraft:culling_layer.undefined',culling_shape:'',identifier:'minecraft:geometry.full_block',ignoreGeometryForIsSolid:0b,isV1Fullblock:0b,needsLegacyTopRotation:0b,useBlockTypeLightAbsorption:0b,uv_lock:0b},'minecraft:light_dampening':{lightLevel:15b},'minecraft:material_instances':{mappings:{},materials:{'*':{ambient_occlusion:1.0f,packed_bools:5b,render_method:'opaque',texture:'chiseled_packed_ice',tint_method:'none'}}},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
   }, {
     "name": "minecraft:chiseled_polished_blackstone",
     "default_state_id": -157993866,
@@ -2405,6 +2465,18 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_pickaxe_item_destructible"]
+  }, {
+    "name": "minecraft:chiseled_soulshale",
+    "default_state_id": -1817303413,
+    "thickness": 0,
+    "translucency": 0,
+    "requires_correct_tool_for_drops": false,
+    "tint_method": "none",
+    "material_type": 23,
+    "signal_source": false,
+    "consumer_component": false,
+    "tags": ["minecraft:is_pickaxe_item_destructible"],
+    "definition": "{vanilla_block_data:{block_id:1536,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'},'minecraft:geometry':{bone_visibility:{},culling:'',culling_layer:'minecraft:culling_layer.undefined',culling_shape:'',identifier:'minecraft:geometry.full_block',ignoreGeometryForIsSolid:0b,isV1Fullblock:0b,needsLegacyTopRotation:0b,useBlockTypeLightAbsorption:0b,uv_lock:0b},'minecraft:light_dampening':{lightLevel:15b},'minecraft:material_instances':{mappings:{},materials:{'*':{ambient_occlusion:1.0f,packed_bools:5b,render_method:'opaque',texture:'chiseled_soulshale',tint_method:'none'}}},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
   }, {
     "name": "minecraft:chiseled_stone_bricks",
     "default_state_id": 1117720546,
@@ -10472,7 +10544,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_pickaxe_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1515,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.5f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1515,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.5f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
   }, {
     "name": "minecraft:packed_ice_brick_slab",
     "default_state_id": 812575032,
@@ -10520,7 +10592,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_pickaxe_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1505,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'',category:'nature',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.5f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'},'minecraft:geometry':{bone_visibility:{},culling:'',culling_layer:'minecraft:culling_layer.undefined',culling_shape:'',identifier:'minecraft:geometry.full_block',ignoreGeometryForIsSolid:0b,isV1Fullblock:0b,needsLegacyTopRotation:0b,useBlockTypeLightAbsorption:0b,uv_lock:0b},'minecraft:material_instances':{mappings:{},materials:{'*':{ambient_occlusion:1.0f,packed_bools:5b,render_method:'opaque',texture:'packed_ice_bricks',tint_method:'none'}}}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1505,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'',category:'nature',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.5f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'},'minecraft:geometry':{bone_visibility:{},culling:'',culling_layer:'minecraft:culling_layer.undefined',culling_shape:'',identifier:'minecraft:geometry.full_block',ignoreGeometryForIsSolid:0b,isV1Fullblock:0b,needsLegacyTopRotation:0b,useBlockTypeLightAbsorption:0b,uv_lock:0b},'minecraft:light_dampening':{lightLevel:15b},'minecraft:material_instances':{mappings:{},materials:{'*':{ambient_occlusion:1.0f,packed_bools:5b,render_method:'opaque',texture:'packed_ice_bricks',tint_method:'none'}}},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
   }, {
     "name": "minecraft:packed_mud",
     "default_state_id": -224235564,
@@ -11297,6 +11369,126 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_pickaxe_item_destructible"]
+  }, {
+    "name": "minecraft:polished_calcite",
+    "default_state_id": 1822615817,
+    "thickness": 0,
+    "translucency": 0,
+    "requires_correct_tool_for_drops": false,
+    "tint_method": "none",
+    "material_type": 23,
+    "signal_source": false,
+    "consumer_component": false,
+    "tags": ["minecraft:is_pickaxe_item_destructible"],
+    "definition": "{vanilla_block_data:{block_id:1530,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.75f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'},'minecraft:geometry':{bone_visibility:{},culling:'',culling_layer:'minecraft:culling_layer.undefined',culling_shape:'',identifier:'minecraft:geometry.full_block',ignoreGeometryForIsSolid:0b,isV1Fullblock:0b,needsLegacyTopRotation:0b,useBlockTypeLightAbsorption:0b,uv_lock:0b},'minecraft:light_dampening':{lightLevel:15b},'minecraft:material_instances':{mappings:{},materials:{'*':{ambient_occlusion:1.0f,packed_bools:5b,render_method:'opaque',texture:'polished_calcite',tint_method:'none'}}},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
+  }, {
+    "name": "minecraft:polished_calcite_brick_double_slab",
+    "default_state_id": 411729865,
+    "thickness": 0,
+    "translucency": 0,
+    "requires_correct_tool_for_drops": false,
+    "tint_method": "none",
+    "material_type": 23,
+    "signal_source": false,
+    "consumer_component": false,
+    "tags": ["minecraft:is_pickaxe_item_destructible"],
+    "definition": "{vanilla_block_data:{block_id:1533,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.75f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
+  }, {
+    "name": "minecraft:polished_calcite_brick_slab",
+    "default_state_id": 1310793146,
+    "thickness": 0,
+    "translucency": 0,
+    "requires_correct_tool_for_drops": false,
+    "tint_method": "none",
+    "material_type": 23,
+    "signal_source": false,
+    "consumer_component": false,
+    "tags": ["minecraft:is_pickaxe_item_destructible"],
+    "definition": "{vanilla_block_data:{block_id:1532,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.75f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
+  }, {
+    "name": "minecraft:polished_calcite_brick_stairs",
+    "default_state_id": 2773193,
+    "thickness": 0,
+    "translucency": 0.8,
+    "requires_correct_tool_for_drops": false,
+    "tint_method": "none",
+    "material_type": 23,
+    "signal_source": false,
+    "consumer_component": false,
+    "tags": ["minecraft:cornerable_stairs", "minecraft:is_pickaxe_item_destructible"],
+    "definition": "{vanilla_block_data:{block_id:1531,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.75f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
+  }, {
+    "name": "minecraft:polished_calcite_brick_wall",
+    "default_state_id": -521286960,
+    "thickness": 0,
+    "translucency": 0.8,
+    "requires_correct_tool_for_drops": false,
+    "tint_method": "none",
+    "material_type": 23,
+    "signal_source": false,
+    "consumer_component": false,
+    "tags": ["minecraft:is_pickaxe_item_destructible"],
+    "definition": "{vanilla_block_data:{block_id:1534,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.75f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
+  }, {
+    "name": "minecraft:polished_calcite_bricks",
+    "default_state_id": 302230589,
+    "thickness": 0,
+    "translucency": 0,
+    "requires_correct_tool_for_drops": false,
+    "tint_method": "none",
+    "material_type": 23,
+    "signal_source": false,
+    "consumer_component": false,
+    "tags": ["minecraft:is_pickaxe_item_destructible"],
+    "definition": "{vanilla_block_data:{block_id:1535,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.75f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'},'minecraft:geometry':{bone_visibility:{},culling:'',culling_layer:'minecraft:culling_layer.undefined',culling_shape:'',identifier:'minecraft:geometry.full_block',ignoreGeometryForIsSolid:0b,isV1Fullblock:0b,needsLegacyTopRotation:0b,useBlockTypeLightAbsorption:0b,uv_lock:0b},'minecraft:light_dampening':{lightLevel:15b},'minecraft:material_instances':{mappings:{},materials:{'*':{ambient_occlusion:1.0f,packed_bools:5b,render_method:'opaque',texture:'polished_calcite_bricks',tint_method:'none'}}},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
+  }, {
+    "name": "minecraft:polished_calcite_double_slab",
+    "default_state_id": -1275842139,
+    "thickness": 0,
+    "translucency": 0,
+    "requires_correct_tool_for_drops": false,
+    "tint_method": "none",
+    "material_type": 23,
+    "signal_source": false,
+    "consumer_component": false,
+    "tags": ["minecraft:is_pickaxe_item_destructible"],
+    "definition": "{vanilla_block_data:{block_id:1528,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.75f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
+  }, {
+    "name": "minecraft:polished_calcite_slab",
+    "default_state_id": -1607711186,
+    "thickness": 0,
+    "translucency": 0,
+    "requires_correct_tool_for_drops": false,
+    "tint_method": "none",
+    "material_type": 23,
+    "signal_source": false,
+    "consumer_component": false,
+    "tags": ["minecraft:is_pickaxe_item_destructible"],
+    "definition": "{vanilla_block_data:{block_id:1527,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.75f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
+  }, {
+    "name": "minecraft:polished_calcite_stairs",
+    "default_state_id": 905120385,
+    "thickness": 0,
+    "translucency": 0.8,
+    "requires_correct_tool_for_drops": false,
+    "tint_method": "none",
+    "material_type": 23,
+    "signal_source": false,
+    "consumer_component": false,
+    "tags": ["minecraft:cornerable_stairs", "minecraft:is_pickaxe_item_destructible"],
+    "definition": "{vanilla_block_data:{block_id:1526,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.75f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
+  }, {
+    "name": "minecraft:polished_calcite_wall",
+    "default_state_id": -1088194572,
+    "thickness": 0,
+    "translucency": 0.8,
+    "requires_correct_tool_for_drops": false,
+    "tint_method": "none",
+    "material_type": 23,
+    "signal_source": false,
+    "consumer_component": false,
+    "tags": ["minecraft:is_pickaxe_item_destructible"],
+    "definition": "{vanilla_block_data:{block_id:1529,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.75f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
   }, {
     "name": "minecraft:polished_cinnabar",
     "default_state_id": -1440159439,
@@ -12626,7 +12818,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": [],
-    "definition": "{vanilla_block_data:{block_id:1403,material:'plant'},molangVersion:13,menu_category:{group:'',category:'nature',is_hidden_in_commands:0b},components:{'minecraft:collision_box':{boxes:[],enabled:0b},'minecraft:connection_rule':{accepts_connections_from:'none',enabled_directions:['south','north','east','west']},'minecraft:destructible_by_mining':{value:0.0f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:geometry':{bone_visibility:{},culling:'',culling_layer:'minecraft:culling_layer.undefined',culling_shape:'',identifier:'minecraft:geometry.cross',ignoreGeometryForIsSolid:0b,isV1Fullblock:0b,needsLegacyTopRotation:0b,useBlockTypeLightAbsorption:0b,uv_lock:0b},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:0b,liquidType:'water',onLiquidTouches:'popped',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:material_instances':{mappings:{},materials:{'*':{ambient_occlusion:0.0f,packed_bools:5b,render_method:'alpha_test_single_sided',texture:'red_shrub',tint_method:'none'}}},'minecraft:precipitation_interactions':{precipitation_behavior:'snowlogging'},'minecraft:replaceable':{},'minecraft:selection_box':{enabled:1b,origin:[-8.0f,0.0f,-8.0f],size:[16.0f,16.0f,16.0f]}}}"
+    "definition": "{vanilla_block_data:{block_id:1403,material:'plant'},molangVersion:13,menu_category:{group:'',category:'nature',is_hidden_in_commands:0b},components:{'minecraft:collision_box':{boxes:[],enabled:0b,shape:'',useVoxelShapes:0b},'minecraft:connection_rule':{accepts_connections_from:'none',enabled_directions:['south','north','east','west']},'minecraft:destructible_by_mining':{value:0.0f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:geometry':{bone_visibility:{},culling:'',culling_layer:'minecraft:culling_layer.undefined',culling_shape:'',identifier:'minecraft:geometry.cross',ignoreGeometryForIsSolid:0b,isV1Fullblock:0b,needsLegacyTopRotation:0b,useBlockTypeLightAbsorption:0b,uv_lock:0b},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:0b,liquidType:'water',onLiquidTouches:'popped',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:material_instances':{mappings:{},materials:{'*':{ambient_occlusion:0.0f,packed_bools:5b,render_method:'alpha_test_single_sided',texture:'red_shrub',tint_method:'none'}}},'minecraft:precipitation_interactions':{precipitation_behavior:'snowlogging'},'minecraft:replaceable':{},'minecraft:selection_box':{enabled:1b,origin:[-8.0f,0.0f,-8.0f],size:[16.0f,16.0f,16.0f]}}}"
   }, {
     "name": "minecraft:red_shulker_box",
     "default_state_id": 670752730,
@@ -13103,7 +13295,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": [],
-    "definition": "{vanilla_block_data:{block_id:1452,material:'solid_plant'},molangVersion:13,menu_category:{group:'',category:'nature',is_hidden_in_commands:0b},components:{'minecraft:collision_box':{boxes:[{maxX:13.0f,maxY:11.0f,maxZ:16.0f,minX:3.0f,minY:4.0f,minZ:9.0f}],enabled:1b},'minecraft:connection_rule':{accepts_connections_from:'none',enabled_directions:['south','north','east','west']},'minecraft:destructible_by_mining':{value:0.0f},'minecraft:destruction_particles':{particle_count:48,texture:'shelf_mushroom_particle',tint_method:'none'},'minecraft:geometry':{bone_visibility:{},culling:'minecraft:culling.shelf_mushroom_small',culling_layer:'minecraft:culling_layer.undefined',culling_shape:'',identifier:'minecraft:geometry.shelf_mushroom_small',ignoreGeometryForIsSolid:0b,isV1Fullblock:0b,needsLegacyTopRotation:0b,useBlockTypeLightAbsorption:0b,uv_lock:0b},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:0b,liquidType:'water',onLiquidTouches:'popped',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:material_instances':{mappings:{},materials:{small:{ambient_occlusion:0.0f,packed_bools:5b,render_method:'alpha_test_single_sided',texture:'shelf_mushroom_small',tint_method:'none'}}},'minecraft:precipitation_interactions':{precipitation_behavior:'none'},'minecraft:selection_box':{enabled:1b,origin:[-5.0f,8.0f,1.0f],size:[10.0f,3.0f,7.0f]}},permutations:[{condition:'query.block_state(\\'growth\\') == 0 && query.block_state(\\'minecraft:cardinal_direction\\') == \\'south\\'',components:{'minecraft:transformation':{RX:0,RXP:0.0f,RY:2,RYP:0.0f,RZ:0,RZP:0.0f,SX:1.0f,SXP:0.0f,SY:1.0f,SYP:0.0f,SZ:1.0f,SZP:0.0f,TX:0.0f,TY:0.0f,TZ:0.0f,hasJsonVersionBeforeValidation:0b}}},{condition:'query.block_state(\\'growth\\') == 0 && query.block_state(\\'minecraft:cardinal_direction\\') == \\'west\\'',components:{'minecraft:transformation':{RX:0,RXP:0.0f,RY:1,RYP:0.0f,RZ:0,RZP:0.0f,SX:1.0f,SXP:0.0f,SY:1.0f,SYP:0.0f,SZ:1.0f,SZP:0.0f,TX:0.0f,TY:0.0f,TZ:0.0f,hasJsonVersionBeforeValidation:0b}}},{condition:'query.block_state(\\'growth\\') == 0 && query.block_state(\\'minecraft:cardinal_direction\\') == \\'east\\'',components:{'minecraft:transformation':{RX:0,RXP:0.0f,RY:3,RYP:0.0f,RZ:0,RZP:0.0f,SX:1.0f,SXP:0.0f,SY:1.0f,SYP:0.0f,SZ:1.0f,SZP:0.0f,TX:0.0f,TY:0.0f,TZ:0.0f,hasJsonVersionBeforeValidation:0b}}},{condition:'query.block_state(\\'growth\\') == 1 && query.block_state(\\'minecraft:cardinal_direction\\') == \\'north\\'',components:{'minecraft:collision_box':{boxes:[{maxX:15.0f,maxY:11.0f,maxZ:16.0f,minX:1.0f,minY:4.0f,minZ:6.0f}],enabled:1b},'minecraft:geometry':{bone_visibility:{},culling:'minecraft:culling.shelf_mushroom_large',culling_layer:'minecraft:culling_layer.undefined',culling_shape:'',identifier:'minecraft:geometry.shelf_mushroom_large',ignoreGeometryForIsSolid:0b,isV1Fullblock:0b,needsLegacyTopRotation:0b,useBlockTypeLightAbsorption:0b,uv_lock:0b},'minecraft:material_instances':{mappings:{},materials:{large:{ambient_occlusion:0.0f,packed_bools:5b,render_method:'alpha_test_single_sided',texture:'shelf_mushroom_large',tint_method:'none'}}},'minecraft:selection_box':{enabled:1b,origin:[-7.0f,6.0f,-2.0f],size:[14.0f,5.0f,10.0f]}}},{condition:'query.block_state(\\'growth\\') == 1 && query.block_state(\\'minecraft:cardinal_direction\\') == \\'south\\'',components:{'minecraft:collision_box':{boxes:[{maxX:15.0f,maxY:11.0f,maxZ:16.0f,minX:1.0f,minY:4.0f,minZ:6.0f}],enabled:1b},'minecraft:geometry':{bone_visibility:{},culling:'minecraft:culling.shelf_mushroom_large',culling_layer:'minecraft:culling_layer.undefined',culling_shape:'',identifier:'minecraft:geometry.shelf_mushroom_large',ignoreGeometryForIsSolid:0b,isV1Fullblock:0b,needsLegacyTopRotation:0b,useBlockTypeLightAbsorption:0b,uv_lock:0b},'minecraft:material_instances':{mappings:{},materials:{large:{ambient_occlusion:0.0f,packed_bools:5b,render_method:'alpha_test_single_sided',texture:'shelf_mushroom_large',tint_method:'none'}}},'minecraft:selection_box':{enabled:1b,origin:[-7.0f,6.0f,-2.0f],size:[14.0f,5.0f,10.0f]},'minecraft:transformation':{RX:0,RXP:0.0f,RY:2,RYP:0.0f,RZ:0,RZP:0.0f,SX:1.0f,SXP:0.0f,SY:1.0f,SYP:0.0f,SZ:1.0f,SZP:0.0f,TX:0.0f,TY:0.0f,TZ:0.0f,hasJsonVersionBeforeValidation:0b}}},{condition:'query.block_state(\\'growth\\') == 1 && query.block_state(\\'minecraft:cardinal_direction\\') == \\'west\\'',components:{'minecraft:collision_box':{boxes:[{maxX:15.0f,maxY:11.0f,maxZ:16.0f,minX:1.0f,minY:4.0f,minZ:6.0f}],enabled:1b},'minecraft:geometry':{bone_visibility:{},culling:'minecraft:culling.shelf_mushroom_large',culling_layer:'minecraft:culling_layer.undefined',culling_shape:'',identifier:'minecraft:geometry.shelf_mushroom_large',ignoreGeometryForIsSolid:0b,isV1Fullblock:0b,needsLegacyTopRotation:0b,useBlockTypeLightAbsorption:0b,uv_lock:0b},'minecraft:material_instances':{mappings:{},materials:{large:{ambient_occlusion:0.0f,packed_bools:5b,render_method:'alpha_test_single_sided',texture:'shelf_mushroom_large',tint_method:'none'}}},'minecraft:selection_box':{enabled:1b,origin:[-7.0f,6.0f,-2.0f],size:[14.0f,5.0f,10.0f]},'minecraft:transformation':{RX:0,RXP:0.0f,RY:1,RYP:0.0f,RZ:0,RZP:0.0f,SX:1.0f,SXP:0.0f,SY:1.0f,SYP:0.0f,SZ:1.0f,SZP:0.0f,TX:0.0f,TY:0.0f,TZ:0.0f,hasJsonVersionBeforeValidation:0b}}},{condition:'query.block_state(\\'growth\\') == 1 && query.block_state(\\'minecraft:cardinal_direction\\') == \\'east\\'',components:{'minecraft:collision_box':{boxes:[{maxX:15.0f,maxY:11.0f,maxZ:16.0f,minX:1.0f,minY:4.0f,minZ:6.0f}],enabled:1b},'minecraft:geometry':{bone_visibility:{},culling:'minecraft:culling.shelf_mushroom_large',culling_layer:'minecraft:culling_layer.undefined',culling_shape:'',identifier:'minecraft:geometry.shelf_mushroom_large',ignoreGeometryForIsSolid:0b,isV1Fullblock:0b,needsLegacyTopRotation:0b,useBlockTypeLightAbsorption:0b,uv_lock:0b},'minecraft:material_instances':{mappings:{},materials:{large:{ambient_occlusion:0.0f,packed_bools:5b,render_method:'alpha_test_single_sided',texture:'shelf_mushroom_large',tint_method:'none'}}},'minecraft:selection_box':{enabled:1b,origin:[-7.0f,6.0f,-2.0f],size:[14.0f,5.0f,10.0f]},'minecraft:transformation':{RX:0,RXP:0.0f,RY:3,RYP:0.0f,RZ:0,RZP:0.0f,SX:1.0f,SXP:0.0f,SY:1.0f,SYP:0.0f,SZ:1.0f,SZP:0.0f,TX:0.0f,TY:0.0f,TZ:0.0f,hasJsonVersionBeforeValidation:0b}}}]}"
+    "definition": "{vanilla_block_data:{block_id:1452,material:'solid_plant'},molangVersion:13,menu_category:{group:'',category:'nature',is_hidden_in_commands:0b},components:{'minecraft:collision_box':{boxes:[{maxX:13.0f,maxY:11.0f,maxZ:16.0f,minX:3.0f,minY:4.0f,minZ:9.0f}],enabled:1b,shape:'',useVoxelShapes:0b},'minecraft:connection_rule':{accepts_connections_from:'none',enabled_directions:['south','north','east','west']},'minecraft:destructible_by_mining':{value:0.0f},'minecraft:destruction_particles':{particle_count:48,texture:'shelf_mushroom_particle',tint_method:'none'},'minecraft:geometry':{bone_visibility:{},culling:'minecraft:culling.shelf_mushroom_small',culling_layer:'minecraft:culling_layer.undefined',culling_shape:'',identifier:'minecraft:geometry.shelf_mushroom_small',ignoreGeometryForIsSolid:0b,isV1Fullblock:0b,needsLegacyTopRotation:0b,useBlockTypeLightAbsorption:0b,uv_lock:0b},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:0b,liquidType:'water',onLiquidTouches:'popped',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:material_instances':{mappings:{},materials:{small:{ambient_occlusion:0.0f,packed_bools:5b,render_method:'alpha_test_single_sided',texture:'shelf_mushroom_small',tint_method:'none'}}},'minecraft:precipitation_interactions':{precipitation_behavior:'none'},'minecraft:selection_box':{enabled:1b,origin:[-5.0f,8.0f,1.0f],size:[10.0f,3.0f,7.0f]}},permutations:[{condition:'query.block_state(\\'growth\\') == 0 && query.block_state(\\'minecraft:cardinal_direction\\') == \\'south\\'',components:{'minecraft:transformation':{RX:0,RXP:0.0f,RY:2,RYP:0.0f,RZ:0,RZP:0.0f,SX:1.0f,SXP:0.0f,SY:1.0f,SYP:0.0f,SZ:1.0f,SZP:0.0f,TX:0.0f,TY:0.0f,TZ:0.0f,hasJsonVersionBeforeValidation:0b}}},{condition:'query.block_state(\\'growth\\') == 0 && query.block_state(\\'minecraft:cardinal_direction\\') == \\'west\\'',components:{'minecraft:transformation':{RX:0,RXP:0.0f,RY:1,RYP:0.0f,RZ:0,RZP:0.0f,SX:1.0f,SXP:0.0f,SY:1.0f,SYP:0.0f,SZ:1.0f,SZP:0.0f,TX:0.0f,TY:0.0f,TZ:0.0f,hasJsonVersionBeforeValidation:0b}}},{condition:'query.block_state(\\'growth\\') == 0 && query.block_state(\\'minecraft:cardinal_direction\\') == \\'east\\'',components:{'minecraft:transformation':{RX:0,RXP:0.0f,RY:3,RYP:0.0f,RZ:0,RZP:0.0f,SX:1.0f,SXP:0.0f,SY:1.0f,SYP:0.0f,SZ:1.0f,SZP:0.0f,TX:0.0f,TY:0.0f,TZ:0.0f,hasJsonVersionBeforeValidation:0b}}},{condition:'query.block_state(\\'growth\\') == 1 && query.block_state(\\'minecraft:cardinal_direction\\') == \\'north\\'',components:{'minecraft:collision_box':{boxes:[{maxX:15.0f,maxY:11.0f,maxZ:16.0f,minX:1.0f,minY:4.0f,minZ:6.0f}],enabled:1b,shape:'',useVoxelShapes:0b},'minecraft:geometry':{bone_visibility:{},culling:'minecraft:culling.shelf_mushroom_large',culling_layer:'minecraft:culling_layer.undefined',culling_shape:'',identifier:'minecraft:geometry.shelf_mushroom_large',ignoreGeometryForIsSolid:0b,isV1Fullblock:0b,needsLegacyTopRotation:0b,useBlockTypeLightAbsorption:0b,uv_lock:0b},'minecraft:material_instances':{mappings:{},materials:{large:{ambient_occlusion:0.0f,packed_bools:5b,render_method:'alpha_test_single_sided',texture:'shelf_mushroom_large',tint_method:'none'}}},'minecraft:selection_box':{enabled:1b,origin:[-7.0f,6.0f,-2.0f],size:[14.0f,5.0f,10.0f]}}},{condition:'query.block_state(\\'growth\\') == 1 && query.block_state(\\'minecraft:cardinal_direction\\') == \\'south\\'',components:{'minecraft:collision_box':{boxes:[{maxX:15.0f,maxY:11.0f,maxZ:16.0f,minX:1.0f,minY:4.0f,minZ:6.0f}],enabled:1b,shape:'',useVoxelShapes:0b},'minecraft:geometry':{bone_visibility:{},culling:'minecraft:culling.shelf_mushroom_large',culling_layer:'minecraft:culling_layer.undefined',culling_shape:'',identifier:'minecraft:geometry.shelf_mushroom_large',ignoreGeometryForIsSolid:0b,isV1Fullblock:0b,needsLegacyTopRotation:0b,useBlockTypeLightAbsorption:0b,uv_lock:0b},'minecraft:material_instances':{mappings:{},materials:{large:{ambient_occlusion:0.0f,packed_bools:5b,render_method:'alpha_test_single_sided',texture:'shelf_mushroom_large',tint_method:'none'}}},'minecraft:selection_box':{enabled:1b,origin:[-7.0f,6.0f,-2.0f],size:[14.0f,5.0f,10.0f]},'minecraft:transformation':{RX:0,RXP:0.0f,RY:2,RYP:0.0f,RZ:0,RZP:0.0f,SX:1.0f,SXP:0.0f,SY:1.0f,SYP:0.0f,SZ:1.0f,SZP:0.0f,TX:0.0f,TY:0.0f,TZ:0.0f,hasJsonVersionBeforeValidation:0b}}},{condition:'query.block_state(\\'growth\\') == 1 && query.block_state(\\'minecraft:cardinal_direction\\') == \\'west\\'',components:{'minecraft:collision_box':{boxes:[{maxX:15.0f,maxY:11.0f,maxZ:16.0f,minX:1.0f,minY:4.0f,minZ:6.0f}],enabled:1b,shape:'',useVoxelShapes:0b},'minecraft:geometry':{bone_visibility:{},culling:'minecraft:culling.shelf_mushroom_large',culling_layer:'minecraft:culling_layer.undefined',culling_shape:'',identifier:'minecraft:geometry.shelf_mushroom_large',ignoreGeometryForIsSolid:0b,isV1Fullblock:0b,needsLegacyTopRotation:0b,useBlockTypeLightAbsorption:0b,uv_lock:0b},'minecraft:material_instances':{mappings:{},materials:{large:{ambient_occlusion:0.0f,packed_bools:5b,render_method:'alpha_test_single_sided',texture:'shelf_mushroom_large',tint_method:'none'}}},'minecraft:selection_box':{enabled:1b,origin:[-7.0f,6.0f,-2.0f],size:[14.0f,5.0f,10.0f]},'minecraft:transformation':{RX:0,RXP:0.0f,RY:1,RYP:0.0f,RZ:0,RZP:0.0f,SX:1.0f,SXP:0.0f,SY:1.0f,SYP:0.0f,SZ:1.0f,SZP:0.0f,TX:0.0f,TY:0.0f,TZ:0.0f,hasJsonVersionBeforeValidation:0b}}},{condition:'query.block_state(\\'growth\\') == 1 && query.block_state(\\'minecraft:cardinal_direction\\') == \\'east\\'',components:{'minecraft:collision_box':{boxes:[{maxX:15.0f,maxY:11.0f,maxZ:16.0f,minX:1.0f,minY:4.0f,minZ:6.0f}],enabled:1b,shape:'',useVoxelShapes:0b},'minecraft:geometry':{bone_visibility:{},culling:'minecraft:culling.shelf_mushroom_large',culling_layer:'minecraft:culling_layer.undefined',culling_shape:'',identifier:'minecraft:geometry.shelf_mushroom_large',ignoreGeometryForIsSolid:0b,isV1Fullblock:0b,needsLegacyTopRotation:0b,useBlockTypeLightAbsorption:0b,uv_lock:0b},'minecraft:material_instances':{mappings:{},materials:{large:{ambient_occlusion:0.0f,packed_bools:5b,render_method:'alpha_test_single_sided',texture:'shelf_mushroom_large',tint_method:'none'}}},'minecraft:selection_box':{enabled:1b,origin:[-7.0f,6.0f,-2.0f],size:[14.0f,5.0f,10.0f]},'minecraft:transformation':{RX:0,RXP:0.0f,RY:3,RYP:0.0f,RZ:0,RZP:0.0f,SX:1.0f,SXP:0.0f,SY:1.0f,SYP:0.0f,SZ:1.0f,SZP:0.0f,TX:0.0f,TY:0.0f,TZ:0.0f,hasJsonVersionBeforeValidation:0b}}}]}"
   }, {
     "name": "minecraft:short_dry_grass",
     "default_state_id": 1208577191,
@@ -13423,7 +13615,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shovel_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1519,material:'solid'},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.5f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'}},blockTags:['minecraft:is_shovel_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1519,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.5f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shovel_item_destructible']}"
   }, {
     "name": "minecraft:snow_brick_slab",
     "default_state_id": 2003876729,
@@ -13435,7 +13627,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shovel_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1518,material:'solid'},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'nature',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.5f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]}},blockTags:['minecraft:is_shovel_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1518,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'nature',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.5f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]}},blockTags:['minecraft:is_shovel_item_destructible']}"
   }, {
     "name": "minecraft:snow_brick_stairs",
     "default_state_id": -22462912,
@@ -13447,7 +13639,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:cornerable_stairs", "minecraft:is_shovel_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1517,material:'solid'},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'nature',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.5f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shovel_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1517,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'nature',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.5f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shovel_item_destructible']}"
   }, {
     "name": "minecraft:snow_brick_wall",
     "default_state_id": -1338920731,
@@ -13471,7 +13663,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shovel_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1516,material:'solid'},molangVersion:13,menu_category:{group:'',category:'nature',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.5f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'},'minecraft:geometry':{bone_visibility:{},culling:'',culling_layer:'minecraft:culling_layer.undefined',culling_shape:'',identifier:'minecraft:geometry.full_block',ignoreGeometryForIsSolid:0b,isV1Fullblock:0b,needsLegacyTopRotation:0b,useBlockTypeLightAbsorption:0b,uv_lock:0b},'minecraft:material_instances':{mappings:{},materials:{'*':{ambient_occlusion:1.0f,packed_bools:5b,render_method:'opaque',texture:'snow_bricks',tint_method:'none'}}}},blockTags:['minecraft:is_shovel_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1516,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'',category:'nature',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.5f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'},'minecraft:geometry':{bone_visibility:{},culling:'',culling_layer:'minecraft:culling_layer.undefined',culling_shape:'',identifier:'minecraft:geometry.full_block',ignoreGeometryForIsSolid:0b,isV1Fullblock:0b,needsLegacyTopRotation:0b,useBlockTypeLightAbsorption:0b,uv_lock:0b},'minecraft:light_dampening':{lightLevel:15b},'minecraft:material_instances':{mappings:{},materials:{'*':{ambient_occlusion:1.0f,packed_bools:5b,render_method:'opaque',texture:'snow_bricks',tint_method:'none'}}},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shovel_item_destructible']}"
   }, {
     "name": "minecraft:snow_layer",
     "default_state_id": -595350462,
