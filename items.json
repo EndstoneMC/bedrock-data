@@ -14212,7 +14212,7 @@
     "id": 854,
     "version": 1,
     "component_based": true,
-    "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:3,creative_group:'',damage:0,enchantable_slot:'none',enchantable_value:0,foil:0b,frame_count:1,hand_equipped:0b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:16,'minecraft:icon':{textures:{default:'ice_ball'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:0},item_tags:[],'minecraft:display_name':{value:'item.ice_ball.name'},'minecraft:max_stack_size':{value:16b},'minecraft:projectile':{minimum_critical_power:0.0f,projectile_entity:'minecraft:ice_ball<>'},'minecraft:throwable':{do_swing_animation:1b,launch_power_scale:1.0f,max_draw_duration:0.0f,max_launch_power:1.0f,min_draw_duration:0.0f,scale_power_by_draw_duration:0b}}",
+    "components": "{item_properties:{allow_off_hand:0b,can_destroy_in_creative:1b,creative_category:3,creative_group:'',damage:0,enchantable_slot:'none',enchantable_value:0,foil:0b,frame_count:1,hand_equipped:0b,hidden_in_commands:2b,liquid_clipped:0b,max_stack_size:16,'minecraft:icon':{textures:{default:'ice_ball'}},mining_speed:1.0f,should_despawn:1b,stacked_by_data:0b,use_animation:0,use_duration:0},item_tags:[],'minecraft:display_name':{value:'item.ice_ball.name'},'minecraft:max_stack_size':{value:16b},'minecraft:projectile':{minimum_critical_power:-1.0f,projectile_entity:'minecraft:ice_ball<>'},'minecraft:throwable':{do_swing_animation:1b,launch_power_scale:1.0f,max_draw_duration:0.0f,max_launch_power:1.0f,min_draw_duration:0.0f,scale_power_by_draw_duration:0b}}",
     "tags": [],
     "max_stack_size": 16,
     "max_damage": 0,

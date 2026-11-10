@@ -1102,7 +1102,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1439,material:'solid',can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1439,material:'solid'},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:black_wool_slab",
     "default_state_id": -496896735,
@@ -1114,7 +1114,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1423,material:'solid',translucency:0.8f,can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1423,material:'solid',translucency:0.8f},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:black_wool_stairs",
     "default_state_id": -596714416,
@@ -1126,7 +1126,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:cornerable_stairs", "minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1419,material:'solid',translucency:0.8f,can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1419,material:'solid',translucency:0.8f},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:blackstone",
     "default_state_id": -2017701205,
@@ -1383,7 +1383,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1448,material:'solid',can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1448,material:'solid'},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:blue_wool_slab",
     "default_state_id": -1887734285,
@@ -1395,7 +1395,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1432,material:'solid',translucency:0.8f,can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1432,material:'solid',translucency:0.8f},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:blue_wool_stairs",
     "default_state_id": 492265362,
@@ -1407,7 +1407,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:cornerable_stairs", "minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1406,material:'solid',translucency:0.8f,can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1406,material:'solid',translucency:0.8f},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:bone_block",
     "default_state_id": 279386582,
@@ -1752,7 +1752,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1440,material:'solid',can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1440,material:'solid'},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:brown_wool_slab",
     "default_state_id": 1338941956,
@@ -1764,7 +1764,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1424,material:'solid',translucency:0.8f,can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1424,material:'solid',translucency:0.8f},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:brown_wool_stairs",
     "default_state_id": 92164027,
@@ -1776,7 +1776,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:cornerable_stairs", "minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1418,material:'solid',translucency:0.8f,can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1418,material:'solid',translucency:0.8f},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:bubble_column",
     "default_state_id": -1919935080,
@@ -2476,7 +2476,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_pickaxe_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1536,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'},'minecraft:geometry':{bone_visibility:{},culling:'',culling_layer:'minecraft:culling_layer.undefined',culling_shape:'',identifier:'minecraft:geometry.full_block',ignoreGeometryForIsSolid:0b,isV1Fullblock:0b,needsLegacyTopRotation:0b,useBlockTypeLightAbsorption:0b,uv_lock:0b},'minecraft:light_dampening':{lightLevel:15b},'minecraft:material_instances':{mappings:{},materials:{'*':{ambient_occlusion:1.0f,packed_bools:5b,render_method:'opaque',texture:'chiseled_soulshale',tint_method:'none'}}},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1536,material:'solid'},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:2.0f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'},'minecraft:geometry':{bone_visibility:{},culling:'',culling_layer:'minecraft:culling_layer.undefined',culling_shape:'',identifier:'minecraft:geometry.full_block',ignoreGeometryForIsSolid:0b,isV1Fullblock:0b,needsLegacyTopRotation:0b,useBlockTypeLightAbsorption:0b,uv_lock:0b},'minecraft:light_dampening':{lightLevel:15b},'minecraft:material_instances':{mappings:{},materials:{'*':{ambient_occlusion:1.0f,packed_bools:5b,render_method:'opaque',texture:'chiseled_soulshale',tint_method:'none'}}},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
   }, {
     "name": "minecraft:chiseled_stone_bricks",
     "default_state_id": 1117720546,
@@ -3646,7 +3646,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1446,material:'solid',can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1446,material:'solid'},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:cyan_wool_slab",
     "default_state_id": 103704446,
@@ -3658,7 +3658,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1430,material:'solid',translucency:0.8f,can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1430,material:'solid',translucency:0.8f},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:cyan_wool_stairs",
     "default_state_id": -665916607,
@@ -3670,7 +3670,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:cornerable_stairs", "minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1415,material:'solid',translucency:0.8f,can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1415,material:'solid',translucency:0.8f},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:damaged_anvil",
     "default_state_id": -467540639,
@@ -6875,7 +6875,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1438,material:'solid',can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1438,material:'solid'},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:gray_wool_slab",
     "default_state_id": 882531302,
@@ -6887,7 +6887,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1422,material:'solid',translucency:0.8f,can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1422,material:'solid',translucency:0.8f},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:gray_wool_stairs",
     "default_state_id": 245859089,
@@ -6899,7 +6899,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:cornerable_stairs", "minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1413,material:'solid',translucency:0.8f,can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1413,material:'solid',translucency:0.8f},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:green_candle",
     "default_state_id": 1000092441,
@@ -7068,7 +7068,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1445,material:'solid',can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1445,material:'solid'},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:green_wool_slab",
     "default_state_id": 1308145817,
@@ -7080,7 +7080,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1429,material:'solid',translucency:0.8f,can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1429,material:'solid',translucency:0.8f},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:green_wool_stairs",
     "default_state_id": 1696534368,
@@ -7092,7 +7092,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:cornerable_stairs", "minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1417,material:'solid',translucency:0.8f,can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1417,material:'solid',translucency:0.8f},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:grindstone",
     "default_state_id": 1003295416,
@@ -8515,7 +8515,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1447,material:'solid',can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1447,material:'solid'},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:light_blue_wool_slab",
     "default_state_id": -1538169118,
@@ -8527,7 +8527,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1431,material:'solid',translucency:0.8f,can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1431,material:'solid',translucency:0.8f},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:light_blue_wool_stairs",
     "default_state_id": 454909105,
@@ -8539,7 +8539,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:cornerable_stairs", "minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1409,material:'solid',translucency:0.8f,can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1409,material:'solid',translucency:0.8f},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:light_gray_candle",
     "default_state_id": 2060361839,
@@ -8697,7 +8697,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1437,material:'solid',can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1437,material:'solid'},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:light_gray_wool_slab",
     "default_state_id": 1380068187,
@@ -8709,7 +8709,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1421,material:'solid',translucency:0.8f,can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1421,material:'solid',translucency:0.8f},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:light_gray_wool_stairs",
     "default_state_id": 1390183462,
@@ -8721,7 +8721,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:cornerable_stairs", "minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1414,material:'solid',translucency:0.8f,can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1414,material:'solid',translucency:0.8f},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:light_weighted_pressure_plate",
     "default_state_id": -1904165458,
@@ -8934,7 +8934,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1444,material:'solid',can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1444,material:'solid'},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:lime_wool_slab",
     "default_state_id": -783395348,
@@ -8946,7 +8946,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1428,material:'solid',translucency:0.8f,can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1428,material:'solid',translucency:0.8f},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:lime_wool_stairs",
     "default_state_id": 1107729115,
@@ -8958,7 +8958,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:cornerable_stairs", "minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1411,material:'solid',translucency:0.8f,can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1411,material:'solid',translucency:0.8f},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:lit_blast_furnace",
     "default_state_id": 1464259042,
@@ -9226,7 +9226,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1450,material:'solid',can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1450,material:'solid'},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:magenta_wool_slab",
     "default_state_id": 1048533111,
@@ -9238,7 +9238,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1434,material:'solid',translucency:0.8f,can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1434,material:'solid',translucency:0.8f},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:magenta_wool_stairs",
     "default_state_id": -25089162,
@@ -9250,7 +9250,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:cornerable_stairs", "minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1408,material:'solid',translucency:0.8f,can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1408,material:'solid',translucency:0.8f},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:magma",
     "default_state_id": 1719727561,
@@ -10310,7 +10310,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1442,material:'solid',can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1442,material:'solid'},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:orange_wool_slab",
     "default_state_id": -1551284733,
@@ -10322,7 +10322,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1426,material:'solid',translucency:0.8f,can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1426,material:'solid',translucency:0.8f},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:orange_wool_stairs",
     "default_state_id": -1649686130,
@@ -10334,7 +10334,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:cornerable_stairs", "minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1407,material:'solid',translucency:0.8f,can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1407,material:'solid',translucency:0.8f},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:oxeye_daisy",
     "default_state_id": 2004595907,
@@ -11080,7 +11080,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1451,material:'solid',can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1451,material:'solid'},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:pink_wool_slab",
     "default_state_id": -1996218601,
@@ -11092,7 +11092,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1435,material:'solid',translucency:0.8f,can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1435,material:'solid',translucency:0.8f},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:pink_wool_stairs",
     "default_state_id": 493728338,
@@ -11104,7 +11104,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:cornerable_stairs", "minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1412,material:'solid',translucency:0.8f,can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1412,material:'solid',translucency:0.8f},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:piston",
     "default_state_id": 1899755433,
@@ -12350,7 +12350,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1449,material:'solid',can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1449,material:'solid'},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:purple_wool_slab",
     "default_state_id": -1975697473,
@@ -12362,7 +12362,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1433,material:'solid',translucency:0.8f,can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1433,material:'solid',translucency:0.8f},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:purple_wool_stairs",
     "default_state_id": 777406486,
@@ -12374,7 +12374,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:cornerable_stairs", "minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1416,material:'solid',translucency:0.8f,can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1416,material:'solid',translucency:0.8f},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:purpur_block",
     "default_state_id": -2047108768,
@@ -12896,7 +12896,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1441,material:'solid',can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1441,material:'solid'},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:red_wool_slab",
     "default_state_id": -1973135973,
@@ -12908,7 +12908,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1425,material:'solid',translucency:0.8f,can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1425,material:'solid',translucency:0.8f},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:red_wool_stairs",
     "default_state_id": -1144556834,
@@ -12920,7 +12920,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:cornerable_stairs", "minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1404,material:'solid',translucency:0.8f,can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1404,material:'solid',translucency:0.8f},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:redstone_block",
     "default_state_id": 512666773,
@@ -16395,7 +16395,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1436,material:'solid',can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1436,material:'solid'},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:white_wool_slab",
     "default_state_id": 1990068687,
@@ -16407,7 +16407,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1420,material:'solid',translucency:0.8f,can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1420,material:'solid',translucency:0.8f},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:white_wool_stairs",
     "default_state_id": 1191707346,
@@ -16419,7 +16419,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:cornerable_stairs", "minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1405,material:'solid',translucency:0.8f,can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1405,material:'solid',translucency:0.8f},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:wildflowers",
     "default_state_id": -390925247,
@@ -16665,7 +16665,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1443,material:'solid',can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1443,material:'solid'},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:1b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:yellow_wool_slab",
     "default_state_id": 542999925,
@@ -16677,7 +16677,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1427,material:'solid',translucency:0.8f,can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1427,material:'solid',translucency:0.8f},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.slab',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:yellow_wool_stairs",
     "default_state_id": -829473644,
@@ -16689,7 +16689,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:cornerable_stairs", "minecraft:is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1410,material:'solid',translucency:0.8f,can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1410,material:'solid',translucency:0.8f},molangVersion:13,menu_category:{group:'minecraft:itemGroup.name.stairs',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:0b},'minecraft:support':{shape:'stair'}},blockTags:['minecraft:is_shears_item_destructible']}"
   }, {
     "name": "minecraft:zombie_head",
     "default_state_id": 235396048,
