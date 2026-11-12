@@ -1,0 +1,69 @@
+{
+  "presets": [{
+    "name": "minecraft:aim_assist_default",
+    "identifier": "minecraft:aim_assist_default",
+    "exclusion_settings": {
+      "blocks": ["minecraft:bedrock"],
+      "entities": ["minecraft:arrow"],
+      "block_tags": [],
+      "entity_type_families": []
+    },
+    "liquid_targeting_list": ["minecraft:bucket", "minecraft:oak_boat", "minecraft:birch_boat", "minecraft:spruce_boat", "minecraft:jungle_boat", "minecraft:acacia_boat", "minecraft:dark_oak_boat", "minecraft:mangrove_boat", "minecraft:cherry_boat", "minecraft:bamboo_raft", "minecraft:oak_chest_boat", "minecraft:birch_chest_boat", "minecraft:spruce_chest_boat", "minecraft:jungle_chest_boat", "minecraft:acacia_chest_boat", "minecraft:dark_oak_chest_boat", "minecraft:mangrove_chest_boat", "minecraft:cherry_chest_boat", "minecraft:bamboo_chest_raft"],
+    "item_settings": {
+      "minecraft:bucket": "minecraft:bucket"
+    },
+    "default_item_settings": "minecraft:default",
+    "hand_settings": "minecraft:empty_hand"
+  }],
+  "categories": [{
+    "name": "minecraft:bucket",
+    "name": "minecraft:bucket",
+    "priorities": {
+      "entities": {},
+      "blocks": {
+        "minecraft:cauldron": 60,
+        "minecraft:lava": 60,
+        "minecraft:water": 60
+      },
+      "block_tags": {},
+      "entity_type_families": {},
+      "entity_default": 30,
+      "block_default": 30
+    }
+  }, {
+    "name": "minecraft:default",
+    "name": "minecraft:default",
+    "priorities": {
+      "entities": {},
+      "blocks": {
+        "minecraft:birch_button": 60,
+        "minecraft:dark_oak_button": 60,
+        "minecraft:lever": 60,
+        "minecraft:oak_button": 60,
+        "minecraft:spruce_button": 60
+      },
+      "block_tags": {},
+      "entity_type_families": {}
+    }
+  }, {
+    "name": "minecraft:empty_hand",
+    "name": "minecraft:empty_hand",
+    "priorities": {
+      "entities": {},
+      "blocks": {
+        "minecraft:acacia_log": 60,
+        "minecraft:birch_log": 60,
+        "minecraft:cherry_log": 60,
+        "minecraft:dark_oak_log": 60,
+        "minecraft:jungle_log": 60,
+        "minecraft:mangrove_log": 60,
+        "minecraft:oak_log": 60,
+        "minecraft:spruce_log": 60
+      },
+      "block_tags": {},
+      "entity_type_families": {},
+      "entity_default": 30,
+      "block_default": 30
+    }
+  }]
+}
