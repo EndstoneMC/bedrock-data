@@ -11011,10 +11011,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 22,
+      "g": 156,
+      "b": 156
     },
     "full_support_faces": 63,
     "redstone": {
@@ -11049,10 +11049,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 22,
+      "g": 156,
+      "b": 156
     },
     "full_support_faces": 63,
     "redstone": {
@@ -13556,10 +13556,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 58,
+      "g": 179,
+      "b": 218
     },
     "full_support_faces": 63,
     "redstone": {
@@ -13594,10 +13594,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 58,
+      "g": 179,
+      "b": 218
     },
     "full_support_faces": 63,
     "redstone": {
@@ -17499,10 +17499,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 233,
+      "g": 236,
+      "b": 236
     },
     "full_support_faces": 63,
     "redstone": {
@@ -17537,10 +17537,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 233,
+      "g": 236,
+      "b": 236
     },
     "full_support_faces": 63,
     "redstone": {
@@ -49102,10 +49102,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 128,
+      "g": 199,
+      "b": 31
     },
     "connection_rule": {
       "connections_from": 15,
@@ -49144,10 +49144,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 128,
+      "g": 199,
+      "b": 31
     },
     "connection_rule": {
       "connections_from": 15,
@@ -49186,10 +49186,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 128,
+      "g": 199,
+      "b": 31
     },
     "connection_rule": {
       "connections_from": 15,
@@ -49228,10 +49228,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 128,
+      "g": 199,
+      "b": 31
     },
     "connection_rule": {
       "connections_from": 15,
@@ -49270,10 +49270,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 128,
+      "g": 199,
+      "b": 31
     },
     "connection_rule": {
       "connections_from": 15,
@@ -49312,10 +49312,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 128,
+      "g": 199,
+      "b": 31
     },
     "connection_rule": {
       "connections_from": 15,
@@ -49354,10 +49354,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 128,
+      "g": 199,
+      "b": 31
     },
     "connection_rule": {
       "connections_from": 15,
@@ -49396,10 +49396,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 128,
+      "g": 199,
+      "b": 31
     },
     "connection_rule": {
       "connections_from": 15,
@@ -49591,10 +49591,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -49629,10 +49629,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -49781,10 +49781,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -49819,10 +49819,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -51109,10 +51109,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -51147,10 +51147,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -51337,10 +51337,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -51375,10 +51375,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -63314,10 +63314,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -63352,10 +63352,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -63390,10 +63390,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -63428,10 +63428,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -76108,10 +76108,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 94,
+      "g": 124,
+      "b": 22
     },
     "full_support_faces": 63,
     "redstone": {
@@ -76146,10 +76146,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 94,
+      "g": 124,
+      "b": 22
     },
     "full_support_faces": 63,
     "redstone": {
@@ -105856,10 +105856,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -112563,10 +112563,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -112753,10 +112753,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 29,
+      "g": 29,
+      "b": 33
     },
     "full_support_faces": 63,
     "redstone": {
@@ -112791,10 +112791,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 29,
+      "g": 29,
+      "b": 33
     },
     "full_support_faces": 63,
     "redstone": {
@@ -112905,10 +112905,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 137,
+      "g": 50,
+      "b": 184
     },
     "connection_rule": {
       "connections_from": 0,
@@ -112947,10 +112947,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 137,
+      "g": 50,
+      "b": 184
     },
     "connection_rule": {
       "connections_from": 0,
@@ -114589,10 +114589,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "connection_rule": {
       "connections_from": 0,
@@ -114627,10 +114627,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "connection_rule": {
       "connections_from": 0,
@@ -114665,10 +114665,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "connection_rule": {
       "connections_from": 0,
@@ -114703,10 +114703,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "connection_rule": {
       "connections_from": 0,
@@ -117173,10 +117173,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -117211,10 +117211,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -130729,10 +130729,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 170,
+      "g": 170,
+      "b": 170
     },
     "connection_rule": {
       "connections_from": 0,
@@ -130767,10 +130767,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 170,
+      "g": 170,
+      "b": 170
     },
     "connection_rule": {
       "connections_from": 0,
@@ -130805,10 +130805,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 170,
+      "g": 170,
+      "b": 170
     },
     "connection_rule": {
       "connections_from": 0,
@@ -130843,10 +130843,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 170,
+      "g": 170,
+      "b": 170
     },
     "connection_rule": {
       "connections_from": 0,
@@ -130881,10 +130881,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 170,
+      "g": 170,
+      "b": 170
     },
     "connection_rule": {
       "connections_from": 0,
@@ -130919,10 +130919,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 170,
+      "g": 170,
+      "b": 170
     },
     "connection_rule": {
       "connections_from": 0,
@@ -130957,10 +130957,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 170,
+      "g": 170,
+      "b": 170
     },
     "connection_rule": {
       "connections_from": 0,
@@ -130995,10 +130995,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 170,
+      "g": 170,
+      "b": 170
     },
     "connection_rule": {
       "connections_from": 0,
@@ -131033,10 +131033,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 170,
+      "g": 170,
+      "b": 170
     },
     "connection_rule": {
       "connections_from": 0,
@@ -131071,10 +131071,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 170,
+      "g": 170,
+      "b": 170
     },
     "connection_rule": {
       "connections_from": 0,
@@ -131109,10 +131109,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 170,
+      "g": 170,
+      "b": 170
     },
     "connection_rule": {
       "connections_from": 0,
@@ -131147,10 +131147,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 170,
+      "g": 170,
+      "b": 170
     },
     "connection_rule": {
       "connections_from": 0,
@@ -131185,10 +131185,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 170,
+      "g": 170,
+      "b": 170
     },
     "connection_rule": {
       "connections_from": 0,
@@ -131223,10 +131223,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 170,
+      "g": 170,
+      "b": 170
     },
     "connection_rule": {
       "connections_from": 0,
@@ -131261,10 +131261,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 170,
+      "g": 170,
+      "b": 170
     },
     "connection_rule": {
       "connections_from": 0,
@@ -131299,10 +131299,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 170,
+      "g": 170,
+      "b": 170
     },
     "connection_rule": {
       "connections_from": 0,
@@ -131337,10 +131337,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 233,
+      "g": 236,
+      "b": 236
     },
     "connection_rule": {
       "connections_from": 0,
@@ -131379,10 +131379,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 233,
+      "g": 236,
+      "b": 236
     },
     "connection_rule": {
       "connections_from": 0,
@@ -134690,10 +134690,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 243,
+      "g": 139,
+      "b": 170
     },
     "connection_rule": {
       "connections_from": 0,
@@ -134732,10 +134732,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 243,
+      "g": 139,
+      "b": 170
     },
     "connection_rule": {
       "connections_from": 0,
@@ -148514,10 +148514,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 249,
+      "g": 128,
+      "b": 29
     },
     "full_support_faces": 63,
     "redstone": {
@@ -148552,10 +148552,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 249,
+      "g": 128,
+      "b": 29
     },
     "full_support_faces": 63,
     "redstone": {
@@ -156054,10 +156054,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 29,
+      "g": 29,
+      "b": 33
     },
     "connection_rule": {
       "connections_from": 15,
@@ -156096,10 +156096,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 29,
+      "g": 29,
+      "b": 33
     },
     "connection_rule": {
       "connections_from": 15,
@@ -156138,10 +156138,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 29,
+      "g": 29,
+      "b": 33
     },
     "connection_rule": {
       "connections_from": 15,
@@ -156180,10 +156180,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 29,
+      "g": 29,
+      "b": 33
     },
     "connection_rule": {
       "connections_from": 15,
@@ -156222,10 +156222,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 29,
+      "g": 29,
+      "b": 33
     },
     "connection_rule": {
       "connections_from": 15,
@@ -156264,10 +156264,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 29,
+      "g": 29,
+      "b": 33
     },
     "connection_rule": {
       "connections_from": 15,
@@ -156306,10 +156306,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 29,
+      "g": 29,
+      "b": 33
     },
     "connection_rule": {
       "connections_from": 15,
@@ -156348,10 +156348,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 29,
+      "g": 29,
+      "b": 33
     },
     "connection_rule": {
       "connections_from": 15,
@@ -171472,10 +171472,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "connection_rule": {
       "connections_from": 0,
@@ -171510,10 +171510,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "connection_rule": {
       "connections_from": 0,
@@ -171548,10 +171548,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "connection_rule": {
       "connections_from": 0,
@@ -171586,10 +171586,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "connection_rule": {
       "connections_from": 0,
@@ -177981,10 +177981,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 94,
+      "g": 124,
+      "b": 22
     },
     "connection_rule": {
       "connections_from": 15,
@@ -178023,10 +178023,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 94,
+      "g": 124,
+      "b": 22
     },
     "connection_rule": {
       "connections_from": 15,
@@ -178065,10 +178065,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 94,
+      "g": 124,
+      "b": 22
     },
     "connection_rule": {
       "connections_from": 15,
@@ -178107,10 +178107,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 94,
+      "g": 124,
+      "b": 22
     },
     "connection_rule": {
       "connections_from": 15,
@@ -178149,10 +178149,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 94,
+      "g": 124,
+      "b": 22
     },
     "connection_rule": {
       "connections_from": 15,
@@ -178191,10 +178191,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 94,
+      "g": 124,
+      "b": 22
     },
     "connection_rule": {
       "connections_from": 15,
@@ -178233,10 +178233,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 94,
+      "g": 124,
+      "b": 22
     },
     "connection_rule": {
       "connections_from": 15,
@@ -178275,10 +178275,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 94,
+      "g": 124,
+      "b": 22
     },
     "connection_rule": {
       "connections_from": 15,
@@ -215891,10 +215891,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -215929,10 +215929,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -215967,10 +215967,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -216005,10 +216005,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -220135,10 +220135,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 131,
+      "g": 84,
+      "b": 50
     },
     "connection_rule": {
       "connections_from": 15,
@@ -220177,10 +220177,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 131,
+      "g": 84,
+      "b": 50
     },
     "connection_rule": {
       "connections_from": 15,
@@ -220219,10 +220219,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 131,
+      "g": 84,
+      "b": 50
     },
     "connection_rule": {
       "connections_from": 15,
@@ -220261,10 +220261,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 131,
+      "g": 84,
+      "b": 50
     },
     "connection_rule": {
       "connections_from": 15,
@@ -220303,10 +220303,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 131,
+      "g": 84,
+      "b": 50
     },
     "connection_rule": {
       "connections_from": 15,
@@ -220345,10 +220345,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 131,
+      "g": 84,
+      "b": 50
     },
     "connection_rule": {
       "connections_from": 15,
@@ -220387,10 +220387,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 131,
+      "g": 84,
+      "b": 50
     },
     "connection_rule": {
       "connections_from": 15,
@@ -220429,10 +220429,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 131,
+      "g": 84,
+      "b": 50
     },
     "connection_rule": {
       "connections_from": 15,
@@ -221079,10 +221079,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 157,
+      "g": 157,
+      "b": 151
     },
     "connection_rule": {
       "connections_from": 15,
@@ -221121,10 +221121,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 157,
+      "g": 157,
+      "b": 151
     },
     "connection_rule": {
       "connections_from": 15,
@@ -221163,10 +221163,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 157,
+      "g": 157,
+      "b": 151
     },
     "connection_rule": {
       "connections_from": 15,
@@ -221205,10 +221205,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 157,
+      "g": 157,
+      "b": 151
     },
     "connection_rule": {
       "connections_from": 15,
@@ -221247,10 +221247,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 157,
+      "g": 157,
+      "b": 151
     },
     "connection_rule": {
       "connections_from": 15,
@@ -221289,10 +221289,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 157,
+      "g": 157,
+      "b": 151
     },
     "connection_rule": {
       "connections_from": 15,
@@ -221331,10 +221331,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 157,
+      "g": 157,
+      "b": 151
     },
     "connection_rule": {
       "connections_from": 15,
@@ -221373,10 +221373,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 157,
+      "g": 157,
+      "b": 151
     },
     "connection_rule": {
       "connections_from": 15,
@@ -222023,10 +222023,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -226685,10 +226685,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 199,
+      "g": 78,
+      "b": 189
     },
     "connection_rule": {
       "connections_from": 15,
@@ -226727,10 +226727,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 199,
+      "g": 78,
+      "b": 189
     },
     "connection_rule": {
       "connections_from": 15,
@@ -226769,10 +226769,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 199,
+      "g": 78,
+      "b": 189
     },
     "connection_rule": {
       "connections_from": 15,
@@ -226811,10 +226811,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 199,
+      "g": 78,
+      "b": 189
     },
     "connection_rule": {
       "connections_from": 15,
@@ -226853,10 +226853,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 199,
+      "g": 78,
+      "b": 189
     },
     "connection_rule": {
       "connections_from": 15,
@@ -226895,10 +226895,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 199,
+      "g": 78,
+      "b": 189
     },
     "connection_rule": {
       "connections_from": 15,
@@ -226937,10 +226937,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 199,
+      "g": 78,
+      "b": 189
     },
     "connection_rule": {
       "connections_from": 15,
@@ -226979,10 +226979,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 199,
+      "g": 78,
+      "b": 189
     },
     "connection_rule": {
       "connections_from": 15,
@@ -229685,10 +229685,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 254,
+      "g": 216,
+      "b": 61
     },
     "connection_rule": {
       "connections_from": 15,
@@ -229727,10 +229727,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 254,
+      "g": 216,
+      "b": 61
     },
     "connection_rule": {
       "connections_from": 15,
@@ -229769,10 +229769,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 254,
+      "g": 216,
+      "b": 61
     },
     "connection_rule": {
       "connections_from": 15,
@@ -229811,10 +229811,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 254,
+      "g": 216,
+      "b": 61
     },
     "connection_rule": {
       "connections_from": 15,
@@ -229853,10 +229853,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 254,
+      "g": 216,
+      "b": 61
     },
     "connection_rule": {
       "connections_from": 15,
@@ -229895,10 +229895,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 254,
+      "g": 216,
+      "b": 61
     },
     "connection_rule": {
       "connections_from": 15,
@@ -229937,10 +229937,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 254,
+      "g": 216,
+      "b": 61
     },
     "connection_rule": {
       "connections_from": 15,
@@ -229979,10 +229979,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 254,
+      "g": 216,
+      "b": 61
     },
     "connection_rule": {
       "connections_from": 15,
@@ -230021,10 +230021,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 71,
+      "g": 79,
+      "b": 82
     },
     "connection_rule": {
       "connections_from": 15,
@@ -230063,10 +230063,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 71,
+      "g": 79,
+      "b": 82
     },
     "connection_rule": {
       "connections_from": 15,
@@ -230105,10 +230105,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 71,
+      "g": 79,
+      "b": 82
     },
     "connection_rule": {
       "connections_from": 15,
@@ -230147,10 +230147,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 71,
+      "g": 79,
+      "b": 82
     },
     "connection_rule": {
       "connections_from": 15,
@@ -230189,10 +230189,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 71,
+      "g": 79,
+      "b": 82
     },
     "connection_rule": {
       "connections_from": 15,
@@ -230231,10 +230231,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 71,
+      "g": 79,
+      "b": 82
     },
     "connection_rule": {
       "connections_from": 15,
@@ -230273,10 +230273,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 71,
+      "g": 79,
+      "b": 82
     },
     "connection_rule": {
       "connections_from": 15,
@@ -230315,10 +230315,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 71,
+      "g": 79,
+      "b": 82
     },
     "connection_rule": {
       "connections_from": 15,
@@ -230695,10 +230695,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 160,
+      "g": 39,
+      "b": 34
     },
     "connection_rule": {
       "connections_from": 15,
@@ -230737,10 +230737,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 160,
+      "g": 39,
+      "b": 34
     },
     "connection_rule": {
       "connections_from": 15,
@@ -230779,10 +230779,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 160,
+      "g": 39,
+      "b": 34
     },
     "connection_rule": {
       "connections_from": 15,
@@ -230821,10 +230821,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 160,
+      "g": 39,
+      "b": 34
     },
     "connection_rule": {
       "connections_from": 15,
@@ -230863,10 +230863,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 160,
+      "g": 39,
+      "b": 34
     },
     "connection_rule": {
       "connections_from": 15,
@@ -230905,10 +230905,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 160,
+      "g": 39,
+      "b": 34
     },
     "connection_rule": {
       "connections_from": 15,
@@ -230947,10 +230947,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 160,
+      "g": 39,
+      "b": 34
     },
     "connection_rule": {
       "connections_from": 15,
@@ -230989,10 +230989,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 160,
+      "g": 39,
+      "b": 34
     },
     "connection_rule": {
       "connections_from": 15,
@@ -250728,10 +250728,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 254,
+      "g": 216,
+      "b": 61
     },
     "connection_rule": {
       "connections_from": 0,
@@ -250770,10 +250770,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 254,
+      "g": 216,
+      "b": 61
     },
     "connection_rule": {
       "connections_from": 0,
@@ -254171,10 +254171,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 131,
+      "g": 84,
+      "b": 50
     },
     "connection_rule": {
       "connections_from": 0,
@@ -254213,10 +254213,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 131,
+      "g": 84,
+      "b": 50
     },
     "connection_rule": {
       "connections_from": 0,
@@ -256219,10 +256219,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -256257,10 +256257,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -256295,10 +256295,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -256333,10 +256333,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -256371,10 +256371,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 243,
+      "g": 139,
+      "b": 170
     },
     "full_support_faces": 63,
     "redstone": {
@@ -256409,10 +256409,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 243,
+      "g": 139,
+      "b": 170
     },
     "full_support_faces": 63,
     "redstone": {
@@ -264428,10 +264428,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "connection_rule": {
       "connections_from": 0,
@@ -264466,10 +264466,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "connection_rule": {
       "connections_from": 0,
@@ -264504,10 +264504,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "connection_rule": {
       "connections_from": 0,
@@ -264542,10 +264542,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "connection_rule": {
       "connections_from": 0,
@@ -264808,10 +264808,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 199,
+      "g": 78,
+      "b": 189
     },
     "connection_rule": {
       "connections_from": 0,
@@ -264850,10 +264850,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 199,
+      "g": 78,
+      "b": 189
     },
     "connection_rule": {
       "connections_from": 0,
@@ -264930,10 +264930,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -264968,10 +264968,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -265006,10 +265006,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -265044,10 +265044,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -272408,10 +272408,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 128,
+      "g": 199,
+      "b": 31
     },
     "connection_rule": {
       "connections_from": 0,
@@ -272450,10 +272450,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 128,
+      "g": 199,
+      "b": 31
     },
     "connection_rule": {
       "connections_from": 0,
@@ -279301,10 +279301,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 46,
+      "g": 56,
+      "b": 141
     },
     "connection_rule": {
       "connections_from": 15,
@@ -279343,10 +279343,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 46,
+      "g": 56,
+      "b": 141
     },
     "connection_rule": {
       "connections_from": 15,
@@ -279385,10 +279385,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 46,
+      "g": 56,
+      "b": 141
     },
     "connection_rule": {
       "connections_from": 15,
@@ -279427,10 +279427,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 46,
+      "g": 56,
+      "b": 141
     },
     "connection_rule": {
       "connections_from": 15,
@@ -279469,10 +279469,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 46,
+      "g": 56,
+      "b": 141
     },
     "connection_rule": {
       "connections_from": 15,
@@ -279511,10 +279511,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 46,
+      "g": 56,
+      "b": 141
     },
     "connection_rule": {
       "connections_from": 15,
@@ -279553,10 +279553,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 46,
+      "g": 56,
+      "b": 141
     },
     "connection_rule": {
       "connections_from": 15,
@@ -279595,10 +279595,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 46,
+      "g": 56,
+      "b": 141
     },
     "connection_rule": {
       "connections_from": 15,
@@ -280067,10 +280067,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 160,
+      "g": 39,
+      "b": 34
     },
     "connection_rule": {
       "connections_from": 0,
@@ -280109,10 +280109,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 160,
+      "g": 39,
+      "b": 34
     },
     "connection_rule": {
       "connections_from": 0,
@@ -280151,10 +280151,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -284711,10 +284711,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 157,
+      "g": 157,
+      "b": 151
     },
     "connection_rule": {
       "connections_from": 0,
@@ -284753,10 +284753,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 157,
+      "g": 157,
+      "b": 151
     },
     "connection_rule": {
       "connections_from": 0,
@@ -288086,10 +288086,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "connection_rule": {
       "connections_from": 0,
@@ -288124,10 +288124,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "connection_rule": {
       "connections_from": 0,
@@ -288162,10 +288162,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "connection_rule": {
       "connections_from": 0,
@@ -288200,10 +288200,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "connection_rule": {
       "connections_from": 0,
@@ -323211,10 +323211,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 58,
+      "g": 179,
+      "b": 218
     },
     "connection_rule": {
       "connections_from": 0,
@@ -323253,10 +323253,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 58,
+      "g": 179,
+      "b": 218
     },
     "connection_rule": {
       "connections_from": 0,
@@ -323713,10 +323713,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 137,
+      "g": 50,
+      "b": 184
     },
     "full_support_faces": 63,
     "redstone": {
@@ -323751,10 +323751,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 137,
+      "g": 50,
+      "b": 184
     },
     "full_support_faces": 63,
     "redstone": {
@@ -324017,10 +324017,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 160,
+      "g": 39,
+      "b": 34
     },
     "full_support_faces": 63,
     "redstone": {
@@ -324055,10 +324055,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 160,
+      "g": 39,
+      "b": 34
     },
     "full_support_faces": 63,
     "redstone": {
@@ -327953,10 +327953,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -327991,10 +327991,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -328029,10 +328029,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -328067,10 +328067,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -328105,10 +328105,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -328143,10 +328143,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -328181,10 +328181,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -328219,10 +328219,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -328257,10 +328257,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -328295,10 +328295,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -328333,10 +328333,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -328371,10 +328371,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -328409,10 +328409,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -328447,10 +328447,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -328485,10 +328485,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -328523,10 +328523,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -329241,10 +329241,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 249,
+      "g": 128,
+      "b": 29
     },
     "connection_rule": {
       "connections_from": 0,
@@ -329283,10 +329283,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 249,
+      "g": 128,
+      "b": 29
     },
     "connection_rule": {
       "connections_from": 0,
@@ -347579,10 +347579,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -347617,10 +347617,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -347655,10 +347655,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -347693,10 +347693,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -370303,10 +370303,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 71,
+      "g": 79,
+      "b": 82
     },
     "full_support_faces": 63,
     "redstone": {
@@ -370341,10 +370341,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 71,
+      "g": 79,
+      "b": 82
     },
     "full_support_faces": 63,
     "redstone": {
@@ -372665,9 +372665,9 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
+      "a": 255,
+      "r": 255,
+      "g": 255,
       "b": 0
     },
     "connection_rule": {
@@ -375801,10 +375801,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 223,
+      "g": 104,
+      "b": 39
     },
     "connection_rule": {
       "connections_from": 0,
@@ -376067,10 +376067,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "connection_rule": {
       "connections_from": 0,
@@ -376105,10 +376105,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "connection_rule": {
       "connections_from": 0,
@@ -376143,10 +376143,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "connection_rule": {
       "connections_from": 0,
@@ -376181,10 +376181,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "connection_rule": {
       "connections_from": 0,
@@ -376843,10 +376843,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -376881,10 +376881,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -376919,10 +376919,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -376957,10 +376957,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -399794,10 +399794,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -399832,10 +399832,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -399870,10 +399870,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -399908,10 +399908,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -399946,10 +399946,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -399984,10 +399984,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -400022,10 +400022,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -400060,10 +400060,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -400098,10 +400098,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -400136,10 +400136,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -400174,10 +400174,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -400212,10 +400212,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -400250,10 +400250,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -400288,10 +400288,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -400326,10 +400326,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -400364,10 +400364,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -423365,10 +423365,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 161,
+      "g": 116,
+      "b": 83
     },
     "connection_rule": {
       "connections_from": 0,
@@ -423403,10 +423403,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 161,
+      "g": 116,
+      "b": 83
     },
     "connection_rule": {
       "connections_from": 0,
@@ -423441,10 +423441,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 161,
+      "g": 116,
+      "b": 83
     },
     "connection_rule": {
       "connections_from": 0,
@@ -423479,10 +423479,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 161,
+      "g": 116,
+      "b": 83
     },
     "connection_rule": {
       "connections_from": 0,
@@ -423517,10 +423517,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 161,
+      "g": 116,
+      "b": 83
     },
     "connection_rule": {
       "connections_from": 0,
@@ -423555,10 +423555,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 161,
+      "g": 116,
+      "b": 83
     },
     "connection_rule": {
       "connections_from": 0,
@@ -423593,10 +423593,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 161,
+      "g": 116,
+      "b": 83
     },
     "connection_rule": {
       "connections_from": 0,
@@ -423631,10 +423631,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 161,
+      "g": 116,
+      "b": 83
     },
     "connection_rule": {
       "connections_from": 0,
@@ -466885,10 +466885,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 22,
+      "g": 156,
+      "b": 156
     },
     "connection_rule": {
       "connections_from": 15,
@@ -466927,10 +466927,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 22,
+      "g": 156,
+      "b": 156
     },
     "connection_rule": {
       "connections_from": 15,
@@ -466969,10 +466969,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 22,
+      "g": 156,
+      "b": 156
     },
     "connection_rule": {
       "connections_from": 15,
@@ -467011,10 +467011,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 22,
+      "g": 156,
+      "b": 156
     },
     "connection_rule": {
       "connections_from": 15,
@@ -467053,10 +467053,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 22,
+      "g": 156,
+      "b": 156
     },
     "connection_rule": {
       "connections_from": 15,
@@ -467095,10 +467095,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 22,
+      "g": 156,
+      "b": 156
     },
     "connection_rule": {
       "connections_from": 15,
@@ -467137,10 +467137,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 22,
+      "g": 156,
+      "b": 156
     },
     "connection_rule": {
       "connections_from": 15,
@@ -467179,10 +467179,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 22,
+      "g": 156,
+      "b": 156
     },
     "connection_rule": {
       "connections_from": 15,
@@ -469937,10 +469937,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 137,
+      "g": 50,
+      "b": 184
     },
     "connection_rule": {
       "connections_from": 15,
@@ -469979,10 +469979,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 137,
+      "g": 50,
+      "b": 184
     },
     "connection_rule": {
       "connections_from": 15,
@@ -470021,10 +470021,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 137,
+      "g": 50,
+      "b": 184
     },
     "connection_rule": {
       "connections_from": 15,
@@ -470063,10 +470063,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 137,
+      "g": 50,
+      "b": 184
     },
     "connection_rule": {
       "connections_from": 15,
@@ -470105,10 +470105,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 137,
+      "g": 50,
+      "b": 184
     },
     "connection_rule": {
       "connections_from": 15,
@@ -470147,10 +470147,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 137,
+      "g": 50,
+      "b": 184
     },
     "connection_rule": {
       "connections_from": 15,
@@ -470189,10 +470189,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 137,
+      "g": 50,
+      "b": 184
     },
     "connection_rule": {
       "connections_from": 15,
@@ -470231,10 +470231,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 137,
+      "g": 50,
+      "b": 184
     },
     "connection_rule": {
       "connections_from": 15,
@@ -470273,10 +470273,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -470387,10 +470387,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 63,
     "redstone": {
@@ -491233,10 +491233,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 58,
+      "g": 179,
+      "b": 218
     },
     "connection_rule": {
       "connections_from": 15,
@@ -491275,10 +491275,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 58,
+      "g": 179,
+      "b": 218
     },
     "connection_rule": {
       "connections_from": 15,
@@ -491317,10 +491317,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 58,
+      "g": 179,
+      "b": 218
     },
     "connection_rule": {
       "connections_from": 15,
@@ -491359,10 +491359,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 58,
+      "g": 179,
+      "b": 218
     },
     "connection_rule": {
       "connections_from": 15,
@@ -491401,10 +491401,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 58,
+      "g": 179,
+      "b": 218
     },
     "connection_rule": {
       "connections_from": 15,
@@ -491443,10 +491443,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 58,
+      "g": 179,
+      "b": 218
     },
     "connection_rule": {
       "connections_from": 15,
@@ -491485,10 +491485,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 58,
+      "g": 179,
+      "b": 218
     },
     "connection_rule": {
       "connections_from": 15,
@@ -491527,10 +491527,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 58,
+      "g": 179,
+      "b": 218
     },
     "connection_rule": {
       "connections_from": 15,
@@ -494237,10 +494237,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 254,
+      "g": 216,
+      "b": 61
     },
     "full_support_faces": 63,
     "redstone": {
@@ -494275,10 +494275,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 254,
+      "g": 216,
+      "b": 61
     },
     "full_support_faces": 63,
     "redstone": {
@@ -494313,10 +494313,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "connection_rule": {
       "connections_from": 0,
@@ -494351,10 +494351,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "connection_rule": {
       "connections_from": 0,
@@ -494389,10 +494389,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "connection_rule": {
       "connections_from": 0,
@@ -494427,10 +494427,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "connection_rule": {
       "connections_from": 0,
@@ -495153,10 +495153,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -495305,9 +495305,9 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
+      "a": 255,
+      "r": 255,
+      "g": 255,
       "b": 0
     },
     "connection_rule": {
@@ -509907,10 +509907,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -512294,10 +512294,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -515546,10 +515546,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 29,
+      "g": 29,
+      "b": 33
     },
     "connection_rule": {
       "connections_from": 0,
@@ -515588,10 +515588,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 29,
+      "g": 29,
+      "b": 33
     },
     "connection_rule": {
       "connections_from": 0,
@@ -518978,10 +518978,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 128,
+      "g": 199,
+      "b": 31
     },
     "full_support_faces": 63,
     "redstone": {
@@ -519016,10 +519016,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 128,
+      "g": 199,
+      "b": 31
     },
     "full_support_faces": 63,
     "redstone": {
@@ -521866,10 +521866,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -521904,10 +521904,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -525256,10 +525256,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -525374,10 +525374,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -525412,10 +525412,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -528891,10 +528891,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "connection_rule": {
       "connections_from": 0,
@@ -528929,10 +528929,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "connection_rule": {
       "connections_from": 0,
@@ -528967,10 +528967,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "connection_rule": {
       "connections_from": 0,
@@ -529005,10 +529005,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "connection_rule": {
       "connections_from": 0,
@@ -530989,10 +530989,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -531027,10 +531027,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -532449,10 +532449,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -532487,10 +532487,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -539185,10 +539185,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -539223,10 +539223,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -539261,10 +539261,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -539299,10 +539299,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -539413,10 +539413,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 157,
+      "g": 157,
+      "b": 151
     },
     "full_support_faces": 63,
     "redstone": {
@@ -539451,10 +539451,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 157,
+      "g": 157,
+      "b": 151
     },
     "full_support_faces": 63,
     "redstone": {
@@ -539847,10 +539847,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 71,
+      "g": 79,
+      "b": 82
     },
     "connection_rule": {
       "connections_from": 0,
@@ -539889,10 +539889,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 71,
+      "g": 79,
+      "b": 82
     },
     "connection_rule": {
       "connections_from": 0,
@@ -540539,10 +540539,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 131,
+      "g": 84,
+      "b": 50
     },
     "full_support_faces": 63,
     "redstone": {
@@ -540577,10 +540577,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 131,
+      "g": 84,
+      "b": 50
     },
     "full_support_faces": 63,
     "redstone": {
@@ -549182,10 +549182,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 22,
+      "g": 156,
+      "b": 156
     },
     "connection_rule": {
       "connections_from": 0,
@@ -549224,10 +549224,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 22,
+      "g": 156,
+      "b": 156
     },
     "connection_rule": {
       "connections_from": 0,
@@ -549912,10 +549912,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 199,
+      "g": 78,
+      "b": 189
     },
     "full_support_faces": 63,
     "redstone": {
@@ -549950,10 +549950,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 199,
+      "g": 78,
+      "b": 189
     },
     "full_support_faces": 63,
     "redstone": {
@@ -559339,10 +559339,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -559377,10 +559377,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -559415,10 +559415,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -559453,10 +559453,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -561276,10 +561276,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -561314,10 +561314,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -585315,10 +585315,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -587405,10 +587405,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 94,
+      "g": 124,
+      "b": 22
     },
     "connection_rule": {
       "connections_from": 0,
@@ -587447,10 +587447,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 94,
+      "g": 124,
+      "b": 22
     },
     "connection_rule": {
       "connections_from": 0,
@@ -589155,10 +589155,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -594045,10 +594045,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 243,
+      "g": 139,
+      "b": 170
     },
     "connection_rule": {
       "connections_from": 15,
@@ -594087,10 +594087,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 243,
+      "g": 139,
+      "b": 170
     },
     "connection_rule": {
       "connections_from": 15,
@@ -594129,10 +594129,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 243,
+      "g": 139,
+      "b": 170
     },
     "connection_rule": {
       "connections_from": 15,
@@ -594171,10 +594171,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 243,
+      "g": 139,
+      "b": 170
     },
     "connection_rule": {
       "connections_from": 15,
@@ -594213,10 +594213,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 243,
+      "g": 139,
+      "b": 170
     },
     "connection_rule": {
       "connections_from": 15,
@@ -594255,10 +594255,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 243,
+      "g": 139,
+      "b": 170
     },
     "connection_rule": {
       "connections_from": 15,
@@ -594297,10 +594297,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 243,
+      "g": 139,
+      "b": 170
     },
     "connection_rule": {
       "connections_from": 15,
@@ -594339,10 +594339,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 243,
+      "g": 139,
+      "b": 170
     },
     "connection_rule": {
       "connections_from": 15,
@@ -602429,10 +602429,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 46,
+      "g": 56,
+      "b": 141
     },
     "connection_rule": {
       "connections_from": 0,
@@ -602471,10 +602471,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 46,
+      "g": 56,
+      "b": 141
     },
     "connection_rule": {
       "connections_from": 0,
@@ -602513,10 +602513,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 249,
+      "g": 128,
+      "b": 29
     },
     "connection_rule": {
       "connections_from": 15,
@@ -602555,10 +602555,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 249,
+      "g": 128,
+      "b": 29
     },
     "connection_rule": {
       "connections_from": 15,
@@ -602597,10 +602597,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 249,
+      "g": 128,
+      "b": 29
     },
     "connection_rule": {
       "connections_from": 15,
@@ -602639,10 +602639,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 249,
+      "g": 128,
+      "b": 29
     },
     "connection_rule": {
       "connections_from": 15,
@@ -602681,10 +602681,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 249,
+      "g": 128,
+      "b": 29
     },
     "connection_rule": {
       "connections_from": 15,
@@ -602723,10 +602723,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 249,
+      "g": 128,
+      "b": 29
     },
     "connection_rule": {
       "connections_from": 15,
@@ -602765,10 +602765,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 249,
+      "g": 128,
+      "b": 29
     },
     "connection_rule": {
       "connections_from": 15,
@@ -602807,10 +602807,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 249,
+      "g": 128,
+      "b": 29
     },
     "connection_rule": {
       "connections_from": 15,
@@ -608984,10 +608984,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -609022,10 +609022,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -609060,10 +609060,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -609098,10 +609098,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "connection_rule": {
       "connections_from": 0,
@@ -609977,10 +609977,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 233,
+      "g": 236,
+      "b": 236
     },
     "connection_rule": {
       "connections_from": 15,
@@ -610019,10 +610019,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 233,
+      "g": 236,
+      "b": 236
     },
     "connection_rule": {
       "connections_from": 15,
@@ -610061,10 +610061,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 233,
+      "g": 236,
+      "b": 236
     },
     "connection_rule": {
       "connections_from": 15,
@@ -610103,10 +610103,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 233,
+      "g": 236,
+      "b": 236
     },
     "connection_rule": {
       "connections_from": 15,
@@ -610145,10 +610145,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 233,
+      "g": 236,
+      "b": 236
     },
     "connection_rule": {
       "connections_from": 15,
@@ -610187,10 +610187,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 233,
+      "g": 236,
+      "b": 236
     },
     "connection_rule": {
       "connections_from": 15,
@@ -610229,10 +610229,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 233,
+      "g": 236,
+      "b": 236
     },
     "connection_rule": {
       "connections_from": 15,
@@ -610271,10 +610271,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 233,
+      "g": 236,
+      "b": 236
     },
     "connection_rule": {
       "connections_from": 15,
@@ -618905,10 +618905,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 46,
+      "g": 56,
+      "b": 141
     },
     "full_support_faces": 63,
     "redstone": {
@@ -618943,10 +618943,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 46,
+      "g": 56,
+      "b": 141
     },
     "full_support_faces": 63,
     "redstone": {
@@ -621695,10 +621695,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -681087,10 +681087,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -681125,10 +681125,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -681163,10 +681163,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,
@@ -681201,10 +681201,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "connection_rule": {
       "connections_from": 0,

@@ -8292,7 +8292,7 @@
     "signal_source": false,
     "consumer_component": false,
     "tags": ["is_shears_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1437,material:'solid',can_dampen_vibrations:1b,can_occlude_vibrations:1b},molangVersion:12,menu_category:{group:'',category:'none',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['is_shears_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1437,material:'solid',can_dampen_vibrations:1b,can_occlude_vibrations:1b,requires_correct_tool_for_drops:1b},molangVersion:12,menu_category:{group:'',category:'none',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.8f},'minecraft:redstone_conductivity':{allowsWireToStepDown:1b,redstoneConductor:1b}},blockTags:['is_shears_item_destructible']}"
   }, {
     "name": "minecraft:light_gray_wool_slab",
     "default_state_id": 1380068187,
