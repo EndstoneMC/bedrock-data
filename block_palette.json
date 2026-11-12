@@ -42350,10 +42350,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -42383,10 +42383,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -42527,10 +42527,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -42560,10 +42560,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -43712,10 +43712,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -43745,10 +43745,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -43914,10 +43914,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -43947,10 +43947,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -48064,10 +48064,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -48097,10 +48097,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -48130,10 +48130,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -48163,10 +48163,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -86150,10 +86150,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -92013,10 +92013,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -93786,10 +93786,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -93819,10 +93819,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -93852,10 +93852,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -93885,10 +93885,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -96030,10 +96030,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -96063,10 +96063,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -107833,10 +107833,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 170,
+      "g": 170,
+      "b": 170
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -107866,10 +107866,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 170,
+      "g": 170,
+      "b": 170
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -107899,10 +107899,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 170,
+      "g": 170,
+      "b": 170
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -107932,10 +107932,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 170,
+      "g": 170,
+      "b": 170
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -107965,10 +107965,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 170,
+      "g": 170,
+      "b": 170
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -107998,10 +107998,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 170,
+      "g": 170,
+      "b": 170
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -108031,10 +108031,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 170,
+      "g": 170,
+      "b": 170
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -108064,10 +108064,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 170,
+      "g": 170,
+      "b": 170
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -108097,10 +108097,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 170,
+      "g": 170,
+      "b": 170
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -108130,10 +108130,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 170,
+      "g": 170,
+      "b": 170
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -108163,10 +108163,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 170,
+      "g": 170,
+      "b": 170
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -108196,10 +108196,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 170,
+      "g": 170,
+      "b": 170
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -108229,10 +108229,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 170,
+      "g": 170,
+      "b": 170
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -108262,10 +108262,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 170,
+      "g": 170,
+      "b": 170
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -108295,10 +108295,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 170,
+      "g": 170,
+      "b": 170
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -108328,10 +108328,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 170,
+      "g": 170,
+      "b": 170
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -129797,10 +129797,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -129830,10 +129830,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -129863,10 +129863,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -129896,10 +129896,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -168249,10 +168249,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -168282,10 +168282,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -168315,10 +168315,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -168348,10 +168348,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -173069,10 +173069,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -201587,10 +201587,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -201620,10 +201620,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -201653,10 +201653,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -201686,10 +201686,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -208687,10 +208687,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -208720,10 +208720,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -208753,10 +208753,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -208786,10 +208786,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -209070,10 +209070,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -209103,10 +209103,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -209136,10 +209136,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -209169,10 +209169,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -216251,10 +216251,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -222949,10 +222949,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -222982,10 +222982,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -223015,10 +223015,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -223048,10 +223048,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -251769,10 +251769,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -251802,10 +251802,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -251835,10 +251835,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -251868,10 +251868,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -251901,10 +251901,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -251934,10 +251934,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -251967,10 +251967,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -252000,10 +252000,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -252033,10 +252033,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -252066,10 +252066,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -252099,10 +252099,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -252132,10 +252132,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -252165,10 +252165,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -252198,10 +252198,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -252231,10 +252231,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -252264,10 +252264,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -268793,10 +268793,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -268826,10 +268826,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -268859,10 +268859,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -268892,10 +268892,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -290497,9 +290497,9 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
+      "a": 255,
+      "r": 255,
+      "g": 255,
       "b": 0
     },
     "full_support_faces": 0,
@@ -293441,10 +293441,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -293474,10 +293474,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -293507,10 +293507,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -293540,10 +293540,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -294145,10 +294145,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -294178,10 +294178,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -294211,10 +294211,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -294244,10 +294244,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -313073,10 +313073,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -313106,10 +313106,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -313139,10 +313139,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -313172,10 +313172,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -313205,10 +313205,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -313238,10 +313238,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -313271,10 +313271,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -313304,10 +313304,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -313337,10 +313337,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -313370,10 +313370,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -313403,10 +313403,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -313436,10 +313436,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -313469,10 +313469,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -313502,10 +313502,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -313535,10 +313535,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -313568,10 +313568,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 113,
+      "g": 132,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -373145,10 +373145,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -373252,10 +373252,10 @@
     },
     "is_solid": true,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 63,
     "redstone": {
@@ -392681,10 +392681,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -392714,10 +392714,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -392747,10 +392747,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -392780,10 +392780,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -393411,10 +393411,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -393551,9 +393551,9 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
+      "a": 255,
+      "r": 255,
+      "g": 255,
       "b": 0
     },
     "full_support_faces": 0,
@@ -406110,10 +406110,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -408183,10 +408183,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -416413,10 +416413,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -416446,10 +416446,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -419136,10 +419136,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -419239,10 +419239,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -419272,10 +419272,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -422396,10 +422396,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -422429,10 +422429,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -422462,10 +422462,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -422495,10 +422495,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 138,
+      "g": 138,
+      "b": 138
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -423653,10 +423653,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -423686,10 +423686,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -424935,10 +424935,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -424968,10 +424968,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -430822,10 +430822,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -430855,10 +430855,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -430888,10 +430888,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -430921,10 +430921,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -442336,10 +442336,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -442369,10 +442369,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -442402,10 +442402,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -442435,10 +442435,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -444031,10 +444031,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -444064,10 +444064,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -464904,10 +464904,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -468202,10 +468202,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -484799,10 +484799,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -484832,10 +484832,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -484865,10 +484865,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -484898,10 +484898,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 76,
+      "g": 76,
+      "b": 76
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -495260,10 +495260,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -535735,10 +535735,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -535768,10 +535768,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -535801,10 +535801,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
@@ -535834,10 +535834,10 @@
     },
     "is_solid": false,
     "map_color": {
-      "a": 0,
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "a": 255,
+      "r": 255,
+      "g": 255,
+      "b": 255
     },
     "full_support_faces": 0,
     "should_connect_to_redstone": [false, false, false, false, false],
