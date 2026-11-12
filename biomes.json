@@ -1852,8 +1852,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -1891,8 +1891,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -3869,8 +3869,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -3908,8 +3908,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -6049,8 +6049,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -6088,8 +6088,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -8198,8 +8198,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -8237,8 +8237,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -10247,45 +10247,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -10327,6 +10288,45 @@
           },
           "feature": "minecraft:legacy:forest_tree_feature",
           "identifier": "minecraft:forest_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -12381,45 +12381,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -12461,6 +12422,45 @@
           },
           "feature": "minecraft:legacy:taiga_tree_feature",
           "identifier": "minecraft:taiga_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -14639,45 +14639,6 @@
             "coordinates": [{
               "min_value_type": 61,
               "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
               "max_value_type": 65535,
               "max_value": "",
               "grid_offset": 0,
@@ -14710,6 +14671,45 @@
           },
           "feature": "minecraft:legacy:swamp_foliage_feature",
           "identifier": "minecraft:swamp_surface_swamp_foliage_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -16654,8 +16654,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -16693,8 +16693,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -19001,8 +19001,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -19040,8 +19040,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -20997,8 +20997,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -21036,8 +21036,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -22920,45 +22920,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -23000,6 +22961,45 @@
           },
           "feature": "minecraft:legacy:ice_tree_feature",
           "identifier": "minecraft:ice_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -24902,45 +24902,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -24982,6 +24943,45 @@
           },
           "feature": "minecraft:legacy:ice_tree_feature",
           "identifier": "minecraft:ice_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -26864,6 +26864,45 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
           "feature": "minecraft:huge_mushroom_feature",
           "identifier": "minecraft:mushroom_island_surface_huge_mushroom_feature",
           "pass": "surface_pass",
@@ -26905,45 +26944,6 @@
           },
           "feature": "minecraft:clay_feature",
           "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -28829,6 +28829,45 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
           "feature": "minecraft:huge_mushroom_feature",
           "identifier": "minecraft:mushroom_island_surface_huge_mushroom_feature",
           "pass": "surface_pass",
@@ -28870,45 +28909,6 @@
           },
           "feature": "minecraft:clay_feature",
           "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -30791,8 +30791,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -30830,8 +30830,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -32897,8 +32897,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -32936,8 +32936,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -34893,45 +34893,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -34973,6 +34934,45 @@
           },
           "feature": "minecraft:legacy:forest_tree_feature",
           "identifier": "minecraft:forest_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -37006,45 +37006,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -37086,6 +37047,45 @@
           },
           "feature": "minecraft:legacy:taiga_tree_feature",
           "identifier": "minecraft:taiga_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -39159,45 +39159,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -39239,6 +39200,45 @@
           },
           "feature": "minecraft:legacy:extreme_hills_plus_trees_tree_feature",
           "identifier": "minecraft:extreme_hills_plus_trees_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -41238,45 +41238,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -41318,6 +41279,45 @@
           },
           "feature": "minecraft:legacy:jungle_tree_feature",
           "identifier": "minecraft:jungle_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -43337,45 +43337,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -43417,6 +43378,45 @@
           },
           "feature": "minecraft:legacy:jungle_tree_feature",
           "identifier": "minecraft:jungle_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -45388,45 +45388,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -45468,6 +45429,45 @@
           },
           "feature": "minecraft:legacy:jungle_edge_tree_feature",
           "identifier": "minecraft:jungle_edge_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -47435,8 +47435,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -47474,8 +47474,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -49370,8 +49370,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -49409,8 +49409,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -51300,8 +51300,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -51339,8 +51339,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -53340,45 +53340,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -53420,6 +53381,45 @@
           },
           "feature": "minecraft:legacy:birch_forest_tree_feature",
           "identifier": "minecraft:birch_forest_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -55386,45 +55386,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -55466,6 +55427,45 @@
           },
           "feature": "minecraft:legacy:birch_forest_tree_feature",
           "identifier": "minecraft:birch_forest_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -57325,6 +57325,45 @@
               "distribution": 1
             }, {
               "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
               "min_value": "query.heightmap(variable.worldx, variable.worldz)",
               "max_value_type": 65535,
               "max_value": "",
@@ -57389,45 +57428,6 @@
           },
           "feature": "minecraft:clay_feature",
           "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -59472,45 +59472,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -59552,6 +59513,45 @@
           },
           "feature": "minecraft:legacy:taiga_tree_feature",
           "identifier": "minecraft:taiga_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -61600,45 +61600,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -61680,6 +61641,45 @@
           },
           "feature": "minecraft:legacy:taiga_tree_feature",
           "identifier": "minecraft:taiga_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -63797,45 +63797,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -63877,6 +63838,45 @@
           },
           "feature": "minecraft:legacy:mega_taiga_tree_feature",
           "identifier": "minecraft:mega_taiga_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -66051,45 +66051,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -66131,6 +66092,45 @@
           },
           "feature": "minecraft:legacy:mega_taiga_tree_feature",
           "identifier": "minecraft:mega_taiga_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -68282,45 +68282,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -68362,6 +68323,45 @@
           },
           "feature": "minecraft:legacy:extreme_hills_plus_trees_tree_feature",
           "identifier": "minecraft:extreme_hills_plus_trees_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -70286,45 +70286,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -70366,6 +70327,45 @@
           },
           "feature": "minecraft:legacy:savanna_tree_feature",
           "identifier": "minecraft:savanna_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -72301,45 +72301,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -72381,6 +72342,45 @@
           },
           "feature": "minecraft:legacy:savanna_tree_feature",
           "identifier": "minecraft:savanna_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -74380,8 +74380,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -74419,8 +74419,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -76436,45 +76436,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -76516,6 +76477,45 @@
           },
           "feature": "minecraft:legacy:mesa_plateau_stone_tree_feature",
           "identifier": "minecraft:mesa_plateau_stone_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -78554,8 +78554,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -78593,8 +78593,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -80740,8 +80740,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -80779,8 +80779,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -82903,8 +82903,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -82942,8 +82942,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -84907,8 +84907,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -84946,8 +84946,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -86914,8 +86914,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -86953,8 +86953,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -88921,8 +88921,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -88960,8 +88960,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -90928,8 +90928,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -90967,8 +90967,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -92896,8 +92896,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -92935,8 +92935,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -94871,8 +94871,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -94910,8 +94910,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -96956,45 +96956,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -97036,6 +96997,45 @@
           },
           "feature": "minecraft:legacy:bamboo_jungle_tree_feature",
           "identifier": "minecraft:bamboo_jungle_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -99081,45 +99081,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -99161,6 +99122,45 @@
           },
           "feature": "minecraft:legacy:bamboo_jungle_tree_feature",
           "identifier": "minecraft:bamboo_jungle_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -101164,8 +101164,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -101203,8 +101203,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -103310,8 +103310,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -103349,8 +103349,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -105416,8 +105416,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -105455,8 +105455,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -107401,45 +107401,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -107481,6 +107442,45 @@
           },
           "feature": "minecraft:legacy:flower_forest_tree_feature",
           "identifier": "minecraft:flower_forest_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -109507,45 +109507,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -109587,6 +109548,45 @@
           },
           "feature": "minecraft:legacy:taiga_tree_feature",
           "identifier": "minecraft:taiga_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -111739,45 +111739,6 @@
             "coordinates": [{
               "min_value_type": 61,
               "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
               "max_value_type": 65535,
               "max_value": "",
               "grid_offset": 0,
@@ -111810,6 +111771,45 @@
           },
           "feature": "minecraft:legacy:swamp_foliage_feature",
           "identifier": "minecraft:swamp_surface_swamp_foliage_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -113719,8 +113719,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -113758,8 +113758,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -115759,45 +115759,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -115839,6 +115800,45 @@
           },
           "feature": "minecraft:legacy:jungle_tree_feature",
           "identifier": "minecraft:jungle_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -117803,45 +117803,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -117883,6 +117844,45 @@
           },
           "feature": "minecraft:legacy:jungle_edge_tree_feature",
           "identifier": "minecraft:jungle_edge_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -119886,45 +119886,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -119966,6 +119927,45 @@
           },
           "feature": "minecraft:legacy:birch_forest_mutated_tree_feature",
           "identifier": "minecraft:birch_forest_mutated_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -121914,45 +121914,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -121994,6 +121955,45 @@
           },
           "feature": "minecraft:legacy:birch_forest_mutated_tree_feature",
           "identifier": "minecraft:birch_forest_mutated_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -123841,6 +123841,45 @@
               "distribution": 1
             }, {
               "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
               "min_value": "query.heightmap(variable.worldx, variable.worldz)",
               "max_value_type": 65535,
               "max_value": "",
@@ -123905,45 +123944,6 @@
           },
           "feature": "minecraft:clay_feature",
           "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -125970,45 +125970,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -126050,6 +126011,45 @@
           },
           "feature": "minecraft:legacy:taiga_tree_feature",
           "identifier": "minecraft:taiga_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -128154,45 +128154,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -128234,6 +128195,45 @@
           },
           "feature": "minecraft:legacy:redwood_taiga_mutated_tree_feature",
           "identifier": "minecraft:redwood_taiga_mutated_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -130373,8 +130373,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -130412,8 +130412,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -132592,45 +132592,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -132672,6 +132633,45 @@
           },
           "feature": "minecraft:legacy:extreme_hills_plus_trees_tree_feature",
           "identifier": "minecraft:extreme_hills_plus_trees_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -134577,45 +134577,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -134657,6 +134618,45 @@
           },
           "feature": "minecraft:legacy:savanna_mutated_tree_feature",
           "identifier": "minecraft:savanna_mutated_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -136562,45 +136562,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -136642,6 +136603,45 @@
           },
           "feature": "minecraft:legacy:savanna_mutated_tree_feature",
           "identifier": "minecraft:savanna_mutated_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -138664,8 +138664,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -138703,8 +138703,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -140698,8 +140698,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -140737,8 +140737,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -142732,45 +142732,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -142812,6 +142773,45 @@
           },
           "feature": "minecraft:legacy:mesa_plateau_stone_tree_feature",
           "identifier": "minecraft:mesa_plateau_stone_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -143146,45 +143146,6 @@
               "min_value_type": 61,
               "min_value": "0.000000",
               "max_value_type": 61,
-              "max_value": "120.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
-          "feature": "minecraft:crimson_roots_scatter_feature",
-          "identifier": "minecraft:crimson_roots_soul_sand_valley_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
               "max_value": "124.000000",
               "grid_offset": 0,
               "grid_step_size": 1,
@@ -143247,6 +143208,45 @@
           },
           "feature": "minecraft:nether_fossil_feature",
           "identifier": "minecraft:soulsand_valley_fossil_surface_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "120.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:crimson_roots_scatter_feature",
+          "identifier": "minecraft:crimson_roots_soul_sand_valley_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }]
@@ -143462,45 +143462,6 @@
               "distribution": 1
             }, {
               "min_value_type": 61,
-              "min_value": "33.000000",
-              "max_value_type": 61,
-              "max_value": "120.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "2.000000"
-          },
-          "feature": "minecraft:warped_fungus_scatter_feature",
-          "identifier": "minecraft:warped_fungus_crimson_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 61,
               "min_value": "0.000000",
               "max_value_type": 61,
               "max_value": "120.000000",
@@ -143561,10 +143522,10 @@
             "chance_numerator": 0,
             "chance_denominator": 0,
             "iterations_type": 61,
-            "iterations": "24.000000"
+            "iterations": "2.000000"
           },
-          "feature": "minecraft:crimson_fungus_scatter_feature",
-          "identifier": "minecraft:crimson_feature",
+          "feature": "minecraft:warped_fungus_scatter_feature",
+          "identifier": "minecraft:warped_fungus_crimson_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -143643,6 +143604,45 @@
           },
           "feature": "minecraft:_huge_crimson_fungus_feature",
           "identifier": "minecraft:huge_crimson_fungus_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 61,
+              "min_value": "33.000000",
+              "max_value_type": 61,
+              "max_value": "120.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "24.000000"
+          },
+          "feature": "minecraft:crimson_fungus_scatter_feature",
+          "identifier": "minecraft:crimson_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -143954,10 +143954,10 @@
             "chance_numerator": 0,
             "chance_denominator": 0,
             "iterations_type": 61,
-            "iterations": "128.000000"
+            "iterations": "32.000000"
           },
-          "feature": "minecraft:nether_sprouts_scatter_feature",
-          "identifier": "minecraft:nether_sprouts_feature_rules",
+          "feature": "minecraft:warped_roots_scatter_feature",
+          "identifier": "minecraft:warped_roots_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -144149,10 +144149,10 @@
             "chance_numerator": 0,
             "chance_denominator": 0,
             "iterations_type": 61,
-            "iterations": "32.000000"
+            "iterations": "128.000000"
           },
-          "feature": "minecraft:warped_roots_scatter_feature",
-          "identifier": "minecraft:warped_roots_feature",
+          "feature": "minecraft:nether_sprouts_scatter_feature",
+          "identifier": "minecraft:nether_sprouts_feature_rules",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -146444,8 +146444,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -146483,8 +146483,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -148492,8 +148492,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -148531,8 +148531,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -150607,8 +150607,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -150646,8 +150646,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -152690,45 +152690,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -152770,6 +152731,45 @@
           },
           "feature": "minecraft:mountain_pine_tree_feature",
           "identifier": "minecraft:grove_pine_tree_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -155007,45 +155007,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -155087,6 +155048,45 @@
           },
           "feature": "minecraft:legacy:meadow_trees_feature",
           "identifier": "minecraft:meadow_surface_trees_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -157278,8 +157278,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -157317,8 +157317,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -159306,45 +159306,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -159386,6 +159347,45 @@
           },
           "feature": "minecraft:large_dripstone_feature",
           "identifier": "minecraft:surface_pass_large_dripstone_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -161373,8 +161373,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -161412,8 +161412,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -163389,8 +163389,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
+          "feature": "minecraft:gravel_feature",
+          "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -163428,8 +163428,8 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:gravel_feature",
-          "identifier": "minecraft:overworld_surface_gravel_feature",
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -165394,45 +165394,6 @@
               "distribution": 1
             }, {
               "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
               "min_value": "query.heightmap(variable.worldx, variable.worldz)",
               "max_value_type": 65535,
               "max_value": "",
@@ -165575,6 +165536,45 @@
           },
           "feature": "minecraft:random_mangrove_tree_feature",
           "identifier": "minecraft:mangrove_swamp_mangrove_tree_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -167523,45 +167523,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -167642,6 +167603,45 @@
           },
           "feature": "minecraft:scatter_tall_grass_feature",
           "identifier": "minecraft:cherry_biome_surface_tall_grass_feature_rules",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
@@ -169442,84 +169442,6 @@
             "iterations_type": 61,
             "iterations": "1.000000"
           },
-          "feature": "minecraft:clay_feature",
-          "identifier": "minecraft:overworld_surface_clay_feature",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.heightmap(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
-          "feature": "minecraft:pale_moss_patch_feature",
-          "identifier": "minecraft:pale_garden_surface_pale_moss_patch_feature_rules",
-          "pass": "surface_pass",
-          "can_use_internal_feature": true
-        }, {
-          "scatter": {
-            "coordinates": [{
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }, {
-              "min_value_type": 73,
-              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
-              "max_value_type": 65535,
-              "max_value": "",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 0
-            }, {
-              "min_value_type": 61,
-              "min_value": "0.000000",
-              "max_value_type": 61,
-              "max_value": "16.000000",
-              "grid_offset": 0,
-              "grid_step_size": 1,
-              "distribution": 1
-            }],
-            "eval_order": 1,
-            "chance_percent_type": 61,
-            "chance_percent": "100.000000",
-            "chance_numerator": 0,
-            "chance_denominator": 0,
-            "iterations_type": 61,
-            "iterations": "1.000000"
-          },
           "feature": "minecraft:gravel_feature",
           "identifier": "minecraft:overworld_surface_gravel_feature",
           "pass": "surface_pass",
@@ -169639,6 +169561,84 @@
           },
           "feature": "minecraft:scatter_tall_grass_feature",
           "identifier": "minecraft:pale_garden_surface_tall_grass_feature_rules",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.above_top_solid(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:clay_feature",
+          "identifier": "minecraft:overworld_surface_clay_feature",
+          "pass": "surface_pass",
+          "can_use_internal_feature": true
+        }, {
+          "scatter": {
+            "coordinates": [{
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }, {
+              "min_value_type": 73,
+              "min_value": "query.heightmap(variable.worldx, variable.worldz)",
+              "max_value_type": 65535,
+              "max_value": "",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 0
+            }, {
+              "min_value_type": 61,
+              "min_value": "0.000000",
+              "max_value_type": 61,
+              "max_value": "16.000000",
+              "grid_offset": 0,
+              "grid_step_size": 1,
+              "distribution": 1
+            }],
+            "eval_order": 1,
+            "chance_percent_type": 61,
+            "chance_percent": "100.000000",
+            "chance_numerator": 0,
+            "chance_denominator": 0,
+            "iterations_type": 61,
+            "iterations": "1.000000"
+          },
+          "feature": "minecraft:pale_moss_patch_feature",
+          "identifier": "minecraft:pale_garden_surface_pale_moss_patch_feature_rules",
           "pass": "surface_pass",
           "can_use_internal_feature": true
         }, {
