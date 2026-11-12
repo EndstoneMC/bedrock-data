@@ -200,216 +200,6 @@
     }]
   }],
   "template_pools": [{
-    "identifier": "minecraft:abandoned_camp/trees/acacia",
-    "elements": [{
-      "element": {
-        "type": "feature",
-        "feature": "minecraft:savanna_tree_feature"
-      },
-      "weight": 1
-    }],
-    "fallback": "minecraft:empty"
-  }, {
-    "identifier": "minecraft:abandoned_camp/trees/bamboo",
-    "elements": [{
-      "element": {
-        "type": "feature",
-        "feature": "minecraft:legacy:bamboo_jungle_tree_feature"
-      },
-      "weight": 1
-    }],
-    "fallback": "minecraft:empty"
-  }, {
-    "identifier": "minecraft:abandoned_camp/trees/birch",
-    "elements": [{
-      "element": {
-        "type": "feature",
-        "feature": "minecraft:birch_tree_feature"
-      },
-      "weight": 1
-    }],
-    "fallback": "minecraft:empty"
-  }, {
-    "identifier": "minecraft:abandoned_camp/trees/birch_bees",
-    "elements": [{
-      "element": {
-        "type": "feature",
-        "feature": "minecraft:birch_tree_with_optional_beehive_feature"
-      },
-      "weight": 1
-    }],
-    "fallback": "minecraft:empty"
-  }, {
-    "identifier": "minecraft:abandoned_camp/trees/cherry",
-    "elements": [{
-      "element": {
-        "type": "feature",
-        "feature": "minecraft:cherry_tree_feature"
-      },
-      "weight": 1
-    }],
-    "fallback": "minecraft:empty"
-  }, {
-    "identifier": "minecraft:abandoned_camp/trees/cherry_bees",
-    "elements": [{
-      "element": {
-        "type": "feature",
-        "feature": "minecraft:cherry_tree_with_beehive_feature"
-      },
-      "weight": 1
-    }],
-    "fallback": "minecraft:empty"
-  }, {
-    "identifier": "minecraft:abandoned_camp/trees/fancy_oak",
-    "elements": [{
-      "element": {
-        "type": "feature",
-        "feature": "minecraft:fancy_oak_tree_feature"
-      },
-      "weight": 1
-    }],
-    "fallback": "minecraft:empty"
-  }, {
-    "identifier": "minecraft:abandoned_camp/trees/fancy_oak_bees",
-    "elements": [{
-      "element": {
-        "type": "feature",
-        "feature": "minecraft:fancy_oak_tree_with_optional_beehive_feature"
-      },
-      "weight": 1
-    }],
-    "fallback": "minecraft:empty"
-  }, {
-    "identifier": "minecraft:abandoned_camp/trees/jungle",
-    "elements": [{
-      "element": {
-        "type": "feature",
-        "feature": "minecraft:jungle_tree_feature"
-      },
-      "weight": 1
-    }],
-    "fallback": "minecraft:empty"
-  }, {
-    "identifier": "minecraft:abandoned_camp/trees/mega_jungle",
-    "elements": [{
-      "element": {
-        "type": "feature",
-        "feature": "minecraft:mega_jungle_tree_feature"
-      },
-      "weight": 1
-    }],
-    "fallback": "minecraft:empty"
-  }, {
-    "identifier": "minecraft:abandoned_camp/trees/mega_pine",
-    "elements": [{
-      "element": {
-        "type": "feature",
-        "feature": "minecraft:mega_pine_tree_feature"
-      },
-      "weight": 1
-    }],
-    "fallback": "minecraft:empty"
-  }, {
-    "identifier": "minecraft:abandoned_camp/trees/oak",
-    "elements": [{
-      "element": {
-        "type": "feature",
-        "feature": "minecraft:oak_tree_feature"
-      },
-      "weight": 1
-    }],
-    "fallback": "minecraft:empty"
-  }, {
-    "identifier": "minecraft:abandoned_camp/trees/orange_poplar",
-    "elements": [{
-      "element": {
-        "type": "feature",
-        "feature": "minecraft:orange_poplar_tree_feature"
-      },
-      "weight": 1
-    }],
-    "fallback": "minecraft:empty"
-  }, {
-    "identifier": "minecraft:abandoned_camp/trees/pale_oak",
-    "elements": [{
-      "element": {
-        "type": "feature",
-        "feature": "minecraft:pale_oak_tree_feature"
-      },
-      "weight": 1
-    }],
-    "fallback": "minecraft:empty"
-  }, {
-    "identifier": "minecraft:abandoned_camp/trees/pine",
-    "elements": [{
-      "element": {
-        "type": "feature",
-        "feature": "minecraft:pine_tree_feature"
-      },
-      "weight": 1
-    }],
-    "fallback": "minecraft:empty"
-  }, {
-    "identifier": "minecraft:abandoned_camp/trees/red_poplar",
-    "elements": [{
-      "element": {
-        "type": "feature",
-        "feature": "minecraft:red_poplar_tree_feature"
-      },
-      "weight": 1
-    }],
-    "fallback": "minecraft:empty"
-  }, {
-    "identifier": "minecraft:abandoned_camp/trees/spruce",
-    "elements": [{
-      "element": {
-        "type": "feature",
-        "feature": "minecraft:spruce_tree_feature"
-      },
-      "weight": 1
-    }],
-    "fallback": "minecraft:empty"
-  }, {
-    "identifier": "minecraft:abandoned_camp/trees/spruce_on_snow",
-    "elements": [{
-      "element": {
-        "type": "feature",
-        "feature": "minecraft:pine_tree_feature"
-      },
-      "weight": 1
-    }],
-    "fallback": "minecraft:empty"
-  }, {
-    "identifier": "minecraft:abandoned_camp/trees/super_birch_bees",
-    "elements": [{
-      "element": {
-        "type": "feature",
-        "feature": "minecraft:super_birch_tree_feature"
-      },
-      "weight": 1
-    }],
-    "fallback": "minecraft:empty"
-  }, {
-    "identifier": "minecraft:abandoned_camp/trees/thick_spruce",
-    "elements": [{
-      "element": {
-        "type": "feature",
-        "feature": "minecraft:mega_spruce_tree_feature"
-      },
-      "weight": 1
-    }],
-    "fallback": "minecraft:empty"
-  }, {
-    "identifier": "minecraft:abandoned_camp/trees/yellow_poplar",
-    "elements": [{
-      "element": {
-        "type": "feature",
-        "feature": "minecraft:yellow_poplar_tree_feature"
-      },
-      "weight": 1
-    }],
-    "fallback": "minecraft:empty"
-  }, {
     "identifier": "minecraft:abandoned_camp/camp/bamboo_jungle",
     "elements": [{
       "element": {
@@ -9050,165 +8840,211 @@
     }],
     "fallback": "minecraft:empty"
   }, {
-    "identifier": "minecraft:trail_ruins/buildings/grouped",
+    "identifier": "minecraft:abandoned_camp/trees/acacia",
     "elements": [{
       "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/group_full_1",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
+        "type": "feature",
+        "feature": "minecraft:savanna_tree_feature"
       },
       "weight": 1
-    }, {
+    }],
+    "fallback": "minecraft:empty"
+  }, {
+    "identifier": "minecraft:abandoned_camp/trees/bamboo",
+    "elements": [{
       "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/group_full_2",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
+        "type": "feature",
+        "feature": "minecraft:legacy:bamboo_jungle_tree_feature"
       },
       "weight": 1
-    }, {
+    }],
+    "fallback": "minecraft:empty"
+  }, {
+    "identifier": "minecraft:abandoned_camp/trees/birch",
+    "elements": [{
       "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/group_full_3",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
+        "type": "feature",
+        "feature": "minecraft:birch_tree_feature"
       },
       "weight": 1
-    }, {
+    }],
+    "fallback": "minecraft:empty"
+  }, {
+    "identifier": "minecraft:abandoned_camp/trees/birch_bees",
+    "elements": [{
       "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/group_full_4",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
+        "type": "feature",
+        "feature": "minecraft:birch_tree_with_optional_beehive_feature"
       },
       "weight": 1
-    }, {
+    }],
+    "fallback": "minecraft:empty"
+  }, {
+    "identifier": "minecraft:abandoned_camp/trees/cherry",
+    "elements": [{
       "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/group_full_5",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
+        "type": "feature",
+        "feature": "minecraft:cherry_tree_feature"
       },
       "weight": 1
-    }, {
+    }],
+    "fallback": "minecraft:empty"
+  }, {
+    "identifier": "minecraft:abandoned_camp/trees/cherry_bees",
+    "elements": [{
       "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/group_lower_1",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
+        "type": "feature",
+        "feature": "minecraft:cherry_tree_with_beehive_feature"
       },
       "weight": 1
-    }, {
+    }],
+    "fallback": "minecraft:empty"
+  }, {
+    "identifier": "minecraft:abandoned_camp/trees/fancy_oak",
+    "elements": [{
       "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/group_lower_2",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
+        "type": "feature",
+        "feature": "minecraft:fancy_oak_tree_feature"
       },
       "weight": 1
-    }, {
+    }],
+    "fallback": "minecraft:empty"
+  }, {
+    "identifier": "minecraft:abandoned_camp/trees/fancy_oak_bees",
+    "elements": [{
       "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/group_lower_3",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
+        "type": "feature",
+        "feature": "minecraft:fancy_oak_tree_with_optional_beehive_feature"
       },
       "weight": 1
-    }, {
+    }],
+    "fallback": "minecraft:empty"
+  }, {
+    "identifier": "minecraft:abandoned_camp/trees/jungle",
+    "elements": [{
       "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/group_lower_4",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
+        "type": "feature",
+        "feature": "minecraft:jungle_tree_feature"
       },
       "weight": 1
-    }, {
+    }],
+    "fallback": "minecraft:empty"
+  }, {
+    "identifier": "minecraft:abandoned_camp/trees/mega_jungle",
+    "elements": [{
       "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/group_lower_5",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
+        "type": "feature",
+        "feature": "minecraft:mega_jungle_tree_feature"
       },
       "weight": 1
-    }, {
+    }],
+    "fallback": "minecraft:empty"
+  }, {
+    "identifier": "minecraft:abandoned_camp/trees/mega_pine",
+    "elements": [{
       "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/group_upper_1",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
+        "type": "feature",
+        "feature": "minecraft:mega_pine_tree_feature"
       },
       "weight": 1
-    }, {
+    }],
+    "fallback": "minecraft:empty"
+  }, {
+    "identifier": "minecraft:abandoned_camp/trees/oak",
+    "elements": [{
       "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/group_upper_2",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
+        "type": "feature",
+        "feature": "minecraft:oak_tree_feature"
       },
       "weight": 1
-    }, {
+    }],
+    "fallback": "minecraft:empty"
+  }, {
+    "identifier": "minecraft:abandoned_camp/trees/orange_poplar",
+    "elements": [{
       "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/group_upper_3",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
+        "type": "feature",
+        "feature": "minecraft:orange_poplar_tree_feature"
       },
       "weight": 1
-    }, {
+    }],
+    "fallback": "minecraft:empty"
+  }, {
+    "identifier": "minecraft:abandoned_camp/trees/pale_oak",
+    "elements": [{
       "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/group_upper_4",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
+        "type": "feature",
+        "feature": "minecraft:pale_oak_tree_feature"
       },
       "weight": 1
-    }, {
+    }],
+    "fallback": "minecraft:empty"
+  }, {
+    "identifier": "minecraft:abandoned_camp/trees/pine",
+    "elements": [{
       "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/group_upper_5",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
+        "type": "feature",
+        "feature": "minecraft:pine_tree_feature"
       },
       "weight": 1
-    }, {
+    }],
+    "fallback": "minecraft:empty"
+  }, {
+    "identifier": "minecraft:abandoned_camp/trees/red_poplar",
+    "elements": [{
       "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/group_room_1",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
+        "type": "feature",
+        "feature": "minecraft:red_poplar_tree_feature"
       },
       "weight": 1
-    }, {
+    }],
+    "fallback": "minecraft:empty"
+  }, {
+    "identifier": "minecraft:abandoned_camp/trees/spruce",
+    "elements": [{
       "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/group_room_2",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
+        "type": "feature",
+        "feature": "minecraft:spruce_tree_feature"
       },
       "weight": 1
-    }, {
+    }],
+    "fallback": "minecraft:empty"
+  }, {
+    "identifier": "minecraft:abandoned_camp/trees/spruce_on_snow",
+    "elements": [{
       "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/group_room_3",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
+        "type": "feature",
+        "feature": "minecraft:pine_tree_feature"
       },
       "weight": 1
-    }, {
+    }],
+    "fallback": "minecraft:empty"
+  }, {
+    "identifier": "minecraft:abandoned_camp/trees/super_birch_bees",
+    "elements": [{
       "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/group_room_4",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
+        "type": "feature",
+        "feature": "minecraft:super_birch_tree_feature"
       },
       "weight": 1
-    }, {
+    }],
+    "fallback": "minecraft:empty"
+  }, {
+    "identifier": "minecraft:abandoned_camp/trees/thick_spruce",
+    "elements": [{
       "element": {
-        "type": "single",
-        "location": "trail_ruins/buildings/group_room_5",
-        "processors": "minecraft:trail_ruins_houses_archaeology",
-        "projection": 0
+        "type": "feature",
+        "feature": "minecraft:mega_spruce_tree_feature"
+      },
+      "weight": 1
+    }],
+    "fallback": "minecraft:empty"
+  }, {
+    "identifier": "minecraft:abandoned_camp/trees/yellow_poplar",
+    "elements": [{
+      "element": {
+        "type": "feature",
+        "feature": "minecraft:yellow_poplar_tree_feature"
       },
       "weight": 1
     }],
@@ -9456,6 +9292,170 @@
         "type": "single",
         "location": "trail_ruins/tower/tower_top_5",
         "processors": "minecraft:trail_ruins_tower_top_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }],
+    "fallback": "minecraft:empty"
+  }, {
+    "identifier": "minecraft:trail_ruins/buildings/grouped",
+    "elements": [{
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/group_full_1",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/group_full_2",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/group_full_3",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/group_full_4",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/group_full_5",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/group_lower_1",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/group_lower_2",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/group_lower_3",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/group_lower_4",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/group_lower_5",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/group_upper_1",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/group_upper_2",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/group_upper_3",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/group_upper_4",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/group_upper_5",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/group_room_1",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/group_room_2",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/group_room_3",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/group_room_4",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
+        "projection": 0
+      },
+      "weight": 1
+    }, {
+      "element": {
+        "type": "single",
+        "location": "trail_ruins/buildings/group_room_5",
+        "processors": "minecraft:trail_ruins_houses_archaeology",
         "projection": 0
       },
       "weight": 1
