@@ -2261,13 +2261,13 @@
     "thickness": 0,
     "translucency": 0,
     "light_emission": 0,
-    "requires_correct_tool_for_drops": false,
+    "requires_correct_tool_for_drops": true,
     "tint_method": "none",
     "material_type": 23,
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_pickaxe_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1525,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.75f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1525,material:'solid'},molangVersion:13,menu_category:{group:'',category:'construction',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.75f},'minecraft:destruction_particles':{particle_count:100,texture:'',tint_method:'none'}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
   }, {
     "name": "minecraft:calcite_slab",
     "id": 1522,
@@ -2303,13 +2303,13 @@
     "thickness": 0,
     "translucency": 0.8,
     "light_emission": 0,
-    "requires_correct_tool_for_drops": false,
+    "requires_correct_tool_for_drops": true,
     "tint_method": "none",
     "material_type": 23,
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_pickaxe_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1524,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.75f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1524,material:'solid'},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.75f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
   }, {
     "name": "minecraft:calibrated_sculk_sensor",
     "id": 835,
@@ -13484,13 +13484,13 @@
     "thickness": 0,
     "translucency": 0.8,
     "light_emission": 0,
-    "requires_correct_tool_for_drops": false,
+    "requires_correct_tool_for_drops": true,
     "tint_method": "none",
     "material_type": 23,
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_pickaxe_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1534,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.75f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1534,material:'solid'},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.75f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
   }, {
     "name": "minecraft:polished_calcite_bricks",
     "id": 1535,
@@ -13554,13 +13554,13 @@
     "thickness": 0,
     "translucency": 0.8,
     "light_emission": 0,
-    "requires_correct_tool_for_drops": false,
+    "requires_correct_tool_for_drops": true,
     "tint_method": "none",
     "material_type": 23,
     "signal_source": false,
     "consumer_component": false,
     "tags": ["minecraft:is_pickaxe_item_destructible"],
-    "definition": "{vanilla_block_data:{block_id:1529,material:'solid',requires_correct_tool_for_drops:1b},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.75f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
+    "definition": "{vanilla_block_data:{block_id:1529,material:'solid'},molangVersion:13,menu_category:{group:'',category:'none',is_hidden_in_commands:0b},components:{'minecraft:destructible_by_mining':{value:0.75f},'minecraft:destruction_particles':{particle_count:48,texture:'',tint_method:'none'},'minecraft:liquid_detection':{detectionRules:[{canContainLiquid:1b,liquidType:'water',onLiquidTouches:'blocking',stopsLiquidFromDirection:0b,use_liquid_clipping:0b}]}},blockTags:['minecraft:is_pickaxe_item_destructible']}"
   }, {
     "name": "minecraft:polished_cinnabar",
     "id": 1369,
